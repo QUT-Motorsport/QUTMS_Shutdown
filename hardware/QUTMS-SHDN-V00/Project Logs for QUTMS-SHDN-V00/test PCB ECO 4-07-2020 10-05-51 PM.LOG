@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=SEG IN1 Pin=J2H-1
+Removed Pin From Net: NetName=SEG IN1 Pin=J3-1
+Removed Pin From Net: NetName=SEG IN1 Pin=R7-1
+Removed Pin From Net: NetName=SEG IN1 Pin=R11H-2
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Pin To Net: NetName=SEG IN1 Pin=R?-2
+Change Net Name : Old Net Name=SEG IN1 New Net Name=12
+Added Pin To Net: NetName=SEG IN1 Pin=J2H-1
+Added Pin To Net: NetName=SEG IN1 Pin=J3-1
+Added Pin To Net: NetName=SEG IN1 Pin=R7-1
+Added Pin To Net: NetName=SEG IN1 Pin=R11H-2
+Added Pin To Net: NetName=SEG IN1 Pin=R?-1
+Added Net: Name=SEG IN1
+Added Member To Class: ClassName=SHDN-S02-V00-ShutdownSegments Member=Component R? 0R

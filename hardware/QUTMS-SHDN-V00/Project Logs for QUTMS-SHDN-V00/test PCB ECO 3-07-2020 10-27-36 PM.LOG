@@ -1,0 +1,671 @@
+Added Component: Designator=B1(PS1240P02BT)
+Added Component: Designator=C1(Cap_Ceramic_0603)
+Added Component: Designator=C2(Cap_Ceramic_0603)
+Added Component: Designator=C3(Cap_Ceramic_0603)
+Added Component: Designator=C4(Cap_Ceramic_0603)
+Added Component: Designator=C5(Cap_Ceramic_0603)
+Added Component: Designator=C6(Cap_Ceramic_0603)
+Added Component: Designator=C7(Cap_Ceramic_0603)
+Added Component: Designator=C8(Cap_Ceramic_0603)
+Added Component: Designator=C9(Cap_Ceramic_0603)
+Added Component: Designator=C10(Cap_Ceramic_0603)
+Added Component: Designator=C11(Cap_Ceramic_0603)
+Added Component: Designator=C12(Cap_Ceramic_0603)
+Added Component: Designator=C13(CAP_ALU_10x10mm)
+Added Component: Designator=C14(Cap_Ceramic_0603)
+Added Component: Designator=C15(Cap_Ceramic_0603)
+Added Component: Designator=C16(Cap_Ceramic_0603)
+Added Component: Designator=C17(Cap_Ceramic_0603)
+Added Component: Designator=D1(NUP2105L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.cn/PowerSolutions/document/NUP2105L-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://lcsc.com/product-detail/TVS_ON-Semiconductor-NUP2105LT1G_C14486.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.digikey.com.au/product-detail/en/on-semiconductor/SZNUP2105LT1G/SZNUP2105LT1GOSCT-ND/3487669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(SMA)
+Added Component: Designator=D3(SMA)
+Added Component: Designator=DS1(LED ORANGE 0603)
+Added Component: Designator=DS2(LED ORANGE 0603)
+Added Component: Designator=DS3(LED BLUE 0603)
+Added Component: Designator=DS4(LED BLUE 0603)
+Added Component: Designator=DS5(LED ORANGE 0603)
+Added Component: Designator=DS6(LED ORANGE 0603)
+Added Component: Designator=DS7(LED ORANGE 0603)
+Added Component: Designator=DS8(LED ORANGE 0603)
+Added Component: Designator=DS9(LED ORANGE 0603)
+Added Component: Designator=DS10(LED ORANGE 0603)
+Added Component: Designator=DS11(LED ORANGE 0603)
+Added Component: Designator=DS12(LED ORANGE 0603)
+Added Component: Designator=DS13(LED ORANGE 0603)
+Added Component: Designator=FID1(FIDUCIAL 1MM)
+Added Component: Designator=FID2(FIDUCIAL 1MM)
+Added Component: Designator=FID3(FIDUCIAL 1MM)
+Added Component: Designator=FID4(FIDUCIAL 1MM)
+Added Component: Designator=J1(IDC 1.27MM 10P)
+Added Component: Designator=J2A(Jumper_2Way_Pin)
+Added Component: Designator=J2B(Jumper_2Way_Pin)
+Added Component: Designator=J2C(Jumper_2Way_Pin)
+Added Component: Designator=J2D(Jumper_2Way_Pin)
+Added Component: Designator=J2E(Jumper_2Way_Pin)
+Added Component: Designator=J2F(Jumper_2Way_Pin)
+Added Component: Designator=J2G(Jumper_2Way_Pin)
+Added Component: Designator=J2H(Jumper_2Way_Pin)
+Added Component: Designator=J3(SUPERSEAL RIGHT 26WAY)
+Added Component: Designator=J4(Jumper_2Way_Pin)
+Added Component: Designator=J5(Jumper_2Way_Pin)
+Added Component: Designator=J6(Jumper_2Way_Pin)
+Added Component: Designator=J7(Jumper_2Way_Pin)
+Added Component: Designator=J8(Jumper_2Way_Pin)
+Added Component: Designator=K1(G5V-2)
+Added Component: Designator=K2(CPC1014N)
+Added Component: Designator=L1(Inductor_6x6mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/w%C3%BCrth-elektronik/74404064221/732-7261-1-ND/5353241"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LCSC A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://lcsc.com/product-detail/Power-Inductors_Sunlord-SWPA6045S221MT_C91047.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "LCSC B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://lcsc.com/product-detail/Power-Inductors_SXN-Shun-Xiang-Nuo-Elec-SMNR6045-221MT_C467145.html"; VariantName = "[No Variations]"
+Added Component: Designator=LOGO1(QUTMS LOGO 30MM)
+Added Component: Designator=LYID1(LAYER IDENT 2)
+Added Component: Designator=P1(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT23-3)
+Added Component: Designator=Q2(SOT23-3)
+Added Component: Designator=Q3(SOT23-3)
+Added Component: Designator=Q4(SOT23-3)
+Added Component: Designator=Q5(SOT23-3)
+Added Component: Designator=R1(Res_ThinFilm_0603)
+Added Component: Designator=R2(Res_ThinFilm_0603)
+Added Component: Designator=R3(Res_ThinFilm_0603)
+Added Component: Designator=R4(Res_ThinFilm_0603)
+Added Component: Designator=R5(Res_ThinFilm_0603)
+Added Component: Designator=R6(Res_ThinFilm_0603)
+Added Component: Designator=R7A(Res_ThinFilm_0603)
+Added Component: Designator=R7B(Res_ThinFilm_0603)
+Added Component: Designator=R7C(Res_ThinFilm_0603)
+Added Component: Designator=R7D(Res_ThinFilm_0603)
+Added Component: Designator=R7E(Res_ThinFilm_0603)
+Added Component: Designator=R7F(Res_ThinFilm_0603)
+Added Component: Designator=R7G(Res_ThinFilm_0603)
+Added Component: Designator=R7H(Res_ThinFilm_0603)
+Added Component: Designator=R8(Res_ThinFilm_0603)
+Added Component: Designator=R9(Res_ThinFilm_0603)
+Added Component: Designator=R10(Res_ThinFilm_1210)
+Added Component: Designator=R11A(Res_ThinFilm_0603)
+Added Component: Designator=R11B(Res_ThinFilm_0603)
+Added Component: Designator=R11C(Res_ThinFilm_0603)
+Added Component: Designator=R11D(Res_ThinFilm_0603)
+Added Component: Designator=R11E(Res_ThinFilm_0603)
+Added Component: Designator=R11F(Res_ThinFilm_0603)
+Added Component: Designator=R11G(Res_ThinFilm_0603)
+Added Component: Designator=R11H(Res_ThinFilm_0603)
+Added Component: Designator=R12A(Res_ThinFilm_0603)
+Added Component: Designator=R12B(Res_ThinFilm_0603)
+Added Component: Designator=R12C(Res_ThinFilm_0603)
+Added Component: Designator=R12D(Res_ThinFilm_0603)
+Added Component: Designator=R12E(Res_ThinFilm_0603)
+Added Component: Designator=R12F(Res_ThinFilm_0603)
+Added Component: Designator=R12G(Res_ThinFilm_0603)
+Added Component: Designator=R12H(Res_ThinFilm_0603)
+Added Component: Designator=R13(Res_ThinFilm_0603)
+Added Component: Designator=R14(Res_ThinFilm_0603)
+Added Component: Designator=R15(Res_ThinFilm_0603)
+Added Component: Designator=R16(Res_ThinFilm_0603)
+Added Component: Designator=R17(Res_ThinFilm_0603)
+Added Component: Designator=R18(Res_ThinFilm_0603)
+Added Component: Designator=R19(Res_ThinFilm_0603)
+Added Component: Designator=R20(Res_ThinFilm_0603)
+Added Component: Designator=R21(Res_ThinFilm_0603)
+Added Component: Designator=R22(Res_ThinFilm_0603)
+Added Component: Designator=R23(Res_ThinFilm_0603)
+Added Component: Designator=R24(Res_ThinFilm_0603)
+Added Component: Designator=R25(Res_ThinFilm_0603)
+Added Component: Designator=R26(Res_ThinFilm_0603)
+Added Component: Designator=R27(Res_ThinFilm_0603)
+Added Component: Designator=SW1(BTN B3U-1000P)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Tactile-Switches_BRIGHT-TSA063G50-250_C294565.html"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TestPointSMD)
+Added Component: Designator=TP2(TestPointSMD)
+Added Component: Designator=TP3(TestPointSMD)
+Added Component: Designator=TP4(TestPointSMD)
+Added Component: Designator=TP5(TestPointSMD)
+Added Component: Designator=TP6(TestPointSMD)
+Added Component: Designator=TP7(TestPointSMD)
+Added Component: Designator=TP8(TestPointSMD)
+Added Component: Designator=TP9(TestPointSMD)
+Added Component: Designator=U1(STM32F042C6)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/stmicroelectronics/STM32F042C6T6TR/497-19319-1-ND/10063344"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.st.com/resource/en/datasheet/stm32f042k6.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=U2(DSC1001DI1-008.0000TCT-ND)
+Added Component: Designator=U3(TSSOP-24)
+Added Component: Designator=U4(SOIC-8)
+Added Component: Designator=U5(Si8621BC-B-IS)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/silicon-labs/SI8621BC-B-ISR/336-4774-1-ND/8611005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.silabs.com/documents/public/data-sheets/si861x-2x-datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=U6(SN65HVD233DR)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/CAN-ICs_Texas-Instruments_SN65HVD233DRG4_Texas-Instruments-Texas-Instruments-SN65HVD233DRG4_C61643.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com.au/product-detail/en/texas-instruments/SN65HVD233DR/296-35967-1-ND/4134960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.ti.com/lit/ds/symlink/sn65hvd233.pdf?ts=1588560888178"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Ti Product Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.ti.com/product/SN65HVD233"; VariantName = "[No Variations]"
+Added Component: Designator=U7(LMR14010)
+Added Component: Designator=Z1(LogicAnalyzer)
+Added Pin To Net: NetName=BUZZER POS Pin=B1-1
+Added Pin To Net: NetName=BUZZER NEG Pin=B1-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=3V3 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=3V3 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=3V3 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=3V3 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=3V3 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NRST Pin=C8-2
+Added Pin To Net: NetName=ISO GND Pin=C9-1
+Added Pin To Net: NetName=ISO 3V3 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=3V3 Pin=C10-2
+Added Pin To Net: NetName=ISO GND Pin=C11-1
+Added Pin To Net: NetName=ISO 3V3 Pin=C11-2
+Added Pin To Net: NetName=PWR CB Pin=C12-1
+Added Pin To Net: NetName=PWR SW Pin=C12-2
+Added Pin To Net: NetName=SEG IN1 Pin=C13-A
+Added Pin To Net: NetName=GND Pin=C13-K
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=3V3 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=3V3 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=SEG IN1 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=3V3 Pin=C17-2
+Added Pin To Net: NetName=CAN L Pin=D1-1
+Added Pin To Net: NetName=CAN H Pin=D1-2
+Added Pin To Net: NetName=ISO GND Pin=D1-3
+Added Pin To Net: NetName=NetDS1_1 Pin=DS1-1
+Added Pin To Net: NetName=LED0 Pin=DS1-2
+Added Pin To Net: NetName=NetDS2_1 Pin=DS2-1
+Added Pin To Net: NetName=LED1 Pin=DS2-2
+Added Pin To Net: NetName=CAN LED Pin=DS3-1
+Added Pin To Net: NetName=CAN TX LED Pin=DS3-2
+Added Pin To Net: NetName=CAN LED Pin=DS4-1
+Added Pin To Net: NetName=CAN RX LED Pin=DS4-2
+Added Pin To Net: NetName=NetDS5_1 Pin=DS5-1
+Added Pin To Net: NetName=LED4 Pin=DS5-2
+Added Pin To Net: NetName=NetDS6_1 Pin=DS6-1
+Added Pin To Net: NetName=LED5 Pin=DS6-2
+Added Pin To Net: NetName=NetDS7_1 Pin=DS7-1
+Added Pin To Net: NetName=LED2 Pin=DS7-2
+Added Pin To Net: NetName=NetDS8_1 Pin=DS8-1
+Added Pin To Net: NetName=LED6 Pin=DS8-2
+Added Pin To Net: NetName=NetDS9_1 Pin=DS9-1
+Added Pin To Net: NetName=LED3 Pin=DS9-2
+Added Pin To Net: NetName=NetDS10_1 Pin=DS10-1
+Added Pin To Net: NetName=LED7 Pin=DS10-2
+Added Pin To Net: NetName=SHDN LED A Pin=DS11-1
+Added Pin To Net: NetName=GND Pin=DS11-2
+Added Pin To Net: NetName=SHDN LED B Pin=DS12-1
+Added Pin To Net: NetName=GND Pin=DS12-2
+Added Pin To Net: NetName=LR LED Pin=DS13-1
+Added Pin To Net: NetName=GND Pin=DS13-2
+Added Pin To Net: NetName=3V3 Pin=J1-1
+Added Pin To Net: NetName=SWDIO Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=SWCLK Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=PROG A Pin=J1-6
+Added Pin To Net: NetName=PROG B Pin=J1-7
+Added Pin To Net: NetName=PROG C Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=NRST Pin=J1-10
+Added Pin To Net: NetName=SEG IN8 Pin=J2A-1
+Added Pin To Net: NetName=SEG IN9 Pin=J2A-2
+Added Pin To Net: NetName=SEG IN7 Pin=J2B-1
+Added Pin To Net: NetName=SEG IN8 Pin=J2B-2
+Added Pin To Net: NetName=SEG IN6 Pin=J2C-1
+Added Pin To Net: NetName=SEG IN7 Pin=J2C-2
+Added Pin To Net: NetName=SEG IN5 Pin=J2D-1
+Added Pin To Net: NetName=SEG IN6 Pin=J2D-2
+Added Pin To Net: NetName=SEG IN4 Pin=J2E-1
+Added Pin To Net: NetName=SEG IN5 Pin=J2E-2
+Added Pin To Net: NetName=SEG IN3 Pin=J2F-1
+Added Pin To Net: NetName=SEG IN4 Pin=J2F-2
+Added Pin To Net: NetName=SEG IN2 Pin=J2G-1
+Added Pin To Net: NetName=SEG IN3 Pin=J2G-2
+Added Pin To Net: NetName=SEG IN1 Pin=J2H-1
+Added Pin To Net: NetName=SEG IN2 Pin=J2H-2
+Added Pin To Net: NetName=CAN H Pin=J3-6
+Added Pin To Net: NetName=CAN L Pin=J3-7
+Added Pin To Net: NetName=CHAIN OUT INV Pin=J3-12
+Added Pin To Net: NetName=CHAIN OUT Pin=J3-13
+Added Pin To Net: NetName=LATCH RESET Pin=J3-18
+Added Pin To Net: NetName=CHAIN IN Pin=J3-19
+Added Pin To Net: NetName=GND Pin=J3-24
+Added Pin To Net: NetName=GND Pin=J3-25
+Added Pin To Net: NetName=SEG IN1 Pin=J3-26
+Added Pin To Net: NetName=3V3 Pin=J4-1
+Added Pin To Net: NetName=CAN LED Pin=J4-2
+Added Pin To Net: NetName=CAN H Pin=J5-1
+Added Pin To Net: NetName=CAN TERM Pin=J5-2
+Added Pin To Net: NetName=ISO 3V3 Pin=J6-1
+Added Pin To Net: NetName=CAN LBK Pin=J6-2
+Added Pin To Net: NetName=3V3 Pin=J7-1
+Added Pin To Net: NetName=BUZZER POS Pin=J7-2
+Added Pin To Net: NetName=SEG IN9 Pin=J8-1
+Added Pin To Net: NetName=RELAY POS Pin=J8-2
+Added Pin To Net: NetName=RELAY POS Pin=K1-1
+Added Pin To Net: NetName=SEG IN9 Pin=K1-4
+Added Pin To Net: NetName=NetK1_6 Pin=K1-6
+Added Pin To Net: NetName=RELAY POS Pin=K1-8
+Added Pin To Net: NetName=CHAIN OUT Pin=K1-9
+Added Pin To Net: NetName=CHAIN OUT INV Pin=K1-11
+Added Pin To Net: NetName=CHAIN IN Pin=K1-13
+Added Pin To Net: NetName=LR SSR A Pin=K2-1
+Added Pin To Net: NetName=LR SSR K Pin=K2-2
+Added Pin To Net: NetName=RELAY POS Pin=K2-3
+Added Pin To Net: NetName=SEG IN9 Pin=K2-4
+Added Pin To Net: NetName=PWR SW Pin=L1-1
+Added Pin To Net: NetName=3V3 Pin=L1-2
+Added Pin To Net: NetName=USART1 TX Pin=P1-1
+Added Pin To Net: NetName=USART1 RX Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=MUX HV1 Pin=Q1-D
+Added Pin To Net: NetName=GND Pin=Q1-S
+Added Pin To Net: NetName=MUX HV2 Pin=Q2-D
+Added Pin To Net: NetName=GND Pin=Q2-S
+Added Pin To Net: NetName=MUX HV3 Pin=Q3-D
+Added Pin To Net: NetName=MUX3 Pin=Q3-G
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=BUZZER NEG Pin=Q4-D
+Added Pin To Net: NetName=BUZZER MOS Pin=Q4-G
+Added Pin To Net: NetName=GND Pin=Q4-S
+Added Pin To Net: NetName=LR SSR K Pin=Q5-D
+Added Pin To Net: NetName=LR MOS Pin=Q5-G
+Added Pin To Net: NetName=GND Pin=Q5-S
+Added Pin To Net: NetName=MUX HV1 Pin=R1-1
+Added Pin To Net: NetName=SEG IN1 Pin=R1-2
+Added Pin To Net: NetName=MUX HV2 Pin=R2-1
+Added Pin To Net: NetName=SEG IN1 Pin=R2-2
+Added Pin To Net: NetName=NRST Pin=R3-1
+Added Pin To Net: NetName=3V3 Pin=R3-2
+Added Pin To Net: NetName=NetDS1_1 Pin=R4-1
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=NetDS2_1 Pin=R5-1
+Added Pin To Net: NetName=3V3 Pin=R5-2
+Added Pin To Net: NetName=MUX HV3 Pin=R6-1
+Added Pin To Net: NetName=SEG IN1 Pin=R6-2
+Added Pin To Net: NetName=SEG IN8 Pin=R7A-1
+Added Pin To Net: NetName=SEG SENSE8 Pin=R7A-2
+Added Pin To Net: NetName=SEG IN7 Pin=R7B-1
+Added Pin To Net: NetName=SEG SENSE7 Pin=R7B-2
+Added Pin To Net: NetName=SEG IN6 Pin=R7C-1
+Added Pin To Net: NetName=SEG SENSE6 Pin=R7C-2
+Added Pin To Net: NetName=SEG IN5 Pin=R7D-1
+Added Pin To Net: NetName=SEG SENSE5 Pin=R7D-2
+Added Pin To Net: NetName=SEG IN4 Pin=R7E-1
+Added Pin To Net: NetName=SEG SENSE4 Pin=R7E-2
+Added Pin To Net: NetName=SEG IN3 Pin=R7F-1
+Added Pin To Net: NetName=SEG SENSE3 Pin=R7F-2
+Added Pin To Net: NetName=SEG IN2 Pin=R7G-1
+Added Pin To Net: NetName=SEG SENSE2 Pin=R7G-2
+Added Pin To Net: NetName=SEG IN1 Pin=R7H-1
+Added Pin To Net: NetName=SEG SENSE1 Pin=R7H-2
+Added Pin To Net: NetName=CAN TX Pin=R8-1
+Added Pin To Net: NetName=CAN TX LED Pin=R8-2
+Added Pin To Net: NetName=CAN RX Pin=R9-1
+Added Pin To Net: NetName=CAN RX LED Pin=R9-2
+Added Pin To Net: NetName=CAN L Pin=R10-1
+Added Pin To Net: NetName=CAN TERM Pin=R10-2
+Added Pin To Net: NetName=SEG IN9 Pin=R11A-1
+Added Pin To Net: NetName=SEG IN8 Pin=R11A-2
+Added Pin To Net: NetName=SEG IN8 Pin=R11B-1
+Added Pin To Net: NetName=SEG IN7 Pin=R11B-2
+Added Pin To Net: NetName=SEG IN7 Pin=R11C-1
+Added Pin To Net: NetName=SEG IN6 Pin=R11C-2
+Added Pin To Net: NetName=SEG IN6 Pin=R11D-1
+Added Pin To Net: NetName=SEG IN5 Pin=R11D-2
+Added Pin To Net: NetName=SEG IN5 Pin=R11E-1
+Added Pin To Net: NetName=SEG IN4 Pin=R11E-2
+Added Pin To Net: NetName=SEG IN4 Pin=R11F-1
+Added Pin To Net: NetName=SEG IN3 Pin=R11F-2
+Added Pin To Net: NetName=SEG IN3 Pin=R11G-1
+Added Pin To Net: NetName=SEG IN2 Pin=R11G-2
+Added Pin To Net: NetName=SEG IN2 Pin=R11H-1
+Added Pin To Net: NetName=SEG IN1 Pin=R11H-2
+Added Pin To Net: NetName=SEG IN9 Pin=R12A-1
+Added Pin To Net: NetName=SEG SENSE9 Pin=R12A-2
+Added Pin To Net: NetName=SEG IN8 Pin=R12B-1
+Added Pin To Net: NetName=SEG SENSE8 Pin=R12B-2
+Added Pin To Net: NetName=SEG IN7 Pin=R12C-1
+Added Pin To Net: NetName=SEG SENSE7 Pin=R12C-2
+Added Pin To Net: NetName=SEG IN6 Pin=R12D-1
+Added Pin To Net: NetName=SEG SENSE6 Pin=R12D-2
+Added Pin To Net: NetName=SEG IN5 Pin=R12E-1
+Added Pin To Net: NetName=SEG SENSE5 Pin=R12E-2
+Added Pin To Net: NetName=SEG IN4 Pin=R12F-1
+Added Pin To Net: NetName=SEG SENSE4 Pin=R12F-2
+Added Pin To Net: NetName=SEG IN3 Pin=R12G-1
+Added Pin To Net: NetName=SEG SENSE3 Pin=R12G-2
+Added Pin To Net: NetName=SEG IN2 Pin=R12H-1
+Added Pin To Net: NetName=SEG SENSE2 Pin=R12H-2
+Added Pin To Net: NetName=PWR FB Pin=R13-1
+Added Pin To Net: NetName=3V3 Pin=R13-2
+Added Pin To Net: NetName=NetDS5_1 Pin=R14-1
+Added Pin To Net: NetName=3V3 Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=PWR FB Pin=R15-2
+Added Pin To Net: NetName=NetDS6_1 Pin=R16-1
+Added Pin To Net: NetName=3V3 Pin=R16-2
+Added Pin To Net: NetName=NetDS7_1 Pin=R17-1
+Added Pin To Net: NetName=3V3 Pin=R17-2
+Added Pin To Net: NetName=NetDS8_1 Pin=R18-1
+Added Pin To Net: NetName=3V3 Pin=R18-2
+Added Pin To Net: NetName=NetDS9_1 Pin=R19-1
+Added Pin To Net: NetName=3V3 Pin=R19-2
+Added Pin To Net: NetName=NetDS10_1 Pin=R20-1
+Added Pin To Net: NetName=3V3 Pin=R20-2
+Added Pin To Net: NetName=BUZZER NEG Pin=R21-1
+Added Pin To Net: NetName=BUZZER POS Pin=R21-2
+Added Pin To Net: NetName=BUZZER MOS Pin=R22-1
+Added Pin To Net: NetName=BUZZER Pin=R22-2
+Added Pin To Net: NetName=SHDN LED A Pin=R23-1
+Added Pin To Net: NetName=RELAY POS Pin=R23-2
+Added Pin To Net: NetName=SHDN LED B Pin=R24-1
+Added Pin To Net: NetName=NetK1_6 Pin=R24-2
+Added Pin To Net: NetName=3V3 Pin=R25-1
+Added Pin To Net: NetName=LR SSR A Pin=R25-2
+Added Pin To Net: NetName=LATCH RESET Pin=R26-1
+Added Pin To Net: NetName=LR MOS Pin=R26-2
+Added Pin To Net: NetName=LR LED Pin=R27-1
+Added Pin To Net: NetName=LATCH RESET Pin=R27-2
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=NRST Pin=SW1-2
+Added Pin To Net: NetName=CAN H Pin=TP1-1
+Added Pin To Net: NetName=ISO CAN TX Pin=TP2-1
+Added Pin To Net: NetName=CAN TX Pin=TP3-1
+Added Pin To Net: NetName=CAN L Pin=TP4-1
+Added Pin To Net: NetName=ISO CAN RX Pin=TP5-1
+Added Pin To Net: NetName=CAN RX Pin=TP6-1
+Added Pin To Net: NetName=3V3 Pin=TP7-1
+Added Pin To Net: NetName=PWR SW Pin=TP8-1
+Added Pin To Net: NetName=PWR FB Pin=TP9-1
+Added Pin To Net: NetName=3V3 Pin=U1-1
+Added Pin To Net: NetName=PC13 Pin=U1-2
+Added Pin To Net: NetName=PC14 Pin=U1-3
+Added Pin To Net: NetName=PC15 Pin=U1-4
+Added Pin To Net: NetName=OSC IN Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=NRST Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=3V3 Pin=U1-9
+Added Pin To Net: NetName=SEG SENSE Pin=U1-10
+Added Pin To Net: NetName=PA1 Pin=U1-11
+Added Pin To Net: NetName=PA2 Pin=U1-12
+Added Pin To Net: NetName=PA3 Pin=U1-13
+Added Pin To Net: NetName=PA4 Pin=U1-14
+Added Pin To Net: NetName=PA5 Pin=U1-15
+Added Pin To Net: NetName=PA6 Pin=U1-16
+Added Pin To Net: NetName=PA7 Pin=U1-17
+Added Pin To Net: NetName=BUZZER Pin=U1-18
+Added Pin To Net: NetName=PB1 Pin=U1-19
+Added Pin To Net: NetName=PB2 Pin=U1-20
+Added Pin To Net: NetName=LED5 Pin=U1-21
+Added Pin To Net: NetName=LED4 Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=3V3 Pin=U1-24
+Added Pin To Net: NetName=LED3 Pin=U1-25
+Added Pin To Net: NetName=LED2 Pin=U1-26
+Added Pin To Net: NetName=LED1 Pin=U1-27
+Added Pin To Net: NetName=LED0 Pin=U1-28
+Added Pin To Net: NetName=PA8 Pin=U1-29
+Added Pin To Net: NetName=USART1 TX Pin=U1-30
+Added Pin To Net: NetName=USART1 RX Pin=U1-31
+Added Pin To Net: NetName=CAN RX Pin=U1-32
+Added Pin To Net: NetName=CAN TX Pin=U1-33
+Added Pin To Net: NetName=SWDIO Pin=U1-34
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=3V3 Pin=U1-36
+Added Pin To Net: NetName=SWCLK Pin=U1-37
+Added Pin To Net: NetName=PA15 Pin=U1-38
+Added Pin To Net: NetName=PB3 Pin=U1-39
+Added Pin To Net: NetName=PB4 Pin=U1-40
+Added Pin To Net: NetName=MUX1 Pin=U1-41
+Added Pin To Net: NetName=MUX2 Pin=U1-42
+Added Pin To Net: NetName=PF11 Pin=U1-44
+Added Pin To Net: NetName=LED7 Pin=U1-45
+Added Pin To Net: NetName=LED6 Pin=U1-46
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=3V3 Pin=U1-48
+Added Pin To Net: NetName=3V3 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=OSC IN Pin=U2-3
+Added Pin To Net: NetName=3V3 Pin=U2-4
+Added Pin To Net: NetName=COMMON X Pin=U3-1
+Added Pin To Net: NetName=SEG SENSE8 Pin=U3-2
+Added Pin To Net: NetName=SEG SENSE7 Pin=U3-3
+Added Pin To Net: NetName=SEG SENSE6 Pin=U3-4
+Added Pin To Net: NetName=SEG SENSE5 Pin=U3-5
+Added Pin To Net: NetName=SEG SENSE4 Pin=U3-6
+Added Pin To Net: NetName=SEG SENSE3 Pin=U3-7
+Added Pin To Net: NetName=SEG SENSE2 Pin=U3-8
+Added Pin To Net: NetName=SEG SENSE1 Pin=U3-9
+Added Pin To Net: NetName=MUX HV1 Pin=U3-10
+Added Pin To Net: NetName=MUX HV2 Pin=U3-11
+Added Pin To Net: NetName=GND Pin=U3-12
+Added Pin To Net: NetName=GND Pin=U3-13
+Added Pin To Net: NetName=MUX HV3 Pin=U3-14
+Added Pin To Net: NetName=SEG SENSE9 Pin=U3-15
+Added Pin To Net: NetName=SEG SENSE8 Pin=U3-16
+Added Pin To Net: NetName=COMMON Y Pin=U3-17
+Added Pin To Net: NetName=SEG SENSE7 Pin=U3-18
+Added Pin To Net: NetName=SEG SENSE6 Pin=U3-19
+Added Pin To Net: NetName=SEG SENSE5 Pin=U3-20
+Added Pin To Net: NetName=SEG SENSE4 Pin=U3-21
+Added Pin To Net: NetName=SEG SENSE3 Pin=U3-22
+Added Pin To Net: NetName=SEG SENSE2 Pin=U3-23
+Added Pin To Net: NetName=SEG IN1 Pin=U3-24
+Added Pin To Net: NetName=SEG SENSE Pin=U4-1
+Added Pin To Net: NetName=COMMON Y Pin=U4-2
+Added Pin To Net: NetName=COMMON X Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=OP AMP TERM B Pin=U4-5
+Added Pin To Net: NetName=OP AMP TERM A Pin=U4-6
+Added Pin To Net: NetName=OP AMP TERM A Pin=U4-7
+Added Pin To Net: NetName=3V3 Pin=U4-8
+Added Pin To Net: NetName=3V3 Pin=U5-1
+Added Pin To Net: NetName=CAN TX Pin=U5-2
+Added Pin To Net: NetName=CAN RX Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=ISO GND Pin=U5-5
+Added Pin To Net: NetName=ISO CAN RX Pin=U5-6
+Added Pin To Net: NetName=ISO CAN TX Pin=U5-7
+Added Pin To Net: NetName=ISO 3V3 Pin=U5-8
+Added Pin To Net: NetName=ISO CAN TX Pin=U6-1
+Added Pin To Net: NetName=ISO GND Pin=U6-2
+Added Pin To Net: NetName=ISO 3V3 Pin=U6-3
+Added Pin To Net: NetName=ISO CAN RX Pin=U6-4
+Added Pin To Net: NetName=CAN LBK Pin=U6-5
+Added Pin To Net: NetName=CAN L Pin=U6-6
+Added Pin To Net: NetName=CAN H Pin=U6-7
+Added Pin To Net: NetName=ISO GND Pin=U6-8
+Added Pin To Net: NetName=PWR CB Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=PWR FB Pin=U7-3
+Added Pin To Net: NetName=SEG IN1 Pin=U7-4
+Added Pin To Net: NetName=SEG IN1 Pin=U7-5
+Added Pin To Net: NetName=PWR SW Pin=U7-6
+Added Pin To Net: NetName=USART1 TX Pin=Z1-1
+Added Pin To Net: NetName=USART1 RX Pin=Z1-2
+Added Pin To Net: NetName=CAN TX Pin=Z1-3
+Added Pin To Net: NetName=CAN RX Pin=Z1-4
+Added Pin To Net: NetName=MUX1 Pin=Z1-5
+Added Pin To Net: NetName=MUX2 Pin=Z1-6
+Added Pin To Net: NetName=SEG SENSE Pin=Z1-7
+Added Pin To Net: NetName=LED0 Pin=Z1-8
+Added Pin To Net: NetName=LOGIC CLK Pin=Z1-9
+Added Pin To Net: NetName=GND Pin=Z1-10
+Added Member To Class: ClassName=SHDN-S09-V00-Buzzer Member=Component B1 PS1240P02BT
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component C1 100nF
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component C2 4u7
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component C3 100nF
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component C4 4u7
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component C5 100nF
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component C6 4u7
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component C7 100nF
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component C8 100nF
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component C9 100nF
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component C10 100nF
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component C11 100nF
+Added Member To Class: ClassName=SHDN-S08-V00-PSU Member=Component C12 100nF 100V
+Added Member To Class: ClassName=SHDN-S08-V00-PSU Member=Component C13 47uF 80V 10% AluPoly 10x10mm
+Added Member To Class: ClassName=SHDN-S08-V00-PSU Member=Component C14 47uF 16V 1210
+Added Member To Class: ClassName=SHDN-S08-V00-PSU Member=Component C15 47uF 16V 1210
+Added Member To Class: ClassName=SHDN-S02-V00-ShutdownSegments Member=Component C16 100nF
+Added Member To Class: ClassName=SHDN-S02-V00-ShutdownSegments Member=Component C17 100nF
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component D1 NUP2105L
+Added Member To Class: ClassName=SHDN-S08-V00-PSU Member=Component D2 B260A-13-F
+Added Member To Class: ClassName=SHDN-S04-V00-ShutdownRelay Member=Component D3 B260A-13-F
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component DS1 LED Orange
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component DS2 LED Orange
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component DS3 LED Blue 0603
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component DS4 LED Blue 0603
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component DS5 LED Orange
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component DS6 LED Orange
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component DS7 LED Orange
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component DS8 LED Orange
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component DS9 LED Orange
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component DS10 LED Orange
+Added Member To Class: ClassName=SHDN-S04-V00-ShutdownRelay Member=Component DS11 LED Orange 0603
+Added Member To Class: ClassName=SHDN-S04-V00-ShutdownRelay Member=Component DS12 LED Orange 0603
+Added Member To Class: ClassName=SHDN-S04-V00-ShutdownRelay Member=Component DS13 LED Orange 0603
+Added Member To Class: ClassName=SHDN-S01-V00-ShutdownBoard Member=Component FID1 Fiducial 1MM
+Added Member To Class: ClassName=SHDN-S01-V00-ShutdownBoard Member=Component FID2 Fiducial 1MM
+Added Member To Class: ClassName=SHDN-S01-V00-ShutdownBoard Member=Component FID3 Fiducial 1MM
+Added Member To Class: ClassName=SHDN-S01-V00-ShutdownBoard Member=Component FID4 Fiducial 1MM
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component J1 IDC 10P 2x5 1.27mm
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment1 Member=Component J2A (J2) Jumper 2Way Pins
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment2 Member=Component J2B (J2) Jumper 2Way Pins
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment3 Member=Component J2C (J2) Jumper 2Way Pins
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment4 Member=Component J2D (J2) Jumper 2Way Pins
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment5 Member=Component J2E (J2) Jumper 2Way Pins
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment6 Member=Component J2F (J2) Jumper 2Way Pins
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment7 Member=Component J2G (J2) Jumper 2Way Pins
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment8 Member=Component J2H (J2) Jumper 2Way Pins
+Added Member To Class: ClassName=SHDN-S05-V00-Connector Member=Component J3 9-6437287-8
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component J4 Jumper 2Way Pins
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component J5 Jumper 2Way Pins
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component J6 Jumper 2Way Pins
+Added Member To Class: ClassName=SHDN-S09-V00-Buzzer Member=Component J7 Jumper 2Way Pins
+Added Member To Class: ClassName=SHDN-S04-V00-ShutdownRelay Member=Component J8 Jumper 2Way Pins
+Added Member To Class: ClassName=SHDN-S04-V00-ShutdownRelay Member=Component K1 G5V-2-DC12
+Added Member To Class: ClassName=SHDN-S04-V00-ShutdownRelay Member=Component K2 CPC1014N
+Added Member To Class: ClassName=SHDN-S08-V00-PSU Member=Component L1 74404064221
+Added Member To Class: ClassName=SHDN-S01-V00-ShutdownBoard Member=Component LOGO1 30mm Wide QUTMS Logo
+Added Member To Class: ClassName=SHDN-S01-V00-ShutdownBoard Member=Component LYID1 2 Layer Identification PCB Marker
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component P1 UART
+Added Member To Class: ClassName=SHDN-S02-V00-ShutdownSegments Member=Component Q1 2N7002
+Added Member To Class: ClassName=SHDN-S02-V00-ShutdownSegments Member=Component Q2 2N7002
+Added Member To Class: ClassName=SHDN-S02-V00-ShutdownSegments Member=Component Q3 2N7002
+Added Member To Class: ClassName=SHDN-S09-V00-Buzzer Member=Component Q4 2N7002
+Added Member To Class: ClassName=SHDN-S04-V00-ShutdownRelay Member=Component Q5 2N7002
+Added Member To Class: ClassName=SHDN-S02-V00-ShutdownSegments Member=Component R1 1k 5% 0603
+Added Member To Class: ClassName=SHDN-S02-V00-ShutdownSegments Member=Component R2 1k 5% 0603
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component R3 4k7
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component R4 330R
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component R5 330R
+Added Member To Class: ClassName=SHDN-S02-V00-ShutdownSegments Member=Component R6 1k 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment1 Member=Component R7A (R7) 0R 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment2 Member=Component R7B (R7) 0R 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment3 Member=Component R7C (R7) 0R 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment4 Member=Component R7D (R7) 0R 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment5 Member=Component R7E (R7) 0R 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment6 Member=Component R7F (R7) 0R 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment7 Member=Component R7G (R7) 0R 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment8 Member=Component R7H (R7) 0R 5% 0603
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component R8 330R
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component R9 330R
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component R10 120R 1% 1210
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment1 Member=Component R11A (R11) 100k 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment2 Member=Component R11B (R11) 100k 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment3 Member=Component R11C (R11) 100k 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment4 Member=Component R11D (R11) 100k 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment5 Member=Component R11E (R11) 100k 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment6 Member=Component R11F (R11) 100k 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment7 Member=Component R11G (R11) 100k 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment8 Member=Component R11H (R11) 100k 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment1 Member=Component R12A (R12) 0R 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment2 Member=Component R12B (R12) 0R 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment3 Member=Component R12C (R12) 0R 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment4 Member=Component R12D (R12) 0R 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment5 Member=Component R12E (R12) 0R 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment6 Member=Component R12F (R12) 0R 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment7 Member=Component R12G (R12) 0R 5% 0603
+Added Member To Class: ClassName=SHDN-S03-V00-ShutdownSegment8 Member=Component R12H (R12) 0R 5% 0603
+Added Member To Class: ClassName=SHDN-S08-V00-PSU Member=Component R13 64k9 1%
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component R14 330R
+Added Member To Class: ClassName=SHDN-S08-V00-PSU Member=Component R15 19k6 1%
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component R16 330R
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component R17 330R
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component R18 330R
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component R19 330R
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component R20 330R
+Added Member To Class: ClassName=SHDN-S09-V00-Buzzer Member=Component R21 1k 5% 0603
+Added Member To Class: ClassName=SHDN-S09-V00-Buzzer Member=Component R22 1k 5% 0603
+Added Member To Class: ClassName=SHDN-S04-V00-ShutdownRelay Member=Component R23 1k 5% 0603
+Added Member To Class: ClassName=SHDN-S04-V00-ShutdownRelay Member=Component R24 1k 5% 0603
+Added Member To Class: ClassName=SHDN-S04-V00-ShutdownRelay Member=Component R25 330R
+Added Member To Class: ClassName=SHDN-S04-V00-ShutdownRelay Member=Component R26 1k 5% 0603
+Added Member To Class: ClassName=SHDN-S04-V00-ShutdownRelay Member=Component R27 1k 5% 0603
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component SW1 B3U-1000P
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component TP1 TestPoint_SMD
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component TP2 TestPoint_SMD
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component TP3 TestPoint_SMD
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component TP4 TestPoint_SMD
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component TP5 TestPoint_SMD
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component TP6 TestPoint_SMD
+Added Member To Class: ClassName=SHDN-S08-V00-PSU Member=Component TP7 TestPoint_SMD
+Added Member To Class: ClassName=SHDN-S08-V00-PSU Member=Component TP8 TestPoint_SMD
+Added Member To Class: ClassName=SHDN-S08-V00-PSU Member=Component TP9 TestPoint_SMD
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component U1 STM32F042C6
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component U2 DSC1001DI1-008.0000T
+Added Member To Class: ClassName=SHDN-S02-V00-ShutdownSegments Member=Component U3 CD4097BPW
+Added Member To Class: ClassName=SHDN-S02-V00-ShutdownSegments Member=Component U4 LM358
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component U5 Si8621BC-B-IS
+Added Member To Class: ClassName=SHDN-S07-V00-IsolatedCAN Member=Component U6 SN65HVD233
+Added Member To Class: ClassName=SHDN-S08-V00-PSU Member=Component U7 LMR14010
+Added Member To Class: ClassName=SHDN-S06-V00-Microcontroller Member=Component Z1 LogicAnalyzerBreakOut
+Added Room: Name=SHDN-S01-V00-ShutdownBoard
+Added Room: Name=SHDN-S02-V00-ShutdownSegments
+Added Room: Name=SHDN-S03-V00-ShutdownSegment1
+Added Room: Name=SHDN-S03-V00-ShutdownSegment2
+Added Room: Name=SHDN-S03-V00-ShutdownSegment3
+Added Room: Name=SHDN-S03-V00-ShutdownSegment4
+Added Room: Name=SHDN-S03-V00-ShutdownSegment5
+Added Room: Name=SHDN-S03-V00-ShutdownSegment6
+Added Room: Name=SHDN-S03-V00-ShutdownSegment7
+Added Room: Name=SHDN-S03-V00-ShutdownSegment8
+Added Room: Name=SHDN-S04-V00-ShutdownRelay
+Added Room: Name=SHDN-S05-V00-Connector
+Added Room: Name=SHDN-S06-V00-Microcontroller
+Added Room: Name=SHDN-S07-V00-IsolatedCAN
+Added Room: Name=SHDN-S08-V00-PSU
+Added Room: Name=SHDN-S09-V00-Buzzer
