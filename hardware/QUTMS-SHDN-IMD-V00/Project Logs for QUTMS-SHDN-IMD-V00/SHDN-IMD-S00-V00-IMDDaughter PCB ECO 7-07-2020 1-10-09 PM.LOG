@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetD1_A Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Added Component: Designator=Q1(PMV15UNEAR)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q1-D
+Added Pin To Net: NetName=NetD1_A Pin=Q1-S
+Added Pin To Net: NetName=NetQ1_G Pin=Q1-G
+Added Pin To Net: NetName=NetQ1_G Pin=R10-2
+Added Net: Name=NetQ1_G

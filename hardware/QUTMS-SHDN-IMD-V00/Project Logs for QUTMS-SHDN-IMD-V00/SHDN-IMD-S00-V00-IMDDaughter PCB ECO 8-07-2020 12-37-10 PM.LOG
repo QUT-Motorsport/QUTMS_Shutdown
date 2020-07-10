@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SHDN IN Pin=K1-1
+Removed Pin From Net: NetName=IMD MV Pin=U1-3
+Removed Pin From Net: NetName=IMD SV Pin=U1-5
+Removed Pin From Net: NetName=IMD STAT Pin=U1-12
+Removed Pin From Net: NetName=IMD MEAS Pin=U1-14
+Added Pin To Net: NetName=SHDN IN Pin=K1-10
+Added Pin To Net: NetName=IMD SV Pin=U1-3
+Added Pin To Net: NetName=IMD MV Pin=U1-5
+Added Pin To Net: NetName=IMD MEAS Pin=U1-12
+Added Pin To Net: NetName=IMD STAT Pin=U1-14
+Added Member To Class: ClassName=SHUTDOWN Member=Component K1 G5V-1-DC12

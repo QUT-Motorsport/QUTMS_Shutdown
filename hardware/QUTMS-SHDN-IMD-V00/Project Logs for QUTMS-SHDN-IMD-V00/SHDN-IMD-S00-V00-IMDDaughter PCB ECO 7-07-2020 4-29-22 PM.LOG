@@ -1,0 +1,60 @@
+Change Component Designator: OldDesignator=25 NewDesignator=R25
+Added Component: Designator=C14(Cap_Ceramic_0603)
+Added Component: Designator=C15(Cap_Ceramic_0603)
+Added Component: Designator=C16(Cap_Ceramic_0603)
+Added Component: Designator=C17(CAP_ALU_10x10mm)
+Added Component: Designator=D3(SMA)
+Added Component: Designator=L1(Inductor_6x6mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/w%C3%BCrth-elektronik/74404064221/732-7261-1-ND/5353241"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LCSC A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://lcsc.com/product-detail/Power-Inductors_Sunlord-SWPA6045S221MT_C91047.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "LCSC B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://lcsc.com/product-detail/Power-Inductors_SXN-Shun-Xiang-Nuo-Elec-SMNR6045-221MT_C467145.html"; VariantName = "[No Variations]"
+Added Component: Designator=R23(Res_ThinFilm_0603)
+Added Component: Designator=R24(Res_ThinFilm_0603)
+Added Component: Designator=TP7(TestPointSMD)
+Added Component: Designator=TP8(TestPointSMD)
+Added Component: Designator=TP9(TestPointSMD)
+Added Component: Designator=U7(LMR14010)
+Added Pin To Net: NetName=PWR CB Pin=C14-1
+Added Pin To Net: NetName=PWR SW Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=3V3 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=3V3 Pin=C16-2
+Added Pin To Net: NetName=36V Pin=C17-A
+Added Pin To Net: NetName=GND Pin=C17-K
+Added Pin To Net: NetName=GND Pin=D3-A
+Added Pin To Net: NetName=PWR SW Pin=D3-K
+Added Pin To Net: NetName=PWR SW Pin=L1-1
+Added Pin To Net: NetName=3V3 Pin=L1-2
+Added Pin To Net: NetName=PWR FB Pin=R23-1
+Added Pin To Net: NetName=3V3 Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=PWR FB Pin=R24-2
+Added Pin To Net: NetName=3V3 Pin=TP7-1
+Added Pin To Net: NetName=PWR SW Pin=TP8-1
+Added Pin To Net: NetName=PWR FB Pin=TP9-1
+Added Pin To Net: NetName=PWR CB Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=PWR FB Pin=U7-3
+Added Pin To Net: NetName=36V Pin=U7-4
+Added Pin To Net: NetName=36V Pin=U7-5
+Added Pin To Net: NetName=PWR SW Pin=U7-6
+Change Net Name : Old Net Name=Net25_1 New Net Name=NetDS5_1
+Added Member To Class: ClassName=POWER SUPPLY Member=Component C14 100nF 100V 5% X7R 0603
+Added Member To Class: ClassName=POWER SUPPLY Member=Component C15 47uF 16V 1210
+Added Member To Class: ClassName=POWER SUPPLY Member=Component C16 47uF 16V 1210
+Added Member To Class: ClassName=POWER SUPPLY Member=Component C17 47uF 80V 10% AluPoly 10x10mm
+Added Member To Class: ClassName=POWER SUPPLY Member=Component D3 B260A-13-F
+Added Member To Class: ClassName=POWER SUPPLY Member=Component L1 74404064221
+Added Member To Class: ClassName=POWER SUPPLY Member=Component R23 64k9 1%
+Added Member To Class: ClassName=POWER SUPPLY Member=Component R24 19k6 1%
+Added Member To Class: ClassName=POWER SUPPLY Member=Component R25 1k 5% 0603
+Added Member To Class: ClassName=POWER SUPPLY Member=Component TP7 TestPoint_SMD
+Added Member To Class: ClassName=POWER SUPPLY Member=Component TP8 TestPoint_SMD
+Added Member To Class: ClassName=POWER SUPPLY Member=Component TP9 TestPoint_SMD
+Added Member To Class: ClassName=POWER SUPPLY Member=Component U7 LMR14010
+Added Room: Name=POWER SUPPLY
+Added Room: Name=SHDN-IMD-S01-V00-IMDDaughter

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=IMD STAT Pin=U2-11
+Added Component: Designator=TP2(TestPointSMD)
+Added Component: Designator=TP5(TestPointSMD)
+Added Component: Designator=TP8(TestPointSMD)
+Added Pin To Net: NetName=ISO CAN TX Pin=TP2-1
+Added Pin To Net: NetName=ISO CAN RX Pin=TP5-1
+Added Pin To Net: NetName=PWR SW Pin=TP8-1
+Added Pin To Net: NetName=IMD STAT Pin=U2-45
+Change Net Name : Old Net Name=IMD STAT New Net Name=IMD MEAS
+Added Pin To Net: NetName=IMD MEAS LOW Pin=U1-13
+Added Pin To Net: NetName=IMD MEAS LOW Pin=U2-46
+Added Net: Name=IMD MEAS LOW
+Added Pin To Net: NetName=IMD MEASUREMENT Pin=U1-12
+Added Pin To Net: NetName=IMD MEASUREMENT Pin=U2-43
+Added Net: Name=IMD MEASUREMENT
+Added Member To Class: ClassName=CANBUS Member=Component TP2 TestPoint_SMD
+Added Member To Class: ClassName=CANBUS Member=Component TP5 TestPoint_SMD
+Added Member To Class: ClassName=POWER SUPPLY Member=Component TP8 TestPoint_SMD
