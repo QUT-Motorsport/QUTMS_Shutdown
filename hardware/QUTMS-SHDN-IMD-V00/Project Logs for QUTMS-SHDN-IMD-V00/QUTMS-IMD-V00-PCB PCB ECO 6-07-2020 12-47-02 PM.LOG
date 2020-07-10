@@ -1,0 +1,12 @@
+Added Component: Designator=U1(Si8621BC-B-IS)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/silicon-labs/SI8621BC-B-ISR/336-4774-1-ND/8611005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.silabs.com/documents/public/data-sheets/si861x-2x-datasheet.pdf"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=U1-1
+Added Pin To Net: NetName=IMD MV Pin=U1-3
+Added Pin To Net: NetName=IMD MLV Pin=U1-4
+Added Pin To Net: NetName=IMD SV Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Member To Class: ClassName=IMD Member=Component U1 SI8640BB-B-IS1R

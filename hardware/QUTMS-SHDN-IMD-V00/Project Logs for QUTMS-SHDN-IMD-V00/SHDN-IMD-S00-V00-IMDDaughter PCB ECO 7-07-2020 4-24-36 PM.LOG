@@ -1,0 +1,116 @@
+Added Component: Designator=25(Res_ThinFilm_0603)
+Added Component: Designator=C11(Cap_Ceramic_0603)
+Added Component: Designator=C12(Cap_Ceramic_0603)
+Added Component: Designator=C13(Cap_Ceramic_0603)
+Added Component: Designator=D2(NUP2105L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.cn/PowerSolutions/document/NUP2105L-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://lcsc.com/product-detail/TVS_ON-Semiconductor-NUP2105LT1G_C14486.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.digikey.com.au/product-detail/en/on-semiconductor/SZNUP2105LT1G/SZNUP2105LT1GOSCT-ND/3487669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DS3(LED BLUE 0603)
+Added Component: Designator=DS4(LED BLUE 0603)
+Added Component: Designator=DS5(LED GREEN 0603)
+Added Component: Designator=J3(Jumper_2Way_Pin)
+Added Component: Designator=J4(Jumper_2Way_Pin)
+Added Component: Designator=J5(Jumper_2Way_Pin)
+Added Component: Designator=R18(Res_ThinFilm_1210)
+Added Component: Designator=R19(Res_ThinFilm_0603)
+Added Component: Designator=R20(Res_ThinFilm_0603)
+Added Component: Designator=TP1(TestPointSMD)
+Added Component: Designator=TP2(TestPointSMD)
+Added Component: Designator=TP3(TestPointSMD)
+Added Component: Designator=TP4(TestPointSMD)
+Added Component: Designator=TP5(TestPointSMD)
+Added Component: Designator=TP6(TestPointSMD)
+Added Component: Designator=U4(SN65HVD233DR)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/CAN-ICs_Texas-Instruments_SN65HVD233DRG4_Texas-Instruments-Texas-Instruments-SN65HVD233DRG4_C61643.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com.au/product-detail/en/texas-instruments/SN65HVD233DR/296-35967-1-ND/4134960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.ti.com/lit/ds/symlink/sn65hvd233.pdf?ts=1588560888178"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Ti Product Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.ti.com/product/SN65HVD233"; VariantName = "[No Variations]"
+Added Component: Designator=U5(Si8621BC-B-IS)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/silicon-labs/SI8621BC-B-ISR/336-4774-1-ND/8611005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.silabs.com/documents/public/data-sheets/si861x-2x-datasheet.pdf"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net25_1 Pin=25-1
+Added Pin To Net: NetName=3V3 Pin=25-2
+Added Pin To Net: NetName=ISO 3V3 Pin=C11-1
+Added Pin To Net: NetName=ISO GND Pin=C11-2
+Added Pin To Net: NetName=ISO GND Pin=C12-1
+Added Pin To Net: NetName=ISO 3V3 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=3V3 Pin=C13-2
+Added Pin To Net: NetName=CAN L Pin=D2-1
+Added Pin To Net: NetName=CAN H Pin=D2-2
+Added Pin To Net: NetName=ISO GND Pin=D2-3
+Added Pin To Net: NetName=CAN LED Pin=DS3-1
+Added Pin To Net: NetName=CAN TX LED Pin=DS3-2
+Added Pin To Net: NetName=CAN LED Pin=DS4-1
+Added Pin To Net: NetName=CAN RX LED Pin=DS4-2
+Added Pin To Net: NetName=Net25_1 Pin=DS5-1
+Added Pin To Net: NetName=GND Pin=DS5-2
+Added Pin To Net: NetName=CAN H Pin=J3-1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=ISO 3V3 Pin=J4-1
+Added Pin To Net: NetName=CAN LBK Pin=J4-2
+Added Pin To Net: NetName=3V3 Pin=J5-1
+Added Pin To Net: NetName=CAN LED Pin=J5-2
+Added Pin To Net: NetName=CAN L Pin=R18-1
+Added Pin To Net: NetName=NetJ3_2 Pin=R18-2
+Added Pin To Net: NetName=CAN TX Pin=R19-1
+Added Pin To Net: NetName=CAN TX LED Pin=R19-2
+Added Pin To Net: NetName=CAN RX Pin=R20-1
+Added Pin To Net: NetName=CAN RX LED Pin=R20-2
+Added Pin To Net: NetName=CAN H Pin=TP1-1
+Added Pin To Net: NetName=ISO CAN TX Pin=TP2-1
+Added Pin To Net: NetName=CAN TX Pin=TP3-1
+Added Pin To Net: NetName=CAN L Pin=TP4-1
+Added Pin To Net: NetName=ISO CAN RX Pin=TP5-1
+Added Pin To Net: NetName=CAN RX Pin=TP6-1
+Added Pin To Net: NetName=ISO CAN TX Pin=U4-1
+Added Pin To Net: NetName=ISO GND Pin=U4-2
+Added Pin To Net: NetName=ISO 3V3 Pin=U4-3
+Added Pin To Net: NetName=ISO CAN RX Pin=U4-4
+Added Pin To Net: NetName=CAN LBK Pin=U4-5
+Added Pin To Net: NetName=CAN L Pin=U4-6
+Added Pin To Net: NetName=CAN H Pin=U4-7
+Added Pin To Net: NetName=ISO GND Pin=U4-8
+Added Pin To Net: NetName=3V3 Pin=U5-1
+Added Pin To Net: NetName=CAN TX Pin=U5-2
+Added Pin To Net: NetName=CAN RX Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=ISO GND Pin=U5-5
+Added Pin To Net: NetName=ISO CAN RX Pin=U5-6
+Added Pin To Net: NetName=ISO CAN TX Pin=U5-7
+Added Pin To Net: NetName=ISO 3V3 Pin=U5-8
+Added Member To Class: ClassName=POWER SUPPLY Member=Component 25 1k 5% 0603
+Added Member To Class: ClassName=CANBUS Member=Component C11 100nF
+Added Member To Class: ClassName=CANBUS Member=Component C12 100nF
+Added Member To Class: ClassName=CANBUS Member=Component C13 100nF
+Added Member To Class: ClassName=CANBUS Member=Component D2 NUP2105L
+Added Member To Class: ClassName=CANBUS Member=Component DS3 LED Blue 0603
+Added Member To Class: ClassName=CANBUS Member=Component DS4 LED Blue 0603
+Added Member To Class: ClassName=POWER SUPPLY Member=Component DS5 LED Green 0603
+Added Member To Class: ClassName=CANBUS Member=Component J3 Jumper 2Way Pins
+Added Member To Class: ClassName=CANBUS Member=Component J4 Jumper 2Way Pins
+Added Member To Class: ClassName=CANBUS Member=Component J5 Jumper 2Way Pins
+Added Member To Class: ClassName=CANBUS Member=Component R18 120R 1% 1210
+Added Member To Class: ClassName=CANBUS Member=Component R19 330R
+Added Member To Class: ClassName=CANBUS Member=Component R20 330R
+Added Member To Class: ClassName=CANBUS Member=Component TP1 TestPoint_SMD
+Added Member To Class: ClassName=CANBUS Member=Component TP2 TestPoint_SMD
+Added Member To Class: ClassName=CANBUS Member=Component TP3 TestPoint_SMD
+Added Member To Class: ClassName=CANBUS Member=Component TP4 TestPoint_SMD
+Added Member To Class: ClassName=CANBUS Member=Component TP5 TestPoint_SMD
+Added Member To Class: ClassName=CANBUS Member=Component TP6 TestPoint_SMD
+Added Member To Class: ClassName=CANBUS Member=Component U4 SN65HVD233
+Added Member To Class: ClassName=CANBUS Member=Component U5 Si8621BC-B-IS
+Added Room: Name=CANBUS
+Added Room: Name=SHDN-IMD-S01-V00-IMDDaughter

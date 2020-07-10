@@ -1,0 +1,15 @@
+Added Component: Designator=J6(Microfit_2X3_R_SMD)
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component C3 100nF
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component C4 4u7
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component C5 100nF
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component C6 4u7
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component C7 100nF
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component C8 4u7
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component C9 100nF
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component C10 100nF
+Added Member To Class: ClassName=CANBUS Member=Component C11 100nF
+Added Member To Class: ClassName=CANBUS Member=Component C12 100nF
+Added Member To Class: ClassName=CANBUS Member=Component C13 100nF
+Added Member To Class: ClassName=POWER SUPPLY Member=Component C15 47uF 16V 1210
+Added Member To Class: ClassName=POWER SUPPLY Member=Component C16 47uF 16V 1210
+Added Member To Class: ClassName=POWER SUPPLY Member=Component C17 47uF 80V 10% AluPoly 10x10mm

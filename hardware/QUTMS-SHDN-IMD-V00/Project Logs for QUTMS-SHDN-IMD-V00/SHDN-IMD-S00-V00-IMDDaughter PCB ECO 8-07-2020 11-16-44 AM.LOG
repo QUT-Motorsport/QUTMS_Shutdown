@@ -1,0 +1,5 @@
+Added Component: Designator=K1(G5V-1)
+Added Pin To Net: NetName=+12 Pin=K1-1
+Added Pin To Net: NetName=NetD1_A Pin=K1-2
+Added Pin To Net: NetName=SHDN OUT Pin=K1-4
+Added Member To Class: ClassName=SHUTDOWN Member=Component K1 G5V-1-DC12

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+12 Pin=K1-1
+Removed Pin From Net: NetName=NetD1_A Pin=K1-2
+Removed Pin From Net: NetName=SHDN OUT Pin=K1-4
+Added Component: Designator=K1(G5Q-14)
+Added Pin To Net: NetName=+12 Pin=K1-1
+Added Pin To Net: NetName=SHDN OUT Pin=K1-2
+Added Pin To Net: NetName=SHDN IN Pin=K1-4
+Added Pin To Net: NetName=NetD1_A Pin=K1-5
