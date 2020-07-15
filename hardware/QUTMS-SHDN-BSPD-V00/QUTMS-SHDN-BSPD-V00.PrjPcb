@@ -630,7 +630,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OCIPLJCS
 
 [Document36]
 DocumentPath=QUTMS_STM32Library.PcbLib
@@ -851,7 +851,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WLNWEPEU
 
 [Document49]
 DocumentPath=QUTMS_OpAmpLibrary.SchLib
@@ -888,23 +888,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document51]
-DocumentPath=SHDN-BSPD-S03-V00-BSPDInputStage.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BQVQQEUH
-
-[Document52]
 DocumentPath=SHDN-BSPD-S04-V00-BSPDWindowComparitor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -921,7 +904,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MTRGYLRM
 
-[Document53]
+[Document52]
 DocumentPath=SHDN-BSPD-S05-V00-BSPDDelay.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -938,7 +921,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBASERTK
 
-[Document54]
+[Document53]
 DocumentPath=SHDN-BSPD-S06-V00-BSPDSense.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -955,7 +938,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPGOSCZY
 
-[Document55]
+[Document54]
 DocumentPath=QUTMS_TrimmerLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -972,7 +955,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RARFSLKA
 
-[Document56]
+[Document55]
 DocumentPath=QUTMS_TrimmerLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -989,7 +972,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MABYXATG
 
-[Document57]
+[Document56]
 DocumentPath=SHDN-BSPD-S07-V00-Microcontroller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1006,7 +989,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKLTMRTI
 
-[Document58]
+[Document57]
 DocumentPath=SHDN-BSPD-S08-V00-IsolatedCAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1023,7 +1006,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NFOALMYO
 
-[Document59]
+[Document58]
 DocumentPath=SHDN-BSPD-S09-V00-PSU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1040,7 +1023,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ARFZYJCE
 
-[Document60]
+[Document59]
 DocumentPath=SHDN-BSPD-S10-V00-Buzzer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1057,7 +1040,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DEVBCYIJ
 
-[Document61]
+[Document60]
 DocumentPath=SHDN-BSPD-S11-V00-ShutdownRelay.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1074,7 +1057,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NMAACVVQ
 
-[Document62]
+[Document61]
 DocumentPath=SHDN-BSPD-S07-V00-Microcontroller.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1091,8 +1074,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document63]
+[Document62]
 DocumentPath=SHDN-BSPD-S08-V00-IsolatedCAN.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document63]
+DocumentPath=SHDN-BSPD-S03-V00-Connectivity.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FCJVTNSG
+
+[Document64]
+DocumentPath=SHDN-BSPD-S03-V00-Connectivity.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
