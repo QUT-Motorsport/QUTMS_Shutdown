@@ -630,7 +630,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FEIOKSWG
 
 [Document36]
 DocumentPath=StandardTest.PcbLib
@@ -735,7 +735,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XKLTMRTI
 
 [Document42]
-DocumentPath=SHDN-S07-V00-IsolatedCAN.SchDoc
+DocumentPath=SHDN-S07-V00-CAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1177,7 +1177,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OBYXJTBW
 
 [Document68]
-DocumentPath=SHDN-S11-V00-IndicationLEDs.Harness
+DocumentPath=SHDN-S11-V00-7SegmentDisplay.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1194,7 +1194,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document69]
-DocumentPath=SHDN-S11-V00-7SegmentDisplay.Harness
+DocumentPath=SHDN-S07-V00-CAN.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
