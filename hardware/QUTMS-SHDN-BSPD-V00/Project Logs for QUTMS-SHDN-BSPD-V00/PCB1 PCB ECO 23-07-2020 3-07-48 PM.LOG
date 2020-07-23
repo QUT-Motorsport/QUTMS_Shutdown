@@ -1,0 +1,591 @@
+Added Component: Designator=B1(PS1240P02BT)
+Added Component: Designator=C2(Cap_Ceramic_0603)
+Added Component: Designator=C3(Cap_Ceramic_0603)
+Added Component: Designator=C4(Cap_Ceramic_0603)
+Added Component: Designator=C5(Cap_Ceramic_0603)
+Added Component: Designator=C6(Cap_Ceramic_0603)
+Added Component: Designator=C7(Cap_Ceramic_0603)
+Added Component: Designator=C8(Cap_Ceramic_0603)
+Added Component: Designator=C9(Cap_Ceramic_0603)
+Added Component: Designator=C10(Cap_Ceramic_0603)
+Added Component: Designator=C11(Cap_Ceramic_0603)
+Added Component: Designator=C12(Cap_Ceramic_0603)
+Added Component: Designator=C13(Cap_Ceramic_0603)
+Added Component: Designator=C16(Cap_Ceramic_0603)
+Added Component: Designator=C17(Cap_Ceramic_0603)
+Added Component: Designator=C18(Cap_Ceramic_1206)
+Added Component: Designator=C19(Cap_Ceramic_1210)
+Added Component: Designator=C20(Cap_Ceramic_1210)
+Added Component: Designator=C27(Cap_Ceramic_1206)
+Added Component: Designator=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1(Cap_Ceramic_0603)
+Added Component: Designator=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1(Cap_Ceramic_0603)
+Added Component: Designator=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1(Cap_Ceramic_0603)
+Added Component: Designator=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2(Cap_Ceramic_0603)
+Added Component: Designator=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2(Cap_Ceramic_0603)
+Added Component: Designator=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2(Cap_Ceramic_0603)
+Added Component: Designator=C?(Cap_Ceramic_0603)
+Added Component: Designator=C?(Cap_Ceramic_0603)
+Added Component: Designator=C?(Cap_Ceramic_0603)
+Added Component: Designator=C?(Cap_Ceramic_1206)
+Added Component: Designator=C?(Cap_Ceramic_0603)
+Added Component: Designator=C?(Cap_Ceramic_0603)
+Added Component: Designator=C?(Cap_Ceramic_0603)
+Added Component: Designator=D1(NUP2105L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.cn/PowerSolutions/document/NUP2105L-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://lcsc.com/product-detail/TVS_ON-Semiconductor-NUP2105LT1G_C14486.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.digikey.com.au/product-detail/en/on-semiconductor/SZNUP2105LT1G/SZNUP2105LT1GOSCT-ND/3487669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(SMA)
+Added Component: Designator=D?(SMA)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "5V6 500mW SMA"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SMA)
+Add component (AddParameter): Name = "Average Rectified Current"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Rectifier Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin,Matte"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "1V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor / Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1N914BWS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Forward Surge Current (Ifsm)"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Repetitive Reverse Voltage (Vrrm)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Leakage Current"; Value = "5uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Reverse Current"; Value = "5uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "200mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recovery Time"; Value = "4ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Recovery Time"; Value = "4ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.0276g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.35mm"; VariantName = "[No Variations]"
+Added Component: Designator=DS1(LED GREEN 0603)
+Added Component: Designator=J3(IDC 1.27MM 10P)
+Added Component: Designator=J4(Jumper_2Way_Pin)
+Added Component: Designator=J5(Jumper_2Way_Pin)
+Added Component: Designator=J?(Microfit_2X4_R_TH)
+Added Component: Designator=K?(G5V-1)
+Added Component: Designator=L1(Inductor_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/w%C3%BCrth-elektronik/74404064221/732-7261-1-ND/5353241"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LCSC A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://lcsc.com/product-detail/Power-Inductors_Sunlord-SWPA6045S221MT_C91047.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "LCSC B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://lcsc.com/product-detail/Power-Inductors_SXN-Shun-Xiang-Nuo-Elec-SMNR6045-221MT_C467145.html"; VariantName = "[No Variations]"
+Added Component: Designator=L2(Inductor_6x6mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/w%C3%BCrth-elektronik/74404064221/732-7261-1-ND/5353241"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LCSC A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://lcsc.com/product-detail/Power-Inductors_Sunlord-SWPA6045S221MT_C91047.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "LCSC B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://lcsc.com/product-detail/Power-Inductors_SXN-Shun-Xiang-Nuo-Elec-SMNR6045-221MT_C467145.html"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT23-3)
+Added Component: Designator=Q?(SOT23-3)
+Added Component: Designator=R18(Res_ThinFilm_0603)
+Added Component: Designator=R29(Res_ThinFilm_1210)
+Added Component: Designator=R30(Res_ThinFilm_0603)
+Added Component: Designator=R31(Res_ThinFilm_0603)
+Added Component: Designator=R32(Res_ThinFilm_0603)
+Added Component: Designator=R33(Res_ThinFilm_0603)
+Added Component: Designator=R34(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S03-V00-VoltageDivider1(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S03-V00-VoltageDivider1(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S03-V00-VoltageDivider2(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S03-V00-VoltageDivider2(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S03-V00-VoltageDivider3(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S03-V00-VoltageDivider3(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S03-V00-VoltageDivider4(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S03-V00-VoltageDivider4(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S03-V00-VoltageDivider5(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S03-V00-VoltageDivider5(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S03-V00-VoltageDivider6(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S03-V00-VoltageDivider6(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S03-V00-VoltageDivider7(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S03-V00-VoltageDivider7(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S03-V00-VoltageDivider8(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S03-V00-VoltageDivider8(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2(Res_ThinFilm_0603)
+Added Component: Designator=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=SW1(BTN B3U-1000P)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Tactile-Switches_BRIGHT-TSA063G50-250_C294565.html"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TestPointSMD)
+Added Component: Designator=TP2(TestPointSMD)
+Added Component: Designator=TP3(TestPointSMD)
+Added Component: Designator=U2(STM32F042C6)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/stmicroelectronics/STM32F302RCT6TR/497-19000-1-ND/9974332"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/67/73/21/b9/f2/b3/4d/f8/DM00094064.pdf/files/DM00094064.pdf/jcr:content/translations/en.DM00094064.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=U3(DSC1001DI1-008.0000TCT-ND)
+Added Component: Designator=U5(SN65HVD233DR)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/CAN-ICs_Texas-Instruments_SN65HVD233DRG4_Texas-Instruments-Texas-Instruments-SN65HVD233DRG4_C61643.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com.au/product-detail/en/texas-instruments/SN65HVD233DR/296-35967-1-ND/4134960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.ti.com/lit/ds/symlink/sn65hvd233.pdf?ts=1588560888178"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Ti Product Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.ti.com/product/SN65HVD233"; VariantName = "[No Variations]"
+Added Component: Designator=U6(LMR14010)
+Added Component: Designator=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1(SOIC-8)
+Added Component: Designator=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1(TSSOP-8)
+Added Component: Designator=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1(SOIC-8)
+Added Component: Designator=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2(SOIC-8)
+Added Component: Designator=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2(TSSOP-8)
+Added Component: Designator=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2(SOIC-8)
+Added Component: Designator=U?(TSSOP-24)
+Added Component: Designator=U?(SOIC-8)
+Added Component: Designator=U?(SOIC-8)
+Added Component: Designator=U?(TSSOP-8)
+Added Component: Designator=U?(TSSOP-14)
+Added Component: Designator=U?(TSSOP-16)
+Added Component: Designator=U?(TSSOP-14)
+Added Component: Designator=U?(TSSOP-14)
+Added Component: Designator=U?(TSSOP-14)
+Added Component: Designator=U?(TSSOP-14)
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=3V3 Pin=C3-2
+Added Pin To Net: NetName=3V3 Pin=C4-2
+Added Pin To Net: NetName=3V3 Pin=C5-2
+Added Pin To Net: NetName=3V3 Pin=C6-2
+Added Pin To Net: NetName=3V3 Pin=C7-2
+Added Pin To Net: NetName=3V3 Pin=C8-2
+Added Pin To Net: NetName=3V3 Pin=C9-2
+Added Pin To Net: NetName=3V3 Pin=C12-2
+Added Pin To Net: NetName=3V3 Pin=C16-2
+Added Pin To Net: NetName=3V3 Pin=C19-2
+Added Pin To Net: NetName=3V3 Pin=C20-2
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=J3-1
+Added Pin To Net: NetName=3V3 Pin=J5-1
+Added Pin To Net: NetName=3V3 Pin=L1-1
+Added Pin To Net: NetName=3V3 Pin=L2-2
+Added Pin To Net: NetName=3V3 Pin=R18-2
+Added Pin To Net: NetName=3V3 Pin=R30-2
+Added Pin To Net: NetName=3V3 Pin=R31-2
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=TP1-1
+Added Pin To Net: NetName=3V3 Pin=U2-1
+Added Pin To Net: NetName=3V3 Pin=U2-19
+Added Pin To Net: NetName=3V3 Pin=U2-32
+Added Pin To Net: NetName=3V3 Pin=U2-48
+Added Pin To Net: NetName=3V3 Pin=U3-1
+Added Pin To Net: NetName=3V3 Pin=U3-4
+Added Pin To Net: NetName=3V3 Pin=U5-3
+Added Pin To Net: NetName=3V3 Pin=U?-8
+Added Pin To Net: NetName=3V3 Pin=U?-14
+Added Pin To Net: NetName=3V3 Pin=U?-16
+Added Pin To Net: NetName=3V3 Pin=U?-24
+Added Net: Name=3V3
+Added Pin To Net: NetName=5KW SIGNAL IN Pin=J?-2
+Added Net: Name=5KW SIGNAL IN
+Added Pin To Net: NetName=12V Pin=C18-2
+Added Pin To Net: NetName=12V Pin=C27-2
+Added Pin To Net: NetName=12V Pin=C?-2
+Added Pin To Net: NetName=12V Pin=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-1
+Added Pin To Net: NetName=12V Pin=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-1
+Added Pin To Net: NetName=12V Pin=D?-K
+Added Pin To Net: NetName=12V Pin=K?-1
+Added Pin To Net: NetName=12V Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-1
+Added Pin To Net: NetName=12V Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-1
+Added Pin To Net: NetName=12V Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-2
+Added Pin To Net: NetName=12V Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-2
+Added Pin To Net: NetName=12V Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-2
+Added Pin To Net: NetName=12V Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-2
+Added Pin To Net: NetName=12V Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-1
+Added Pin To Net: NetName=12V Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-1
+Added Pin To Net: NetName=12V Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-2
+Added Pin To Net: NetName=12V Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-2
+Added Pin To Net: NetName=12V Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-2
+Added Pin To Net: NetName=12V Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-2
+Added Pin To Net: NetName=12V Pin=U6-4
+Added Pin To Net: NetName=12V Pin=U6-5
+Added Pin To Net: NetName=12V Pin=U?-1
+Added Pin To Net: NetName=12V Pin=U?-2
+Added Pin To Net: NetName=12V Pin=U?-7
+Added Pin To Net: NetName=12V Pin=U?-9
+Added Pin To Net: NetName=12V Pin=U?-15
+Added Pin To Net: NetName=12V Pin=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-8
+Added Pin To Net: NetName=12V Pin=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-8
+Added Net: Name=12V
+Added Pin To Net: NetName=ADC Pin=U2-14
+Added Pin To Net: NetName=ADC Pin=U?-1
+Added Net: Name=ADC
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=BUZZER MOS Pin=Q4-G
+Added Pin To Net: NetName=BUZZER MOS Pin=R34-1
+Added Net: Name=BUZZER MOS
+Added Pin To Net: NetName=BUZZER NEG Pin=B1-2
+Added Pin To Net: NetName=BUZZER NEG Pin=Q4-D
+Added Pin To Net: NetName=BUZZER NEG Pin=R33-1
+Added Net: Name=BUZZER NEG
+Added Pin To Net: NetName=BUZZER POS Pin=B1-1
+Added Pin To Net: NetName=BUZZER POS Pin=J5-2
+Added Pin To Net: NetName=BUZZER POS Pin=R33-2
+Added Net: Name=BUZZER POS
+Added Pin To Net: NetName=CAN H Pin=D1-2
+Added Pin To Net: NetName=CAN H Pin=J4-1
+Added Pin To Net: NetName=CAN H Pin=U5-7
+Added Net: Name=CAN H
+Added Pin To Net: NetName=CAN L Pin=J?-8
+Added Net: Name=CAN L
+Added Pin To Net: NetName=CAN RX Pin=U2-44
+Added Pin To Net: NetName=CAN RX Pin=U5-4
+Added Net: Name=CAN RX
+Added Pin To Net: NetName=CAN TERM Pin=J4-2
+Added Pin To Net: NetName=CAN TERM Pin=R29-2
+Added Net: Name=CAN TERM
+Added Pin To Net: NetName=CAN TX Pin=U2-45
+Added Pin To Net: NetName=CAN TX Pin=U5-1
+Added Net: Name=CAN TX
+Added Pin To Net: NetName=CHAIN IN Pin=J?-3
+Added Net: Name=CHAIN IN
+Added Pin To Net: NetName=CHAIN OUT Pin=J?-4
+Added Net: Name=CHAIN OUT
+Added Pin To Net: NetName=COMP1 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider1-1
+Added Pin To Net: NetName=COMP1 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider1-2
+Added Net: Name=COMP1
+Added Pin To Net: NetName=COMP2 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider2-1
+Added Pin To Net: NetName=COMP2 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider2-2
+Added Net: Name=COMP2
+Added Pin To Net: NetName=COMP3 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider3-1
+Added Pin To Net: NetName=COMP3 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider3-2
+Added Net: Name=COMP3
+Added Pin To Net: NetName=COMP4 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider4-1
+Added Pin To Net: NetName=COMP4 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider4-2
+Added Net: Name=COMP4
+Added Pin To Net: NetName=COMP5 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider5-1
+Added Pin To Net: NetName=COMP5 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider5-2
+Added Net: Name=COMP5
+Added Pin To Net: NetName=COMP6 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider6-1
+Added Pin To Net: NetName=COMP6 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider6-2
+Added Net: Name=COMP6
+Added Pin To Net: NetName=COMP7 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider7-1
+Added Pin To Net: NetName=COMP7 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider7-2
+Added Net: Name=COMP7
+Added Pin To Net: NetName=COMP8 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider8-1
+Added Pin To Net: NetName=COMP8 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider8-2
+Added Net: Name=COMP8
+Added Pin To Net: NetName=COMP BTM_SHDN-BSPD-S04-V00-BSPDWindowComparitor1 Pin=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-2
+Added Pin To Net: NetName=COMP BTM_SHDN-BSPD-S04-V00-BSPDWindowComparitor1 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-1
+Added Pin To Net: NetName=COMP BTM_SHDN-BSPD-S04-V00-BSPDWindowComparitor1 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-1
+Added Pin To Net: NetName=COMP BTM_SHDN-BSPD-S04-V00-BSPDWindowComparitor1 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-2
+Added Pin To Net: NetName=COMP BTM_SHDN-BSPD-S04-V00-BSPDWindowComparitor1 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-2
+Added Pin To Net: NetName=COMP BTM_SHDN-BSPD-S04-V00-BSPDWindowComparitor1 Pin=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-6
+Added Net: Name=COMP BTM_SHDN-BSPD-S04-V00-BSPDWindowComparitor1
+Added Pin To Net: NetName=COMP BTM_SHDN-BSPD-S04-V00-BSPDWindowComparitor2 Pin=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-2
+Added Pin To Net: NetName=COMP BTM_SHDN-BSPD-S04-V00-BSPDWindowComparitor2 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-1
+Added Pin To Net: NetName=COMP BTM_SHDN-BSPD-S04-V00-BSPDWindowComparitor2 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-1
+Added Pin To Net: NetName=COMP BTM_SHDN-BSPD-S04-V00-BSPDWindowComparitor2 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-2
+Added Pin To Net: NetName=COMP BTM_SHDN-BSPD-S04-V00-BSPDWindowComparitor2 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-2
+Added Pin To Net: NetName=COMP BTM_SHDN-BSPD-S04-V00-BSPDWindowComparitor2 Pin=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-6
+Added Net: Name=COMP BTM_SHDN-BSPD-S04-V00-BSPDWindowComparitor2
+Added Pin To Net: NetName=COMP TOP_SHDN-BSPD-S04-V00-BSPDWindowComparitor1 Pin=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-2
+Added Pin To Net: NetName=COMP TOP_SHDN-BSPD-S04-V00-BSPDWindowComparitor1 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-1
+Added Pin To Net: NetName=COMP TOP_SHDN-BSPD-S04-V00-BSPDWindowComparitor1 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-1
+Added Pin To Net: NetName=COMP TOP_SHDN-BSPD-S04-V00-BSPDWindowComparitor1 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-2
+Added Pin To Net: NetName=COMP TOP_SHDN-BSPD-S04-V00-BSPDWindowComparitor1 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-2
+Added Pin To Net: NetName=COMP TOP_SHDN-BSPD-S04-V00-BSPDWindowComparitor1 Pin=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-3
+Added Net: Name=COMP TOP_SHDN-BSPD-S04-V00-BSPDWindowComparitor1
+Added Pin To Net: NetName=COMP TOP_SHDN-BSPD-S04-V00-BSPDWindowComparitor2 Pin=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-2
+Added Pin To Net: NetName=COMP TOP_SHDN-BSPD-S04-V00-BSPDWindowComparitor2 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-1
+Added Pin To Net: NetName=COMP TOP_SHDN-BSPD-S04-V00-BSPDWindowComparitor2 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-1
+Added Pin To Net: NetName=COMP TOP_SHDN-BSPD-S04-V00-BSPDWindowComparitor2 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-2
+Added Pin To Net: NetName=COMP TOP_SHDN-BSPD-S04-V00-BSPDWindowComparitor2 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-2
+Added Pin To Net: NetName=COMP TOP_SHDN-BSPD-S04-V00-BSPDWindowComparitor2 Pin=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-3
+Added Net: Name=COMP TOP_SHDN-BSPD-S04-V00-BSPDWindowComparitor2
+Added Pin To Net: NetName=DELAY REF Pin=C?-2
+Added Pin To Net: NetName=DELAY REF Pin=R?-1
+Added Pin To Net: NetName=DELAY REF Pin=R?-2
+Added Pin To Net: NetName=DELAY REF Pin=R?-2
+Added Pin To Net: NetName=DELAY REF Pin=U?-2
+Added Pin To Net: NetName=DELAY REF Pin=U?-8
+Added Net: Name=DELAY REF
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-1
+Added Pin To Net: NetName=GND Pin=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-1
+Added Pin To Net: NetName=GND Pin=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-2
+Added Pin To Net: NetName=GND Pin=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-1
+Added Pin To Net: NetName=GND Pin=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-1
+Added Pin To Net: NetName=GND Pin=C?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-2
+Added Pin To Net: NetName=GND Pin=D1-3
+Added Pin To Net: NetName=GND Pin=D2-A
+Added Pin To Net: NetName=GND Pin=DS1-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J3-9
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=Q4-S
+Added Pin To Net: NetName=GND Pin=Q?-S
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider1-1
+Added Pin To Net: NetName=GND Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider2-1
+Added Pin To Net: NetName=GND Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider3-1
+Added Pin To Net: NetName=GND Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider4-1
+Added Pin To Net: NetName=GND Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider5-1
+Added Pin To Net: NetName=GND Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider6-1
+Added Pin To Net: NetName=GND Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider7-1
+Added Pin To Net: NetName=GND Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider8-1
+Added Pin To Net: NetName=GND Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-1
+Added Pin To Net: NetName=GND Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-1
+Added Pin To Net: NetName=GND Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-1
+Added Pin To Net: NetName=GND Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-1
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=GND Pin=U2-31
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-12
+Added Pin To Net: NetName=GND Pin=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-4
+Added Pin To Net: NetName=GND Pin=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-4
+Added Net: Name=GND
+Added Pin To Net: NetName=IN 1 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider1-2
+Added Net: Name=IN 1
+Added Pin To Net: NetName=IN 2 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider2-2
+Added Net: Name=IN 2
+Added Pin To Net: NetName=IN 3 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider3-2
+Added Net: Name=IN 3
+Added Pin To Net: NetName=IN 4 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider4-2
+Added Net: Name=IN 4
+Added Pin To Net: NetName=IN 5 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider5-2
+Added Net: Name=IN 5
+Added Pin To Net: NetName=IN 6 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider6-2
+Added Net: Name=IN 6
+Added Pin To Net: NetName=IN 7 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider7-2
+Added Net: Name=IN 7
+Added Pin To Net: NetName=IN 8 Pin=R?_SHDN-BSPD-S03-V00-VoltageDivider8-2
+Added Net: Name=IN 8
+Added Pin To Net: NetName=IN8 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-2
+Added Net: Name=IN8
+Added Pin To Net: NetName=MUX A Pin=U2-15
+Added Pin To Net: NetName=MUX A Pin=U?-10
+Added Net: Name=MUX A
+Added Pin To Net: NetName=MUX B Pin=U2-16
+Added Pin To Net: NetName=MUX B Pin=U?-11
+Added Net: Name=MUX B
+Added Pin To Net: NetName=MUX C Pin=U2-17
+Added Pin To Net: NetName=MUX C Pin=U?-14
+Added Net: Name=MUX C
+Added Pin To Net: NetName=MUX D Pin=U2-20
+Added Pin To Net: NetName=MUX D Pin=U?-13
+Added Net: Name=MUX D
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=C11-2
+Added Pin To Net: NetName=NetC10_2 Pin=L1-2
+Added Pin To Net: NetName=NetC10_2 Pin=U2-13
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-3
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetD?_A Pin=D?-A
+Added Pin To Net: NetName=NetD?_A Pin=D?-A
+Added Net: Name=NetD?_A
+Added Pin To Net: NetName=NetDS1_1 Pin=DS1-1
+Added Pin To Net: NetName=NetDS1_1 Pin=R31-1
+Added Net: Name=NetDS1_1
+Added Net: Name=NetK?_4
+Added Net: Name=NetK?_8
+Added Pin To Net: NetName=NetR34_2 Pin=R34-2
+Added Net: Name=NetR34_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-7
+Added Pin To Net: NetName=NetR?_1 Pin=U?-8
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1_1 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-1
+Added Pin To Net: NetName=NetR?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1_1 Pin=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-7
+Added Net: Name=NetR?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1_1
+Added Pin To Net: NetName=NetR?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1_2 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-2
+Added Net: Name=NetR?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1_2
+Added Pin To Net: NetName=NetR?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2_1 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-1
+Added Pin To Net: NetName=NetR?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2_1 Pin=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-7
+Added Net: Name=NetR?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2_1
+Added Pin To Net: NetName=NetR?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2_2 Pin=R?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-2
+Added Net: Name=NetR?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2_2
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Pin To Net: NetName=NetU?_3 Pin=U?-9
+Added Net: Name=NetU?_3
+Added Pin To Net: NetName=NetU?_6 Pin=U?-6
+Added Pin To Net: NetName=NetU?_6 Pin=U?-10
+Added Net: Name=NetU?_6
+Added Pin To Net: NetName=NetU?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1_2 Pin=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-2
+Added Pin To Net: NetName=NetU?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1_2 Pin=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1-5
+Added Net: Name=NetU?_SHDN-BSPD-S04-V00-BSPDWindowComparitor1_2
+Added Pin To Net: NetName=NetU?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2_2 Pin=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-2
+Added Pin To Net: NetName=NetU?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2_2 Pin=U?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2-5
+Added Net: Name=NetU?_SHDN-BSPD-S04-V00-BSPDWindowComparitor2_2
+Added Pin To Net: NetName=NRST Pin=C13-2
+Added Pin To Net: NetName=NRST Pin=J3-10
+Added Pin To Net: NetName=NRST Pin=R18-1
+Added Pin To Net: NetName=NRST Pin=SW1-2
+Added Pin To Net: NetName=NRST Pin=U2-7
+Added Net: Name=NRST
+Added Pin To Net: NetName=OSC IN Pin=U2-5
+Added Pin To Net: NetName=OSC IN Pin=U3-3
+Added Net: Name=OSC IN
+Added Pin To Net: NetName=PC13 Pin=U2-2
+Added Net: Name=PC13
+Added Pin To Net: NetName=PC14 Pin=U2-3
+Added Net: Name=PC14
+Added Pin To Net: NetName=PC15 Pin=U2-4
+Added Net: Name=PC15
+Added Net: Name=PD2
+Added Pin To Net: NetName=PEDAL IN Pin=J?-1
+Added Net: Name=PEDAL IN
+Added Pin To Net: NetName=PF4 Pin=U2-18
+Added Net: Name=PF4
+Added Pin To Net: NetName=PROG A Pin=J3-6
+Added Net: Name=PROG A
+Added Pin To Net: NetName=PROG B Pin=J3-7
+Added Net: Name=PROG B
+Added Pin To Net: NetName=PROG C Pin=J3-8
+Added Net: Name=PROG C
+Added Pin To Net: NetName=PWR CB Pin=C17-1
+Added Pin To Net: NetName=PWR CB Pin=U6-1
+Added Net: Name=PWR CB
+Added Pin To Net: NetName=PWR FB Pin=R30-1
+Added Pin To Net: NetName=PWR FB Pin=R32-2
+Added Pin To Net: NetName=PWR FB Pin=TP3-1
+Added Pin To Net: NetName=PWR FB Pin=U6-3
+Added Net: Name=PWR FB
+Added Pin To Net: NetName=PWR SW Pin=C17-2
+Added Pin To Net: NetName=PWR SW Pin=D2-K
+Added Pin To Net: NetName=PWR SW Pin=L2-1
+Added Pin To Net: NetName=PWR SW Pin=TP2-1
+Added Pin To Net: NetName=PWR SW Pin=U6-6
+Added Net: Name=PWR SW
+Added Pin To Net: NetName=RELAY CTRL Pin=Q?-G
+Added Pin To Net: NetName=RELAY CTRL Pin=R?-2
+Added Net: Name=RELAY CTRL
+Added Pin To Net: NetName=RELAY Pin=D?-K
+Added Pin To Net: NetName=RELAY Pin=K?-2
+Added Pin To Net: NetName=RELAY Pin=Q?-D
+Added Net: Name=RELAY
+Added Pin To Net: NetName=SHDN RELAY Pin=R?-1
+Added Pin To Net: NetName=SHDN RELAY Pin=U?-1
+Added Pin To Net: NetName=SHDN RELAY Pin=U?-9
+Added Net: Name=SHDN RELAY
+Added Pin To Net: NetName=SWCLK Pin=J3-4
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J3-2
+Added Pin To Net: NetName=SWDIO Pin=U2-46
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=USART1 RX Pin=P1-2
+Added Pin To Net: NetName=USART1 RX Pin=U2-27
+Added Net: Name=USART1 RX
+Added Pin To Net: NetName=USART1 TX Pin=P1-1
+Added Pin To Net: NetName=USART1 TX Pin=U2-26
+Added Net: Name=USART1 TX
+Added Class: Name=SHDN-BSPD-S02-V00-BSPDSystem
+Added Class: Name=SHDN-BSPD-S03-V00-VoltageDivider1
+Added Class: Name=SHDN-BSPD-S03-V00-VoltageDivider2
+Added Class: Name=SHDN-BSPD-S03-V00-VoltageDivider3
+Added Class: Name=SHDN-BSPD-S03-V00-VoltageDivider4
+Added Class: Name=SHDN-BSPD-S03-V00-VoltageDivider5
+Added Class: Name=SHDN-BSPD-S03-V00-VoltageDivider6
+Added Class: Name=SHDN-BSPD-S03-V00-VoltageDivider7
+Added Class: Name=SHDN-BSPD-S03-V00-VoltageDivider8
+Added Class: Name=SHDN-BSPD-S04-V00-BSPDWindowComparitor1
+Added Class: Name=SHDN-BSPD-S04-V00-BSPDWindowComparitor2
+Added Class: Name=SHDN-BSPD-S05-V00-BSPDDelay
+Added Class: Name=SHDN-BSPD-S06-V00-BSPDSense
+Added Class: Name=SHDN-BSPD-S07-V00-Microcontroller
+Added Class: Name=SHDN-BSPD-S08-V00-IsolatedCAN
+Added Class: Name=SHDN-BSPD-S09-V00-PSU
+Added Class: Name=SHDN-BSPD-S10-V00-Buzzer
+Added Class: Name=SHDN-BSPD-S11-V00-ShutdownRelay
+Added Class: Name=SHDN-BSPD-S12-V00-Connectivity
+Added Class: Name=SHDN-BSPD-S03-V00-VoltageDivider
+Added Class: Name=SHDN-BSPD-S04-V00-BSPDWindowComparitor
+Added Room: Name=SHDN-BSPD-S02-V00-BSPDSystem
+Added Room: Name=SHDN-BSPD-S03-V00-VoltageDivider1
+Added Room: Name=SHDN-BSPD-S03-V00-VoltageDivider2
+Added Room: Name=SHDN-BSPD-S03-V00-VoltageDivider3
+Added Room: Name=SHDN-BSPD-S03-V00-VoltageDivider4
+Added Room: Name=SHDN-BSPD-S03-V00-VoltageDivider5
+Added Room: Name=SHDN-BSPD-S03-V00-VoltageDivider6
+Added Room: Name=SHDN-BSPD-S03-V00-VoltageDivider7
+Added Room: Name=SHDN-BSPD-S03-V00-VoltageDivider8
+Added Room: Name=SHDN-BSPD-S04-V00-BSPDWindowComparitor1
+Added Room: Name=SHDN-BSPD-S04-V00-BSPDWindowComparitor2
+Added Room: Name=SHDN-BSPD-S05-V00-BSPDDelay
+Added Room: Name=SHDN-BSPD-S06-V00-BSPDSense
+Added Room: Name=SHDN-BSPD-S07-V00-Microcontroller
+Added Room: Name=SHDN-BSPD-S08-V00-IsolatedCAN
+Added Room: Name=SHDN-BSPD-S09-V00-PSU
+Added Room: Name=SHDN-BSPD-S10-V00-Buzzer
+Added Room: Name=SHDN-BSPD-S11-V00-ShutdownRelay
+Added Room: Name=SHDN-BSPD-S12-V00-Connectivity
