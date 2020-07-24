@@ -1110,6 +1110,7 @@ DocumentUniqueId=
 
 [Document64]
 DocumentPath=SHDN-BSPD-B00-V00.PcbDoc
+DocumentPath=SHDN-BSPD-B01-V00.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1123,7 +1124,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IGAPETPP
+DocumentUniqueId=XVSMOACX
 
 [Configuration1]
 Name=Sources
