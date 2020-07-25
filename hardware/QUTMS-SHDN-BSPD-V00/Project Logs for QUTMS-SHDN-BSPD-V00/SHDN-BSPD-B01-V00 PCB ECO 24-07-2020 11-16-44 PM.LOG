@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=SHDN-BSPD-S07-V00-PSU Member=DS1
+Removed Member From Class: ClassName=SHDN-BSPD-S06-V00-IsolatedCAN Member=J4
+Removed Member From Class: ClassName=SHDN-BSPD-S10-V00-Connectivity Member=J4
+Removed Member From Class: ClassName=SHDN-BSPD-S07-V00-PSU Member=R19
+Removed Member From Class: ClassName=SHDN-BSPD-S08-V00-Buzzer Member=R20
+Removed Member From Class: ClassName=SHDN-BSPD-S04-V00-BSPDDelay Member=R21
+Removed Member From Class: ClassName=SHDN-BSPD-S04-V00-BSPDDelay Member=R22
+Removed Member From Class: ClassName=SHDN-BSPD-S05-V00-Microcontroller Member=R23
+Added Member To Class: ClassName=SHDN-BSPD-S05-V00-Microcontroller Member=Component C9 4u7
+Added Member To Class: ClassName=SHDN-BSPD-S05-V00-Microcontroller Member=Component C11 4u7
+Added Member To Class: ClassName=SHDN-BSPD-S05-V00-Microcontroller Member=Component C13 4u7
+Added Member To Class: ClassName=SHDN-BSPD-S05-V00-Microcontroller Member=Component C15 4u7
+Added Member To Class: ClassName=SHDN-BSPD-S05-V00-Microcontroller Member=Component C17 10nF
+Added Member To Class: ClassName=SHDN-BSPD-S05-V00-Microcontroller Member=Component C19 100nF
+Added Member To Class: ClassName=SHDN-BSPD-S07-V00-PSU Member=Component C22 22uF 35V 1206
+Added Member To Class: ClassName=SHDN-BSPD-S07-V00-PSU Member=Component C24 47uF 16V 1210
+Added Member To Class: ClassName=SHDN-BSPD-S06-V00-IsolatedCAN Member=Component DS2 LED Blue 0603
+Added Member To Class: ClassName=SHDN-BSPD-S07-V00-PSU Member=Component DS3 LED Green 0603
+Added Member To Class: ClassName=SHDN-BSPD-S06-V00-IsolatedCAN Member=Component J2 Jumper 2Way Solderable
+Added Member To Class: ClassName=SHDN-BSPD-S06-V00-IsolatedCAN Member=Component J3 Jumper 2Way Pins
+Added Member To Class: ClassName=SHDN-BSPD-S10-V00-Connectivity Member=Component J5 Microfit 3.0 2x4
+Added Member To Class: ClassName=SHDN-BSPD-S04-V00-BSPDDelay Member=Component R14 68k 5% 0603
+Added Member To Class: ClassName=SHDN-BSPD-S04-V00-BSPDDelay Member=Component R16 TC33X-2-103E
+Added Member To Class: ClassName=SHDN-BSPD-S04-V00-BSPDDelay Member=Component R17 DNF 0603
+Added Member To Class: ClassName=SHDN-BSPD-S05-V00-Microcontroller Member=Component R18 4k7
+Added Member To Class: ClassName=SHDN-BSPD-S07-V00-PSU Member=Component R24 19k6 1%
+Added Member To Class: ClassName=SHDN-BSPD-S08-V00-Buzzer Member=Component R25 1k
+Added Member To Class: ClassName=SHDN-BSPD-S05-V00-Microcontroller Member=Component U4 STM32F302RC

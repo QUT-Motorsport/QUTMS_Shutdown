@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=12V Pin=K1-1
+Removed Pin From Net: NetName=RELAY Pin=K1-2
+Added Pin To Net: NetName=12V Pin=K1-2
+Added Pin To Net: NetName=CHAIN IN Pin=K1-5
+Added Pin To Net: NetName=CHAIN IN Pin=K1-6
+Added Pin To Net: NetName=RELAY Pin=K1-9
+Added Pin To Net: NetName=CHAIN OUT Pin=K1-10

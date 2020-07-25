@@ -1,0 +1,51 @@
+Change Component Comment : Designator=R1A Old Comment=1k New Comment=1k 5% 0603
+Change Component Comment : Designator=R1B Old Comment=1k New Comment=1k 5% 0603
+Change Component Comment : Designator=R2A Old Comment=1k New Comment=1k 5% 0603
+Change Component Comment : Designator=R2B Old Comment=1k New Comment=1k 5% 0603
+Change Component Comment : Designator=R3A Old Comment=1k New Comment=1k 5% 0603
+Change Component Comment : Designator=R3B Old Comment=1k New Comment=1k 5% 0603
+Change Component Comment : Designator=R23 Old Comment=1k New Comment=1k 5% 0603
+Change Component Comment : Designator=R25 Old Comment=1k New Comment=1k 5% 0603
+Change Component Comment : Designator=R27 Old Comment=1k New Comment=1k 5% 0603
+Change Component Comment : Designator=R29 Old Comment=1k New Comment=1k 5% 0603
+Change Component Comment : Designator=C16 Old Comment=1uF New Comment=1uF 25V 5% X7R 0603
+Change Component Comment : Designator=R18 Old Comment=4k7 New Comment=4k7 5% 0603
+Change Component Comment : Designator=C9 Old Comment=4u7 New Comment=4u7 50V 5% X7R 0603
+Change Component Comment : Designator=C11 Old Comment=4u7 New Comment=4u7 50V 5% X7R 0603
+Change Component Comment : Designator=C13 Old Comment=4u7 New Comment=4u7 50V 5% X7R 0603
+Change Component Comment : Designator=C15 Old Comment=4u7 New Comment=4u7 50V 5% X7R 0603
+Change Component Comment : Designator=C17 Old Comment=10nF New Comment=10nF 50V 5% X7R 0603
+Change Component Comment : Designator=R24 Old Comment=19k6 1% New Comment=19k6 1% 0603
+Change Component Comment : Designator=C22 Old Comment=22uF 35V 1206 New Comment=22uF 35V 10% X7R 1206
+Change Component Comment : Designator=C23 Old Comment=22uF 35V 1206 New Comment=22uF 35V 10% X7R 1206
+Change Component Comment : Designator=C24 Old Comment=47uF 16V 1210 New Comment=47uF 16V 10% X7R 1210
+Change Component Comment : Designator=C25 Old Comment=47uF 16V 1210 New Comment=47uF 16V 10% X7R 1210
+Change Component Comment : Designator=R22 Old Comment=64k9 1% New Comment=64k9 1% 0603
+Change Component Comment : Designator=C21 Old Comment=100nF 100V New Comment=100nF 100V 5% X7R 0603
+Change Component Comment : Designator=C1 Old Comment=100nF New Comment=100nF 50V 5% X7R 0603
+Change Component Comment : Designator=C2A Old Comment=100nF New Comment=100nF 50V 5% X7R 0603
+Change Component Comment : Designator=C2B Old Comment=100nF New Comment=100nF 50V 5% X7R 0603
+Change Component Comment : Designator=C4A Old Comment=100nF New Comment=100nF 50V 5% X7R 0603
+Change Component Comment : Designator=C4B Old Comment=100nF New Comment=100nF 50V 5% X7R 0603
+Change Component Comment : Designator=C6 Old Comment=100nF New Comment=100nF 50V 5% X7R 0603
+Change Component Comment : Designator=C7 Old Comment=100nF New Comment=100nF 50V 5% X7R 0603
+Change Component Comment : Designator=C8 Old Comment=100nF New Comment=100nF 50V 5% X7R 0603
+Change Component Comment : Designator=C10 Old Comment=100nF New Comment=100nF 50V 5% X7R 0603
+Change Component Comment : Designator=C12 Old Comment=100nF New Comment=100nF 50V 5% X7R 0603
+Change Component Comment : Designator=C14 Old Comment=100nF New Comment=100nF 50V 5% X7R 0603
+Change Component Comment : Designator=C18 Old Comment=100nF New Comment=100nF 50V 5% X7R 0603
+Change Component Comment : Designator=C19 Old Comment=100nF New Comment=100nF 50V 5% X7R 0603
+Change Component Comment : Designator=C20 Old Comment=100nF New Comment=100nF 50V 5% X7R 0603
+Change Component Comment : Designator=R26 Old Comment=100R New Comment=100R 5% 0603
+Change Component Comment : Designator=R28 Old Comment=100R New Comment=100R 5% 0603
+Change Component Comment : Designator=P1 Old Comment=UART New Comment=Header 3
+Change Component Description : Designator=DS1 Old Description= New Description=LED Blue 0603
+Change Component Description : Designator=DS2 Old Description= New Description=LED Blue 0603
+Change Component Description : Designator=U5 Old Description=on 8MHz XO (Standard) CMOS Oscillator 1.8 ~ 3.3V Standby (Power Down) 4-SMD, No Lead New Description=8MHz XO (Standard) CMOS Oscillator 1.8 ~ 3.3V Standby (Power Down) 4-SMD, No Lead
+Change component parameters: Designator = "D1" ("D1"); Footprint = "NUP2105L"; UniqueID = "\LZGIXNXN\ATHHWKQN" ("\LZGIXNXN\ATHHWKQN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.cn/PowerSolutions/document/NUP2105L-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://lcsc.com/product-detail/TVS_ON-Semiconductor-NUP2105LT1G_C14486.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.digikey.com.au/product-detail/en/on-semiconductor/SZNUP2105LT1G/SZNUP2105LT1GOSCT-ND/3487669"; VariantName = "[No Variations]"

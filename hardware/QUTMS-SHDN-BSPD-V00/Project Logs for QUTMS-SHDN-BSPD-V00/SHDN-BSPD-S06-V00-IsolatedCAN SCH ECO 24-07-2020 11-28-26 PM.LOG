@@ -1,0 +1,10 @@
+Replace Part C20 100nF 50V 5% X7R 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S06-V00-IsolatedCAN.SchDoc with 100nF 50V 5% X7R 0603 from StandardCapacitors.SchLib
+Replace Part D1 NUP2105L in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S06-V00-IsolatedCAN.SchDoc with NUP2105L from QUTMS_CANLibrary.SchLib
+Replace Part DS1 LED Blue 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S06-V00-IsolatedCAN.SchDoc with LED Blue 0603 from QUTMS_LEDLibrary.SchLib
+Replace Part DS2 LED Blue 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S06-V00-IsolatedCAN.SchDoc with LED Blue 0603 from QUTMS_LEDLibrary.SchLib
+Replace Part J2 Jumper 2Way Side Solderable in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S06-V00-IsolatedCAN.SchDoc with Jumper 2Way Side Solderable from QUTMS_JumperLibrary.SchLib
+Replace Part J3 Jumper 2Way Side Pins in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S06-V00-IsolatedCAN.SchDoc with Jumper 2Way Side Pins from QUTMS_JumperLibrary.SchLib
+Replace Part R19 330R 5% 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S06-V00-IsolatedCAN.SchDoc with 330R 5% 0603 from StandardResistors.SchLib
+Replace Part R20 330R 5% 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S06-V00-IsolatedCAN.SchDoc with 330R 5% 0603 from StandardResistors.SchLib
+Replace Part R21 120R 1% 1210 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S06-V00-IsolatedCAN.SchDoc with 120R 1% 1210 from StandardResistors.SchLib
+Replace Part U6 SN65HVD233 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S06-V00-IsolatedCAN.SchDoc with SN65HVD233 from QUTMS_CANLibrary.SchLib

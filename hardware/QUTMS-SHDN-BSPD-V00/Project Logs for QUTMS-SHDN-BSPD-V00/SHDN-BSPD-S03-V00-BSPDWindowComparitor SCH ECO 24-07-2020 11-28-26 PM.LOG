@@ -1,0 +1,19 @@
+Replace Part C2 100nF 50V 5% X7R 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with 100nF 50V 5% X7R 0603 from StandardCapacitors.SchLib
+Replace Part C3 100nF 50V 5% X7R 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with 100nF 50V 5% X7R 0603 from StandardCapacitors.SchLib
+Replace Part C4 100nF 50V 5% X7R 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with 100nF 50V 5% X7R 0603 from StandardCapacitors.SchLib
+Replace Part R1 1k 5% 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with 1k 5% 0603 from StandardResistors.SchLib
+Replace Part R2 1k 5% 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with 1k 5% 0603 from StandardResistors.SchLib
+Replace Part R3 1k 5% 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with 1k 5% 0603 from StandardResistors.SchLib
+Replace Part R4 DNF 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with DNF 0603 from StandardResistors.SchLib
+Replace Part R5 TC33X-2-103E in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with TC33X-2-103E from QUTMS_TrimmerLibrary.SchLib
+Replace Part R6 DNF 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with DNF 0603 from StandardResistors.SchLib
+Replace Part R7 10k 5% 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with 10k 5% 0603 from StandardResistors.SchLib
+Replace Part R8 2k7 5% 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with 2k7 5% 0603 from StandardResistors.SchLib
+Replace Part R9 DNF 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with DNF 0603 from StandardResistors.SchLib
+Replace Part R10 TC33X-2-103E in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with TC33X-2-103E from QUTMS_TrimmerLibrary.SchLib
+Replace Part R11 DNF 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with DNF 0603 from StandardResistors.SchLib
+Replace Part R12 10k 5% 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with 10k 5% 0603 from StandardResistors.SchLib
+Replace Part R13 2k7 5% 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with 2k7 5% 0603 from StandardResistors.SchLib
+Replace Part U2 LM393 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with LM393 from QUTMS_OpAmpLibrary.SchLib
+Replace Part U2 LM393 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with LM393 from QUTMS_OpAmpLibrary.SchLib
+Replace Part U2 LM393 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S03-V00-BSPDWindowComparitor.SchDoc with LM393 from QUTMS_OpAmpLibrary.SchLib
