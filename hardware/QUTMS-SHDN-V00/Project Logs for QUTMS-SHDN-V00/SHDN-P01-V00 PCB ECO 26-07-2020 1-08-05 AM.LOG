@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=7SEG LT Pin=U3-41
+Removed Pin From Net: NetName=7SEG D2 Pin=U3-43
+Added Pin To Net: NetName=7SEG D2 Pin=U3-41
+Added Pin To Net: NetName=7SEG LT Pin=U3-43
