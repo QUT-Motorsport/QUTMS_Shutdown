@@ -1,0 +1,4 @@
+Added Component: Designator=M5(M3.5 UNPLATED)
+Added Component: Designator=M6(M3.5 UNPLATED)
+Added Member To Class: ClassName=SHDN-CURRENT-S01-V00-CurrentBoard Member=Component M5 Hole M3 Loose Unplated
+Added Member To Class: ClassName=SHDN-CURRENT-S01-V00-CurrentBoard Member=Component M6 Hole M3 Loose Unplated

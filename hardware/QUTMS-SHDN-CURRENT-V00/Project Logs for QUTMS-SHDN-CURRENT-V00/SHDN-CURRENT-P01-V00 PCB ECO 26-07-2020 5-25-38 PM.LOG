@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=3V3 Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=3V3 Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=NRST Pin=C12-2
+Removed Pin From Net: NetName=3V3 Pin=L1-1
+Removed Pin From Net: NetName=GND Pin=U1-12
+Removed Pin From Net: NetName=5kW CALIBRATION Pin=U1-14
+Removed Pin From Net: NetName=5kW ALARM Pin=U1-15
+Removed Pin From Net: NetName=CURRENT VLTG Pin=U1-16
+Removed Pin From Net: NetName=VSEL LEM Pin=U1-17
+Removed Pin From Net: NetName=LED B Pin=U1-18
+Removed Pin From Net: NetName=3V3 Pin=U1-19
+Removed Pin From Net: NetName=VSEL ALARM Pin=U1-20
+Removed Pin From Net: NetName=GND Pin=U1-31
+Removed Pin From Net: NetName=3V3 Pin=U1-32
+Removed Pin From Net: NetName=CAN RX Pin=U1-44
+Removed Pin From Net: NetName=CAN TX Pin=U1-45
+Removed Pin From Net: NetName=SWDIO Pin=U1-46
+Removed Pin From Net: NetName=SWCLK Pin=U1-49
+Removed Pin From Net: NetName=LED A Pin=U1-54
+Removed Pin From Net: NetName=USART1 TX Pin=U1-58
+Removed Pin From Net: NetName=USART1 RX Pin=U1-59
+Removed Pin From Net: NetName=GND Pin=U1-63
+Removed Pin From Net: NetName=3V3 Pin=U1-64
+Removed Member From Class: ClassName=SHDN-CURRENT-S02-V00-Microcontroller Member=C9
+Removed Member From Class: ClassName=SHDN-CURRENT-S02-V00-Microcontroller Member=C10
+Removed Member From Class: ClassName=SHDN-CURRENT-S02-V00-Microcontroller Member=C11
+Removed Member From Class: ClassName=SHDN-CURRENT-S02-V00-Microcontroller Member=C12
+Removed Member From Class: ClassName=SHDN-CURRENT-S02-V00-Microcontroller Member=L1
+Change Component Footprint: Designator=U1 Old Footprint=STM32F302RC New Footprint=STM32F042C6
+Change Component Comment : Designator=C8 Old Comment=4u7 New Comment=100nF
+Change Component Comment : Designator=U1 Old Comment=STM32F302RC New Comment=STM32F042C6
+Change component parameters: Designator = "U1" ("U1"); Footprint = "STM32F302RC"; UniqueID = "\XICKZBMH\NPHCJBSQ" ("\XICKZBMH\NPHCJBSQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/stmicroelectronics/STM32F042C6T6TR/497-19319-1-ND/10063344"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.st.com/resource/en/datasheet/stm32f042k6.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TestPointSMD)
+Added Component: Designator=TP7(TestPointSMD)
+Added Component: Designator=TP8(TestPointSMD)
+Added Component: Designator=TP9(TestPointSMD)
+Added Component: Designator=TP10(TestPointSMD)
+Added Component: Designator=TP11(TestPointSMD)
+Added Pin To Net: NetName=NRST Pin=C8-2
+Added Pin To Net: NetName=3V3 Pin=TP6-1
+Added Pin To Net: NetName=PWR SW Pin=TP7-1
+Added Pin To Net: NetName=PWR FB Pin=TP8-1
+Added Pin To Net: NetName=5V Pin=TP9-1
+Added Pin To Net: NetName=PWR SW 5V Pin=TP10-1
+Added Pin To Net: NetName=PWR FB 5V Pin=TP11-1
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=3V3 Pin=U1-9
+Added Pin To Net: NetName=5kW CALIBRATION Pin=U1-10
+Added Pin To Net: NetName=5kW ALARM Pin=U1-11
+Added Pin To Net: NetName=CURRENT VLTG Pin=U1-12
+Added Pin To Net: NetName=VSEL LEM Pin=U1-13
+Added Pin To Net: NetName=VSEL ALARM Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=3V3 Pin=U1-24
+Added Pin To Net: NetName=LED A Pin=U1-27
+Added Pin To Net: NetName=LED B Pin=U1-28
+Added Pin To Net: NetName=USART1 TX Pin=U1-30
+Added Pin To Net: NetName=USART1 RX Pin=U1-31
+Added Pin To Net: NetName=CAN RX Pin=U1-32
+Added Pin To Net: NetName=CAN TX Pin=U1-33
+Added Pin To Net: NetName=SWDIO Pin=U1-34
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=3V3 Pin=U1-36
+Added Pin To Net: NetName=SWCLK Pin=U1-37
+Added Pin To Net: NetName=7SEG D0A Pin=U8A-7
+Added Pin To Net: NetName=7SEG D0A Pin=U8B-7
+Added Net: Name=7SEG D0A
+Added Pin To Net: NetName=7SEG D1A Pin=U8A-1
+Added Pin To Net: NetName=7SEG D1A Pin=U8B-1
+Added Net: Name=7SEG D1A
+Added Pin To Net: NetName=7SEG D2A Pin=U8A-2
+Added Pin To Net: NetName=7SEG D2A Pin=U8B-2
+Added Net: Name=7SEG D2A
+Added Pin To Net: NetName=7SEG D3A Pin=U8A-6
+Added Pin To Net: NetName=7SEG D3A Pin=U8B-6
+Added Net: Name=7SEG D3A
+Added Pin To Net: NetName=7SEG LTA Pin=U8A-3
+Added Pin To Net: NetName=7SEG LTA Pin=U8B-3
+Added Net: Name=7SEG LTA
+Added Pin To Net: NetName=NetR39A_1 Pin=R39A-1
+Added Net: Name=NetR39A_1
+Added Pin To Net: NetName=NetR39B_1 Pin=R39B-1
+Added Net: Name=NetR39B_1
+Added Pin To Net: NetName=NetR40A_1 Pin=R40A-1
+Added Net: Name=NetR40A_1
+Added Pin To Net: NetName=NetR40B_1 Pin=R40B-1
+Added Net: Name=NetR40B_1
+Added Pin To Net: NetName=NetR43_1 Pin=R43-1
+Added Net: Name=NetR43_1
+Added Member To Class: ClassName=SHDN-CURRENT-S04-V00-PSU-3V3 Member=Component TP6 TestPoint_SMD
+Added Member To Class: ClassName=SHDN-CURRENT-S04-V00-PSU-3V3 Member=Component TP7 TestPoint_SMD
+Added Member To Class: ClassName=SHDN-CURRENT-S04-V00-PSU-3V3 Member=Component TP8 TestPoint_SMD
+Added Member To Class: ClassName=SHDN-CURRENT-S09-V00-PSU-5V Member=Component TP9 TestPoint_SMD
+Added Member To Class: ClassName=SHDN-CURRENT-S09-V00-PSU-5V Member=Component TP10 TestPoint_SMD
+Added Member To Class: ClassName=SHDN-CURRENT-S09-V00-PSU-5V Member=Component TP11 TestPoint_SMD
+Added Room: Name=SHDN-CURRENT-S01-V00-CurrentBoard
+Added Room: Name=SHDN-CURRENT-S02-V00-Microcontroller
+Added Room: Name=SHDN-CURRENT-S03-V00-IsolatedCAN
+Added Room: Name=SHDN-CURRENT-S04-V00-PSU-3V3
+Added Room: Name=SHDN-CURRENT-S05-V00-CurrentInterface
+Added Room: Name=SHDN-CURRENT-S06-V00-5kWSimulation
+Added Room: Name=SHDN-CURRENT-S07-V00-LEMInterface
+Added Room: Name=SHDN-CURRENT-S08-V00-5kWDetection
+Added Room: Name=SHDN-CURRENT-S09-V00-PSU-5V
+Added Room: Name=SHDN-CURRENT-S10-V00-5kWAlarm
+Added Room: Name=SHDN-CURRENT-S12-V00-Buzzer
+Added Room: Name=SHDN-CURRENT-S13-V00-ShutdownRelay
+Added Room: Name=SHDN-CURRENT-S14-V00-Connector

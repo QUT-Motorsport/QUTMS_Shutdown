@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=CURRENT VLTG Pin=U1-17
+Added Pin To Net: NetName=CURRENT VLTG Pin=U1-16
+Added Pin To Net: NetName=VSEL ALARM Pin=R27-1
+Added Pin To Net: NetName=VSEL ALARM Pin=R29-2
+Added Pin To Net: NetName=VSEL ALARM Pin=U1-20
+Added Net: Name=VSEL ALARM
+Added Pin To Net: NetName=VSEL LEM Pin=R7-1
+Added Pin To Net: NetName=VSEL LEM Pin=R8-2
+Added Pin To Net: NetName=VSEL LEM Pin=U1-17
+Added Net: Name=VSEL LEM

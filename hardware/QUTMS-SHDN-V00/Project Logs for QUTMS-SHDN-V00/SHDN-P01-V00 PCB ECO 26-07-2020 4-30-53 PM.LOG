@@ -1,0 +1,4 @@
+Added Component: Designator=R58(Res_ThinFilm_0603)
+Added Pin To Net: NetName=SSR HIGH Pin=R58-1
+Added Pin To Net: NetName=SEG IN9 Pin=R58-2
+Added Member To Class: ClassName=SHDN-S04-V00-ShutdownRelay Member=Component R58 100k
