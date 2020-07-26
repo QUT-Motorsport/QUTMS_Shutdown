@@ -1,0 +1,6 @@
+Replace Part B1 PS1240P02BT in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S08-V00-Buzzer.SchDoc with PS1240P02BT from QUTMS_BuzzerLibrary.SchLib
+Replace Part J4 Jumper 2Way Side Pins in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S08-V00-Buzzer.SchDoc with Jumper 2Way Side Pins from QUTMS_JumperLibrary.SchLib
+Replace Part Q1 2N7002 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S08-V00-Buzzer.SchDoc with 2N7002 from QUTMS_MOSFETLibrary.SchLib
+Replace Part R25 1k 5% 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S08-V00-Buzzer.SchDoc with 1k 5% 0603 from StandardResistors.SchLib
+Replace Part R26 100R 5%, 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S08-V00-Buzzer.SchDoc with 100R 5%, 0603 from StandardResistors.SchLib
+Replace Part R27 1k 5% 0603 in H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-S08-V00-Buzzer.SchDoc with 1k 5% 0603 from StandardResistors.SchLib
