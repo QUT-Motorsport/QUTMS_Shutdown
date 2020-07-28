@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [QUTMS-SHDN-BSPD-V00.PrjPcb]
+   Generated File[SHDN-BSPD-B01-V00.TXT]
+   Generated File[SHDN-BSPD-B01-V00.LDP]
+   Generated File[SHDN-BSPD-B01-V00.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:03:15 PM On 28/07/2020
