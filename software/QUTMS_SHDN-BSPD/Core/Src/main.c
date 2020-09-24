@@ -45,7 +45,10 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
+CAN_TxHeaderTypeDef TxHeader;
 
+uint8_t TxData[8];
+uint32_t TxMailbox;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -66,7 +69,13 @@ void SystemClock_Config(void);
 int main(void)
 {
   /* USER CODE BEGIN 1 */
+	char msg[256];
 
+	TxHeader.ExtId = 0x02;
+	TxHeader.IDE = CAN_ID_EXT;
+	TxHeader.RTR = CAN_RTR_DATA;
+	TxHeader.DLC = 2;
+	TxHeader.TransmitGlobalTime = DISABLE;
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
@@ -90,6 +99,14 @@ int main(void)
   MX_CAN_Init();
   MX_USART3_UART_Init();
   /* USER CODE BEGIN 2 */
+  if (HAL_CAN_Start(&hcan) != HAL_OK)
+  {
+	  /* Start Error */
+	  sprintf(msg, "can not start.\r\n");
+	  HAL_UART_Transmit(&huart3, (uint8_t*) msg, strlen((char*) msg),
+			HAL_MAX_DELAY);
+	  Error_Handler();
+  }
 
   /* USER CODE END 2 */
 
@@ -98,6 +115,23 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
+
+	// TEST CAN MESSAGE
+	TxData[0] = 0;//vol_low;
+	TxData[1] = 1;//vol_high;
+	// Request transmisison
+	if (HAL_CAN_AddTxMessage(&hcan, &TxHeader, TxData, &TxMailbox)
+			!= HAL_OK) {
+		sprintf(msg, "can error\r\n");
+				//sprintf(msg, "result: %d, voltage (%d): %d, pack voltage: %d.\r\n", volRes, cell, voltage, pack_voltage);
+				HAL_UART_Transmit(&huart3, (uint8_t*) msg, strlen((char*) msg),
+						HAL_MAX_DELAY);
+		Error_Handler();
+	}
+
+	// TEST LED CODE
+
+
 
     /* USER CODE BEGIN 3 */
   }
