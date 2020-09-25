@@ -1,0 +1,31 @@
+19:45:50 **** Incremental Build of configuration Debug for project QUTMS_SHTDN-CURRENT ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m0 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DSTM32F042x6 -DDEBUG -c -I../Drivers/STM32F0xx_HAL_Driver/Inc -I../Drivers/CMSIS/Include -I../Core/Inc -I../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F0xx/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:118:4: warning: implicit declaration of function 'sprintf' [-Wimplicit-function-declaration]
+    sprintf(msg, "test");
+    ^~~~~~~
+../Core/Src/main.c:118:4: warning: incompatible implicit declaration of built-in function 'sprintf'
+../Core/Src/main.c:118:4: note: include '<stdio.h>' or provide a declaration of 'sprintf'
+../Core/Src/main.c:119:50: warning: implicit declaration of function 'strlen' [-Wimplicit-function-declaration]
+       HAL_UART_Transmit(&huart1, (uint8_t*) msg, strlen((char*) msg), HAL_MAX_DELAY);
+                                                  ^~~~~~
+../Core/Src/main.c:119:50: warning: incompatible implicit declaration of built-in function 'strlen'
+../Core/Src/main.c:119:50: note: include '<string.h>' or provide a declaration of 'strlen'
+arm-none-eabi-gcc -o "QUTMS_SHTDN-CURRENT.elf" @"objects.list"   -mcpu=cortex-m0 -T"C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\STM32F042C6TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="QUTMS_SHTDN-CURRENT.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: QUTMS_SHTDN-CURRENT.elf
+ 
+arm-none-eabi-objdump -h -S  QUTMS_SHTDN-CURRENT.elf  > "QUTMS_SHTDN-CURRENT.list"
+arm-none-eabi-objcopy  -O binary  QUTMS_SHTDN-CURRENT.elf  "QUTMS_SHTDN-CURRENT.bin"
+arm-none-eabi-size   QUTMS_SHTDN-CURRENT.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9712	     20	   1772	  11504	   2cf0	QUTMS_SHTDN-CURRENT.elf
+Finished building: default.size.stdout
+ 
+Finished building: QUTMS_SHTDN-CURRENT.bin
+ 
+Finished building: QUTMS_SHTDN-CURRENT.list
+ 
+
+19:45:51 Build Finished. 0 errors, 4 warnings. (took 1s.436ms)
+

@@ -1,0 +1,560 @@
+2020-09-25 13:04:02,738 [INFO] Activator:176 - 
+
+
+2020-09-25 13:04:02,743 [INFO] Activator:177 - !SESSION log4j initialized
+2020-09-25 13:04:14,646 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639
+2020-09-25 13:04:14,672 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/mcu/
+2020-09-25 13:04:14,679 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/boardmanager/
+2020-09-25 13:04:14,680 [INFO] DbMcus:235 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2020-09-25 13:04:14,680 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2020-09-25 13:04:14,696 [INFO] DbMcusAds:85 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/
+2020-09-25 13:04:14,698 [INFO] DbMcusDocs:108 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/
+2020-09-25 13:04:14,701 [INFO] DbMcusJson:61 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/
+2020-09-25 13:04:14,702 [INFO] DbBoardsDocs:97 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/
+2020-09-25 13:04:14,704 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/
+2020-09-25 13:04:15,250 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-09-25 13:04:15,527 [INFO] RulesReader:52 - Compatibility file has been processed (208 Rules)
+2020-09-25 13:04:15,848 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_242
+2020-09-25 13:04:15,849 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/mcu/
+2020-09-25 13:04:15,849 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/boardmanager/
+2020-09-25 13:04:15,849 [INFO] DbMcus:235 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2020-09-25 13:04:15,851 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2020-09-25 13:04:15,852 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder/ => C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder
+2020-09-25 13:04:15,853 [INFO] DbMcusAds:85 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/
+2020-09-25 13:04:15,853 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder/ => C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder
+2020-09-25 13:04:15,853 [INFO] DbMcusDocs:108 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/
+2020-09-25 13:04:15,853 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder/ => C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder
+2020-09-25 13:04:15,854 [INFO] DbMcusJson:61 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/
+2020-09-25 13:04:15,854 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder/ => C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder
+2020-09-25 13:04:15,854 [INFO] DbBoardsDocs:97 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/
+2020-09-25 13:04:15,854 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder/ => C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder
+2020-09-25 13:04:15,855 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/
+2020-09-25 13:04:15,855 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder/ => C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder
+2020-09-25 13:04:15,856 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder/ => C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder
+2020-09-25 13:04:15,856 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-09-25 13:04:16,071 [INFO] MainPanel:181 - HeapMemory: 297795584
+2020-09-25 13:04:16,254 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/mcu/
+2020-09-25 13:04:16,254 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/boardmanager/
+2020-09-25 13:04:16,255 [INFO] DbMcus:235 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2020-09-25 13:04:16,255 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/
+2020-09-25 13:04:16,256 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder/ => C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder
+2020-09-25 13:04:16,257 [INFO] DbMcusAds:85 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/
+2020-09-25 13:04:16,257 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder/ => C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder
+2020-09-25 13:04:16,257 [INFO] DbMcusDocs:108 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/
+2020-09-25 13:04:16,258 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder/ => C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder
+2020-09-25 13:04:16,258 [INFO] DbMcusJson:61 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/
+2020-09-25 13:04:16,259 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder/ => C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder
+2020-09-25 13:04:16,259 [INFO] DbBoardsDocs:97 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/
+2020-09-25 13:04:16,259 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder/ => C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder
+2020-09-25 13:04:16,260 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/
+2020-09-25 13:04:16,260 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder/ => C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder
+2020-09-25 13:04:16,260 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder/ => C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder
+2020-09-25 13:04:16,261 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-09-25 13:04:16,343 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639
+2020-09-25 13:04:16,346 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=, tutovideos]
+2020-09-25 13:04:16,348 [INFO] PluginManage:292 - Check plugin analytics
+2020-09-25 13:04:16,384 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-09-25 13:04:16,384 [INFO] PluginManage:292 - Check plugin clock
+2020-09-25 13:04:16,420 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-09-25 13:04:16,420 [INFO] PluginManage:292 - Check plugin ddr
+2020-09-25 13:04:16,427 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-09-25 13:04:16,428 [INFO] PluginManage:292 - Check plugin filemanager
+2020-09-25 13:04:16,706 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-09-25 13:04:16,707 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-09-25 13:04:16,762 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-09-25 13:04:16,763 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-09-25 13:04:16,818 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-09-25 13:04:16,819 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-09-25 13:04:16,904 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-09-25 13:04:16,905 [INFO] PluginManage:292 - Check plugin power
+2020-09-25 13:04:16,953 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-09-25 13:04:16,954 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-09-25 13:04:16,989 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-09-25 13:04:16,989 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-09-25 13:04:17,156 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (C:/Users/Reyno_lds/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 53 ms. number of Sw pack : 9
+2020-09-25 13:04:17,174 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-09-25 13:04:17,174 [INFO] PluginManage:292 - Check plugin tools
+2020-09-25 13:04:17,230 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-09-25 13:04:17,231 [INFO] PluginManage:292 - Check plugin tutovideos
+2020-09-25 13:04:17,462 [INFO] PluginManage:347 - Ignore plugin tutovideos (category:base)
+2020-09-25 13:04:17,463 [INFO] PluginManage:292 - Check plugin updater
+2020-09-25 13:04:17,481 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-09-25 13:04:17,482 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2020-09-25 13:04:18,028 [INFO] PinOutPanel:1420 - setPackage(No Configuration,No Configuration)
+2020-09-25 13:04:18,406 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:18,407 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-09-25 13:04:18,462 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:18,463 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-09-25 13:04:18,565 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:18,566 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-09-25 13:04:18,616 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:18,617 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-09-25 13:04:18,667 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:18,668 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-09-25 13:04:18,719 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:18,720 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-09-25 13:04:18,747 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:18,749 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-09-25 13:04:18,777 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:18,778 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-09-25 13:04:18,850 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:18,851 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-09-25 13:04:18,874 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:18,874 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-09-25 13:04:18,904 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:18,905 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-09-25 13:04:19,092 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:19,093 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-09-25 13:04:19,410 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:19,411 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-09-25 13:04:19,433 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:19,433 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-09-25 13:04:19,539 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:19,540 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-09-25 13:04:19,579 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:19,580 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-09-25 13:04:19,685 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:19,685 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-09-25 13:04:19,754 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:19,755 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-09-25 13:04:20,002 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,003 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-09-25 13:04:20,062 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,063 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-09-25 13:04:20,079 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,079 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-09-25 13:04:20,103 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,103 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-09-25 13:04:20,154 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,155 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-09-25 13:04:20,234 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,235 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-09-25 13:04:20,275 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,280 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-09-25 13:04:20,309 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,310 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-09-25 13:04:20,327 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,328 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-09-25 13:04:20,503 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,503 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-09-25 13:04:20,579 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,580 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-09-25 13:04:20,683 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,683 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-09-25 13:04:20,719 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,720 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-09-25 13:04:20,839 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,839 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-09-25 13:04:20,875 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,876 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-09-25 13:04:20,911 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,911 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-09-25 13:04:20,951 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,951 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-09-25 13:04:20,983 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:20,984 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-09-25 13:04:21,051 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:04:21,052 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-09-25 13:04:22,171 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-09-25 13:04:22,173 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2020-09-25 13:04:22,487 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-09-25 13:04:23,089 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-09-25 13:04:23,098 [INFO] PinOutPanel:1420 - setPackage(No Configuration,No Configuration)
+2020-09-25 13:04:23,099 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-09-25 13:04:23,108 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-09-25 13:04:23,109 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.3.0.202002181050\tools\bin
+2020-09-25 13:04:23,122 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.3.0.202002181050\tools\bin\STM32_Programmer_CLI.exe -l
+2020-09-25 13:04:23,175 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-09-25 13:04:23,175 [ERROR] IntegrityCheckThread:252 - Cannot obtain thirdParties list 21
+2020-09-25 13:04:23,176 [ERROR] IntegrityCheckThread:100 - Unexpected exception IntegrityCheckThread Thread: Updater error
+2020-09-25 13:04:23,177 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (C:/Users/Reyno_lds/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-09-25 13:04:23,724 [INFO] MainDdrPanel:93 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.3.0.202002181050\tools\bin
+2020-09-25 13:04:23,805 [INFO] Updater:886 - Updater Version found : 5.6.0
+2020-09-25 13:04:23,868 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639
+2020-09-25 13:04:24,228 [INFO] MainUpdater:2230 - connection check result : 10
+2020-09-25 13:04:24,231 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2020-09-25 13:04:24,231 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.60
+2020-09-25 13:04:24,334 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-09-25 13:04:24,469 [INFO] MainUpdater:2230 - connection check result : 10
+2020-09-25 13:04:24,470 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-09-25 13:04:25,073 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-09-25 13:04:25,099 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-09-25 13:04:25,101 [INFO] DbMcusXml:110 - Load MCU database from C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/mcu/families.xml
+2020-09-25 13:04:26,695 [INFO] DbMcusJson:90 - JSON generation date=Mon Jul 27 22:58:30 AEST 2020 (1595854710)
+2020-09-25 13:04:28,106 [INFO] DbMcus:171 - Found 1670 MCUs (1625 are supported by CubeMX, 1625 are visible in CubeMX)
+2020-09-25 13:04:28,108 [INFO] ApiDb:158 - Load user favorites file C:\Users\Reyno_lds/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-09-25 13:04:28,108 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-09-25 13:04:28,108 [INFO] DbMcus:183 - Set 0 / 0 favorites MCUs
+2020-09-25 13:04:30,079 [INFO] DbMcusAds:143 - JSON generation date=Tue Jul 28 00:58:30 AEST 2020 (1595861910)
+2020-09-25 13:04:30,084 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-09-25 13:04:30,381 [INFO] McuDetailPanel:181 - Set advertising image to C:/Users/Reyno_lds/STM32Cube/Repository/\STM32Cube_ecosystem_N4273S_big.jpg
+2020-09-25 13:04:31,493 [INFO] McuFilterPanel:249 - Update 0 favorites MCUs
+2020-09-25 13:04:32,265 [INFO] DbBoardsPdsc:92 - Found 22 items
+2020-09-25 13:04:32,286 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-09-25 13:04:32,317 [INFO] DbBoardsPdsc:92 - Found 28 items
+2020-09-25 13:04:32,331 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-09-25 13:04:32,351 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-09-25 13:04:32,384 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-09-25 13:04:32,402 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-09-25 13:04:32,418 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-09-25 13:04:32,431 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-09-25 13:04:32,431 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-09-25 13:04:32,439 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-09-25 13:04:32,440 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-09-25 13:04:32,440 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-09-25 13:04:32,440 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-09-25 13:04:32,497 [INFO] DbBoardsJson:80 - JSON generation date=Thu Jul 02 23:35:57 AEST 2020 (1593696957)
+2020-09-25 13:04:32,507 [INFO] DbBoards:120 - Found 146 boards (142 are supported by CubeMX)
+2020-09-25 13:04:32,548 [INFO] DbBoardsDocs:131 - JSON generation date=Mon Jul 27 22:58:30 AEST 2020 (1595854710)
+2020-09-25 13:04:32,592 [INFO] DbBoardsDocs:70 - Found 185 boards documents
+2020-09-25 13:04:32,594 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-09-25 13:04:32,596 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-09-25 13:04:32,596 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-09-25 13:04:32,596 [WARN] DbBoards:130 - board NUCLEO-WB35CE has no document id list !
+2020-09-25 13:04:32,597 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-09-25 13:04:32,598 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-09-25 13:04:32,598 [WARN] DbBoards:152 - board B-G474E-DPOW1 / document id not found: 4624
+2020-09-25 13:04:32,598 [WARN] DbBoards:152 - board B-G474E-DPOW1 / document id not found: 4625
+2020-09-25 13:04:32,599 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-09-25 13:04:32,600 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-09-25 13:04:32,600 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-09-25 13:04:32,602 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-09-25 13:04:32,602 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-09-25 13:04:32,603 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-09-25 13:04:32,603 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-09-25 13:04:32,603 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-09-25 13:04:32,604 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-09-25 13:04:32,604 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-09-25 13:04:32,604 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-09-25 13:04:32,604 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-09-25 13:04:34,945 [ERROR] DbBoards:192 - Image file not found for board B-L4S5I-IOT01A: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\/plugins/mcufinder/images/boards/B-L4S5I-IOT01A_small.jpg
+2020-09-25 13:04:34,946 [INFO] ApiDb:158 - Load user favorites file C:\Users\Reyno_lds/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-09-25 13:04:34,947 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-09-25 13:04:34,947 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-09-25 13:04:35,090 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-09-25 13:04:35,090 [INFO] BoardDetailPanel:180 - Set advertising image to C:/Users/Reyno_lds/STM32Cube/Repository/\STM32Cube_ecosystem_N4273S_big.jpg
+2020-09-25 13:04:35,135 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-09-25 13:04:35,440 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: C:\Users\Reyno_lds\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2020-09-25 13:07:12,423 [INFO] DbMcusDocs:142 - JSON generation date=Mon Jul 27 22:58:30 AEST 2020 (1595854710)
+2020-09-25 13:07:12,676 [INFO] DbMcusDocs:77 - Found 580 MCUs documents
+2020-09-25 13:54:43,927 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.11.1
+2020-09-25 13:54:43,928 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.11.0
+2020-09-25 13:54:44,368 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] File copied successfully!!
+2020-09-25 13:54:47,288 [INFO] MainUpdater:2230 - connection check result : 10
+2020-09-25 13:54:47,358 [INFO] MicroXplorer:390 - Change Database Path : 
+2020-09-25 13:54:47,359 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.60
+2020-09-25 13:54:47,363 [INFO] PinOutPanel:1420 - setPackage(No Configuration,No Configuration)
+2020-09-25 13:54:47,363 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 433285072 Bytes (753926144)
+2020-09-25 13:54:47,364 [INFO] MicroXplorer:390 - Change Database Path : 
+2020-09-25 13:54:47,364 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.60
+2020-09-25 13:54:47,364 [INFO] OpenFileManager:274 - Change cursor
+2020-09-25 13:54:49,402 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2020-09-25 13:54:49,402 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2020-09-25 13:54:49,402 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2020-09-25 13:54:49,613 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 577822544 Bytes (753926144)
+2020-09-25 13:54:49,629 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (C:/Users/Reyno_lds/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 5 ms. number of Sw pack : 9
+2020-09-25 13:54:49,785 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.0.0
+2020-09-25 13:54:49,785 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 2.0.0
+2020-09-25 13:54:49,785 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.0.0
+2020-09-25 13:54:49,786 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 8.1.1
+2020-09-25 13:54:49,786 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.0
+2020-09-25 13:54:49,786 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 2.0.0
+2020-09-25 13:54:50,041 [INFO] PinOutPanel:1420 - setPackage(No Configuration,No Configuration)
+2020-09-25 13:54:50,043 [INFO] PinOutPanel:1420 - setPackage(STM32F042C6Tx,LQFP48)
+2020-09-25 13:54:50,783 [INFO] UtilMem:74 - Before build in PCC Used Memory: 355297976 Bytes (753926144)
+2020-09-25 13:54:51,344 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Reyno_lds/.stm32cubemx/plugins/power
+2020-09-25 13:54:51,398 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Reyno_lds/.stm32cubemx/plugins/power
+2020-09-25 13:54:51,455 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Reyno_lds/.stm32cubemx/plugins/power
+2020-09-25 13:54:51,459 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Reyno_lds/.stm32cubemx/plugins/power
+2020-09-25 13:54:51,693 [INFO] UtilMem:74 - After build in PCC Used Memory: 412969656 Bytes (753926144)
+2020-09-25 13:54:51,714 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,715 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,715 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,715 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,715 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,716 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,716 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,716 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,716 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,717 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,717 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,717 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,717 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,718 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,718 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,718 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,719 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,719 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,719 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,719 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,720 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,720 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,720 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,720 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,721 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,721 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,721 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,721 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,722 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,722 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,722 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-09-25 13:54:51,763 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2020-09-25 13:54:51,886 [INFO] OpenFileManager:294 - Restore cursor
+2020-09-25 13:54:52,212 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 444698664 Bytes (753926144)
+2020-09-25 13:54:52,280 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 449143488 Bytes (753926144)
+2020-09-25 13:54:52,915 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: NVIC
+2020-09-25 13:54:52,916 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: SYS
+2020-09-25 13:54:52,917 [INFO] CodeGenerator:603 - code generatio: config db path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\
+2020-09-25 13:54:53,446 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\license.tmp_save
+2020-09-25 13:54:53,940 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\license.tmp
+2020-09-25 13:54:54,123 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-09-25 13:54:54,125 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-09-25 13:54:54,200 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_it.c_save
+2020-09-25 13:54:54,527 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_it.c
+2020-09-25 13:54:54,597 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_it.h_save
+2020-09-25 13:54:54,781 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_it.h
+2020-09-25 13:54:54,859 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_hal_msp.c_save
+2020-09-25 13:54:55,195 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_hal_msp.c
+2020-09-25 13:54:55,317 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\system.tmp_save
+2020-09-25 13:54:55,524 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\system.tmp
+2020-09-25 13:54:55,634 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_hal_conf.h_save
+2020-09-25 13:54:55,918 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_hal_conf.h
+2020-09-25 13:54:56,062 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\main.h_save
+2020-09-25 13:54:56,416 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\main.h
+2020-09-25 13:54:56,511 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\main.c_save
+2020-09-25 13:54:56,918 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\main.c
+2020-09-25 13:54:58,581 [INFO] ProjectBuilder:2002 - Time for Copy HAL[1] : 688mS.
+2020-09-25 13:54:58,589 [INFO] ProjectBuilder:2727 - Project Generator version: 3.7.1
+2020-09-25 13:54:58,998 [INFO] ConfigFileManager:1066 - The Die is : DIE445
+2020-09-25 13:55:09,393 [INFO] ProjectBuilder:2894 - Time for Generating toolchain IDE Files: 10804mS.
+2020-09-25 13:55:09,394 [INFO] ProjectBuilder:1878 - Time for Copy CMSIS : 0mS.
+2020-09-25 13:55:09,399 [INFO] ProjectBuilder:1878 - Time for Copy CMSIS : 1mS.
+2020-09-25 15:22:07,543 [INFO] Can:56 - Can Add PropertyChangeListener com.st.microxplorer.plugins.ip.can.Can@bb4ccba
+2020-09-25 15:24:12,164 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 639555672 Bytes (753926144)
+2020-09-25 15:24:13,742 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 647258176 Bytes (753926144)
+2020-09-25 15:24:14,112 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 306903728 Bytes (753926144)
+2020-09-25 15:24:14,470 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: NVIC
+2020-09-25 15:24:14,471 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: USART
+2020-09-25 15:24:14,472 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: SYS
+2020-09-25 15:24:14,472 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: GPIO
+2020-09-25 15:24:14,472 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: CAN
+2020-09-25 15:24:14,473 [INFO] CodeGenerator:603 - code generatio: config db path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\
+2020-09-25 15:24:14,846 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\license.tmp_save
+2020-09-25 15:24:14,987 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\license.tmp
+2020-09-25 15:24:15,198 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\gpio.tmp_save
+2020-09-25 15:24:15,506 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\gpio.tmp
+2020-09-25 15:24:15,983 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-09-25 15:24:15,985 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for CAN
+2020-09-25 15:24:15,985 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-09-25 15:24:15,988 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-09-25 15:24:15,989 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-09-25 15:24:15,991 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-09-25 15:24:15,994 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-09-25 15:24:15,995 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-09-25 15:24:16,062 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_it.c_save
+2020-09-25 15:24:16,279 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_it.c
+2020-09-25 15:24:16,348 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_it.h_save
+2020-09-25 15:24:16,516 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_it.h
+2020-09-25 15:24:16,606 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_hal_msp.c_save
+2020-09-25 15:24:16,884 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_hal_msp.c
+2020-09-25 15:24:16,921 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\system.tmp_save
+2020-09-25 15:24:17,080 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\system.tmp
+2020-09-25 15:24:17,158 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_hal_conf.h_save
+2020-09-25 15:24:17,345 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_hal_conf.h
+2020-09-25 15:24:17,370 [WARN] IPConfigManager:2701 - IP not found : gpio
+2020-09-25 15:24:17,375 [WARN] CodeGenerator:2649 - IP not found : gpio
+2020-09-25 15:24:17,465 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\main.h_save
+2020-09-25 15:24:17,703 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\main.h
+2020-09-25 15:24:17,782 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\main.c_save
+2020-09-25 15:24:18,079 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\main.c
+2020-09-25 15:24:20,514 [INFO] ProjectBuilder:2002 - Time for Copy HAL[1] : 1264mS.
+2020-09-25 15:24:20,522 [INFO] ProjectBuilder:2727 - Project Generator version: 3.7.1
+2020-09-25 15:24:21,015 [INFO] ConfigFileManager:1066 - The Die is : DIE445
+2020-09-25 15:24:24,533 [INFO] ProjectBuilder:2894 - Time for Generating toolchain IDE Files: 4012mS.
+2020-09-25 15:24:24,535 [INFO] ProjectBuilder:1878 - Time for Copy CMSIS : 0mS.
+2020-09-25 15:24:24,542 [INFO] ProjectBuilder:1878 - Time for Copy CMSIS : 0mS.
+2020-09-25 18:41:55,151 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 423907960 Bytes (891289600)
+2020-09-25 18:41:56,766 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 431771016 Bytes (891289600)
+2020-09-25 18:41:57,043 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 473166416 Bytes (891289600)
+2020-09-25 18:41:57,257 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: NVIC
+2020-09-25 18:41:57,257 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: USART
+2020-09-25 18:41:57,257 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: SYS
+2020-09-25 18:41:57,257 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: GPIO
+2020-09-25 18:41:57,260 [INFO] CodeGenerator:603 - code generatio: config db path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\
+2020-09-25 18:41:57,537 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\license.tmp_save
+2020-09-25 18:41:57,630 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\license.tmp
+2020-09-25 18:41:57,770 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\gpio.tmp_save
+2020-09-25 18:41:57,843 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\gpio.tmp
+2020-09-25 18:41:57,961 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-09-25 18:41:57,964 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-09-25 18:41:57,964 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-09-25 18:41:57,966 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-09-25 18:41:57,967 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-09-25 18:41:58,031 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_it.c_save
+2020-09-25 18:41:58,135 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_it.c
+2020-09-25 18:41:58,173 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_it.h_save
+2020-09-25 18:41:58,247 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_it.h
+2020-09-25 18:41:58,298 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_hal_msp.c_save
+2020-09-25 18:41:58,424 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_hal_msp.c
+2020-09-25 18:41:58,462 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\system.tmp_save
+2020-09-25 18:41:58,566 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\system.tmp
+2020-09-25 18:41:58,637 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_hal_conf.h_save
+2020-09-25 18:41:58,969 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_hal_conf.h
+2020-09-25 18:41:58,992 [WARN] IPConfigManager:2701 - IP not found : gpio
+2020-09-25 18:41:58,994 [WARN] CodeGenerator:2649 - IP not found : gpio
+2020-09-25 18:41:59,068 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\main.h_save
+2020-09-25 18:41:59,179 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\main.h
+2020-09-25 18:41:59,221 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\main.c_save
+2020-09-25 18:41:59,342 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\main.c
+2020-09-25 18:42:00,822 [INFO] ProjectBuilder:2002 - Time for Copy HAL[1] : 1071mS.
+2020-09-25 18:42:00,829 [INFO] ProjectBuilder:2727 - Project Generator version: 3.7.1
+2020-09-25 18:42:01,089 [INFO] ConfigFileManager:1066 - The Die is : DIE445
+2020-09-25 18:42:04,107 [INFO] ProjectBuilder:2894 - Time for Generating toolchain IDE Files: 3278mS.
+2020-09-25 18:42:04,109 [INFO] ProjectBuilder:1878 - Time for Copy CMSIS : 1mS.
+2020-09-25 18:42:04,113 [INFO] ProjectBuilder:1878 - Time for Copy CMSIS : 0mS.
+2020-09-25 18:42:15,532 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 636878912 Bytes (981467136)
+2020-09-25 18:42:16,908 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 644246128 Bytes (981467136)
+2020-09-25 18:42:17,132 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 415602280 Bytes (1000341504)
+2020-09-25 18:42:17,302 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: NVIC
+2020-09-25 18:42:17,302 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: USART
+2020-09-25 18:42:17,302 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: SYS
+2020-09-25 18:42:17,302 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: GPIO
+2020-09-25 18:42:17,302 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: CAN
+2020-09-25 18:42:17,303 [INFO] CodeGenerator:603 - code generatio: config db path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\
+2020-09-25 18:42:17,481 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\license.tmp_save
+2020-09-25 18:42:17,618 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\license.tmp
+2020-09-25 18:42:17,683 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\gpio.tmp_save
+2020-09-25 18:42:17,762 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\gpio.tmp
+2020-09-25 18:42:17,916 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-09-25 18:42:17,918 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for CAN
+2020-09-25 18:42:17,918 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-09-25 18:42:17,919 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-09-25 18:42:17,921 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-09-25 18:42:17,922 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-09-25 18:42:17,925 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-09-25 18:42:17,926 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-09-25 18:42:17,962 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_it.c_save
+2020-09-25 18:42:18,050 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_it.c
+2020-09-25 18:42:18,072 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_it.h_save
+2020-09-25 18:42:18,132 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_it.h
+2020-09-25 18:42:18,173 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_hal_msp.c_save
+2020-09-25 18:42:18,282 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_hal_msp.c
+2020-09-25 18:42:18,303 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\system.tmp_save
+2020-09-25 18:42:18,354 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\system.tmp
+2020-09-25 18:42:18,389 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_hal_conf.h_save
+2020-09-25 18:42:18,482 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_hal_conf.h
+2020-09-25 18:42:18,491 [WARN] IPConfigManager:2701 - IP not found : gpio
+2020-09-25 18:42:18,492 [WARN] CodeGenerator:2649 - IP not found : gpio
+2020-09-25 18:42:18,524 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\main.h_save
+2020-09-25 18:42:18,587 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\main.h
+2020-09-25 18:42:18,623 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\main.c_save
+2020-09-25 18:42:18,749 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\main.c
+2020-09-25 18:42:19,637 [INFO] ProjectBuilder:2002 - Time for Copy HAL[1] : 183mS.
+2020-09-25 18:42:19,639 [INFO] ProjectBuilder:2727 - Project Generator version: 3.7.1
+2020-09-25 18:42:19,914 [INFO] ConfigFileManager:1066 - The Die is : DIE445
+2020-09-25 18:42:21,090 [INFO] ProjectBuilder:2894 - Time for Generating toolchain IDE Files: 1451mS.
+2020-09-25 18:42:21,091 [INFO] ProjectBuilder:1878 - Time for Copy CMSIS : 1mS.
+2020-09-25 18:42:21,094 [INFO] ProjectBuilder:1878 - Time for Copy CMSIS : 0mS.
+2020-09-25 18:46:19,278 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 469373352 Bytes (1000341504)
+2020-09-25 18:46:20,393 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 477241776 Bytes (1000341504)
+2020-09-25 18:46:22,345 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 521279904 Bytes (1000341504)
+2020-09-25 18:46:22,514 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: NVIC
+2020-09-25 18:46:22,514 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: USART
+2020-09-25 18:46:22,514 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: SYS
+2020-09-25 18:46:22,514 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: GPIO
+2020-09-25 18:46:22,514 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: CAN
+2020-09-25 18:46:22,515 [INFO] CodeGenerator:603 - code generatio: config db path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\
+2020-09-25 18:46:22,686 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\license.tmp_save
+2020-09-25 18:46:22,755 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\license.tmp
+2020-09-25 18:46:22,838 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\gpio.c_save
+2020-09-25 18:46:22,924 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\gpio.c
+2020-09-25 18:46:22,974 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\gpio.h_save
+2020-09-25 18:46:23,072 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\gpio.h
+2020-09-25 18:46:23,200 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-09-25 18:46:23,201 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for CAN
+2020-09-25 18:46:23,202 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-09-25 18:46:23,242 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\can.c_save
+2020-09-25 18:46:23,361 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\can.c
+2020-09-25 18:46:23,401 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\can.h_save
+2020-09-25 18:46:23,487 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\can.h
+2020-09-25 18:46:23,490 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-09-25 18:46:23,493 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-09-25 18:46:23,494 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-09-25 18:46:23,541 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\usart.c_save
+2020-09-25 18:46:23,645 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\usart.c
+2020-09-25 18:46:23,676 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\usart.h_save
+2020-09-25 18:46:23,765 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\usart.h
+2020-09-25 18:46:23,769 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-09-25 18:46:23,770 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-09-25 18:46:23,830 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_it.c_save
+2020-09-25 18:46:24,003 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_it.c
+2020-09-25 18:46:24,031 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_it.h_save
+2020-09-25 18:46:24,157 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_it.h
+2020-09-25 18:46:24,223 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_hal_msp.c_save
+2020-09-25 18:46:24,329 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_hal_msp.c
+2020-09-25 18:46:24,363 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\system.tmp_save
+2020-09-25 18:46:24,430 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\system.tmp
+2020-09-25 18:46:24,469 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_hal_conf.h_save
+2020-09-25 18:46:24,590 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_hal_conf.h
+2020-09-25 18:46:24,643 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\main.h_save
+2020-09-25 18:46:24,732 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\main.h
+2020-09-25 18:46:24,781 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\main.c_save
+2020-09-25 18:46:24,876 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\main.c
+2020-09-25 18:46:25,499 [INFO] ProjectBuilder:2002 - Time for Copy HAL[1] : 185mS.
+2020-09-25 18:46:25,503 [INFO] ProjectBuilder:2727 - Project Generator version: 3.7.1
+2020-09-25 18:46:25,786 [INFO] ConfigFileManager:1066 - The Die is : DIE445
+2020-09-25 18:46:27,998 [INFO] ProjectBuilder:2894 - Time for Generating toolchain IDE Files: 2495mS.
+2020-09-25 18:46:28,000 [INFO] ProjectBuilder:1878 - Time for Copy CMSIS : 1mS.
+2020-09-25 18:46:28,005 [INFO] ProjectBuilder:1878 - Time for Copy CMSIS : 0mS.
+2020-09-25 19:43:59,928 [INFO] NvicIntPanel:88 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,489x433,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2020-09-25 19:44:31,971 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 644917704 Bytes (1073741824)
+2020-09-25 19:44:33,079 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 651733464 Bytes (1073741824)
+2020-09-25 19:44:33,245 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 661353376 Bytes (1073741824)
+2020-09-25 19:44:33,424 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: NVIC
+2020-09-25 19:44:33,425 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: USART
+2020-09-25 19:44:33,425 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: SYS
+2020-09-25 19:44:33,425 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: GPIO
+2020-09-25 19:44:33,425 [INFO] BlockDiagram:2671 - set Specific Code input for plugin: CAN
+2020-09-25 19:44:33,427 [INFO] CodeGenerator:603 - code generatio: config db path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.6.0.202002181639\\db\
+2020-09-25 19:44:33,608 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\license.tmp_save
+2020-09-25 19:44:33,672 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\license.tmp
+2020-09-25 19:44:33,747 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\gpio.c_save
+2020-09-25 19:44:33,817 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\gpio.c
+2020-09-25 19:44:33,855 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\gpio.h_save
+2020-09-25 19:44:33,928 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\gpio.h
+2020-09-25 19:44:34,059 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-09-25 19:44:34,061 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for CAN
+2020-09-25 19:44:34,062 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-09-25 19:44:34,094 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\can.c_save
+2020-09-25 19:44:34,192 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\can.c
+2020-09-25 19:44:34,217 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\can.h_save
+2020-09-25 19:44:34,277 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\can.h
+2020-09-25 19:44:34,279 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-09-25 19:44:34,280 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2020-09-25 19:44:34,280 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-09-25 19:44:34,311 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\usart.c_save
+2020-09-25 19:44:34,392 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\usart.c
+2020-09-25 19:44:34,411 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\usart.h_save
+2020-09-25 19:44:34,640 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\usart.h
+2020-09-25 19:44:34,643 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-09-25 19:44:34,644 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-09-25 19:44:34,679 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_it.c_save
+2020-09-25 19:44:34,770 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_it.c
+2020-09-25 19:44:34,795 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_it.h_save
+2020-09-25 19:44:34,847 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_it.h
+2020-09-25 19:44:34,884 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_hal_msp.c_save
+2020-09-25 19:44:34,960 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\stm32f0xx_hal_msp.c
+2020-09-25 19:44:34,980 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\system.tmp_save
+2020-09-25 19:44:35,023 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\MXTmpFiles\system.tmp
+2020-09-25 19:44:35,056 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_hal_conf.h_save
+2020-09-25 19:44:35,131 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\stm32f0xx_hal_conf.h
+2020-09-25 19:44:35,167 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\main.h_save
+2020-09-25 19:44:35,229 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Inc\main.h
+2020-09-25 19:44:35,261 [INFO] CodeEngine:188 - oldGeneratedFile, C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\main.c_save
+2020-09-25 19:44:35,344 [INFO] CodeEngine:206 - Generated code: C:\Users\Reyno_lds\QUTMS_Shutdown\software\QUTMS_SHDN-CURRENT\QUTMS_SHTDN-CURRENT\Core\Src\main.c
+2020-09-25 19:44:36,194 [INFO] ProjectBuilder:2002 - Time for Copy HAL[1] : 535mS.
+2020-09-25 19:44:36,198 [INFO] ProjectBuilder:2727 - Project Generator version: 3.7.1
+2020-09-25 19:44:36,826 [INFO] ConfigFileManager:1066 - The Die is : DIE445
+2020-09-25 19:44:38,222 [INFO] ProjectBuilder:2894 - Time for Generating toolchain IDE Files: 2024mS.
+2020-09-25 19:44:38,223 [INFO] ProjectBuilder:1878 - Time for Copy CMSIS : 0mS.
+2020-09-25 19:44:38,227 [INFO] ProjectBuilder:1878 - Time for Copy CMSIS : 1mS.
