@@ -42,6 +42,10 @@ extern "C" {
 
 /* Exported constants --------------------------------------------------------*/
 /* USER CODE BEGIN EC */
+#define SEM_ACQUIRE_TIMEOUT 32U // Milliseconds
+#define SEM_ACQUIRE_GLOBALSTATE_TIMEOUT 64U // Milliseconds, might need a longer timeout for global states.
+#define SHDN_HEARTBEAT_PERIOD 75U // Milliseconds
+#define SHDN_CAN_QUEUESIZE 10
 
 /* USER CODE END EC */
 
@@ -54,6 +58,13 @@ extern "C" {
 void Error_Handler(void);
 
 /* USER CODE BEGIN EFP */
+/**
+ * @brief Callback for the heartbeat timer, which will be called every 75 milliseconds to send a heartbeat.
+ * @param fsm A pointer to the FSM object
+ */
+void heartbeatTimer_cb(void *fsm);
+void SHDN_LogInfo(char* msg, size_t length);
+__NO_RETURN void fsm_thread_mainLoop(void* arg);
 
 /* USER CODE END EFP */
 
