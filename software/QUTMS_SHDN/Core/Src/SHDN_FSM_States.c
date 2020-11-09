@@ -59,11 +59,12 @@ void state_run_enter(fsm_t *fsm)
 
 void state_run_iterate(fsm_t *fsm)
 {
-	return;
+	HAL_GPIO_TogglePin(LEDA_GPIO_Port, LEDA_Pin);
+	HAL_GPIO_TogglePin(LEDB_GPIO_Port, LEDB_Pin);
+	osDelay(100U);
 }
 
 void state_run_exit(fsm_t *fsm)
 {
-
 	return;
 }

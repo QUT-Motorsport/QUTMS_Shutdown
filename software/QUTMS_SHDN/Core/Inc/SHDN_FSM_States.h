@@ -12,6 +12,7 @@
 #include "main.h"
 #include "SHDN_CAN_Messages.h"
 
+
 /**
  * @brief SHDN Global State
  * @note SHDN Global State is shared across threads, so use the semaphore to gain control
