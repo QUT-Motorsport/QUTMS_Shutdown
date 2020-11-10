@@ -112,7 +112,7 @@ int main(void)
 	sFilterConfig.FilterMaskIdLow = 0x0000;
 	sFilterConfig.FilterFIFOAssignment = CAN_RX_FIFO0;
 	sFilterConfig.FilterActivation = ENABLE;
-	sFilterConfig.SlaveStartFilterBank = 0;
+	sFilterConfig.SlaveStartFilterBank = 14;
 
 	if (HAL_CAN_ConfigFilter(&CANBUS2, &sFilterConfig) != HAL_OK)
 	{
@@ -274,7 +274,10 @@ void Error_Handler(void)
 {
   /* USER CODE BEGIN Error_Handler_Debug */
 	/* User can add his own implementation to report the HAL error return state */
-
+	for(;;)
+	{
+		HAL_GPIO_WritePin(LEDA_GPIO_Port, LEDA_Pin, GPIO_PIN_SET);
+	}
   /* USER CODE END Error_Handler_Debug */
 }
 
