@@ -26,7 +26,7 @@ typedef struct
 
 	uint8_t segmentStates;
 
-	volatile bool chainOut;
+	volatile bool shutdownTriggered;
 
 	osMessageQueueId_t CANQueue;
 	osTimerId_t heartbeatTimer;

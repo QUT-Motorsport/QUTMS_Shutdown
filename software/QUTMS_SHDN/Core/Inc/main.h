@@ -74,9 +74,9 @@ __NO_RETURN void fsm_thread_mainLoop(void* arg);
 #define LEDA_GPIO_Port GPIOB
 #define LEDB_Pin GPIO_PIN_13
 #define LEDB_GPIO_Port GPIOB
-#define CHAIN_OUT_Pin GPIO_PIN_5
-#define CHAIN_OUT_GPIO_Port GPIOB
-#define CHAIN_OUT_EXTI_IRQn EXTI9_5_IRQn
+#define RELAY_ACTIVE_Pin GPIO_PIN_8
+#define RELAY_ACTIVE_GPIO_Port GPIOB
+#define RELAY_ACTIVE_EXTI_IRQn EXTI9_5_IRQn
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */

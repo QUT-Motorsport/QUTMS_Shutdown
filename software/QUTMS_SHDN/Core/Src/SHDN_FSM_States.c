@@ -40,7 +40,7 @@ void state_run_enter(fsm_t *fsm)
 		if(osSemaphoreAcquire(SHDN_GlobalState->sem, SEM_ACQUIRE_TIMEOUT) == osOK)
 		{
 			SHDN_GlobalState->segmentStates = 1U;
-			SHDN_GlobalState->chainOut = true;
+			SHDN_GlobalState->shutdownTriggered = false;
 
 			SHDN_GlobalState->heartbeatTimer = osTimerNew(&heartbeatTimer_cb, osTimerPeriodic, fsm, NULL);
 			if(osTimerStart(SHDN_GlobalState->heartbeatTimer, SHDN_HEARTBEAT_PERIOD) != osOK)
@@ -62,16 +62,16 @@ void state_run_iterate(fsm_t *fsm)
 {
 	if(osSemaphoreAcquire(SHDN_GlobalState->sem, SEM_ACQUIRE_TIMEOUT) == osOK)
 	{
-		HAL_GPIO_WritePin(LEDA_GPIO_Port, LEDA_Pin, SHDN_GlobalState->chainOut);
-		HAL_GPIO_WritePin(LEDB_GPIO_Port, LEDB_Pin, !SHDN_GlobalState->chainOut);
+		HAL_GPIO_WritePin(LEDA_GPIO_Port, LEDA_Pin, SHDN_GlobalState->shutdownTriggered);
+		HAL_GPIO_WritePin(LEDB_GPIO_Port, LEDB_Pin, !SHDN_GlobalState->shutdownTriggered);
 
-		if(!SHDN_GlobalState->chainOut) {
+		if(SHDN_GlobalState->shutdownTriggered) {
 			SHDN_GlobalState->segmentStates = 255U;
 		} else {
 			SHDN_GlobalState->segmentStates = 0;
 		}
 
-		SHDN_GlobalState->chainOut = HAL_GPIO_ReadPin(CHAIN_OUT_GPIO_Port, CHAIN_OUT_Pin);
+		SHDN_GlobalState->shutdownTriggered = !HAL_GPIO_ReadPin(RELAY_ACTIVE_GPIO_Port, RELAY_ACTIVE_Pin);
 		osSemaphoreRelease(SHDN_GlobalState->sem);
 
 	}
