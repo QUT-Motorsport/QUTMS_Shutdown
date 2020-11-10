@@ -182,6 +182,17 @@ void EXTI9_5_IRQHandler(void)
 {
   /* USER CODE BEGIN EXTI9_5_IRQn 0 */
 	SHDN_GlobalState->chainOut = false;
+	// fire off shutdown triggered message
+	SHDN_ShutdownTriggered_t canPacket = Compose_SHDN_ShudownTriggered();
+	CAN_TxHeaderTypeDef header =
+	{
+		.ExtId = canPacket.id,
+		.IDE = CAN_ID_EXT,
+		.RTR = CAN_RTR_DATA,
+		.DLC = 0,
+		.TransmitGlobalTime = DISABLE,
+	};
+	HAL_CAN_AddTxMessage(&CANBUS2, &header, 0, &SHDN_GlobalState->CAN2_TxMailbox);
   /* USER CODE END EXTI9_5_IRQn 0 */
   HAL_GPIO_EXTI_IRQHandler(GPIO_PIN_5);
   /* USER CODE BEGIN EXTI9_5_IRQn 1 */

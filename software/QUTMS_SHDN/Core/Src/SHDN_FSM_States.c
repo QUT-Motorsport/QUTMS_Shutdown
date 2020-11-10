@@ -60,9 +60,21 @@ void state_run_enter(fsm_t *fsm)
 
 void state_run_iterate(fsm_t *fsm)
 {
-	HAL_GPIO_WritePin(LEDA_GPIO_Port, LEDA_Pin, SHDN_GlobalState->chainOut);
-	HAL_GPIO_WritePin(LEDB_GPIO_Port, LEDB_Pin, !SHDN_GlobalState->chainOut);
-	SHDN_GlobalState->chainOut = HAL_GPIO_ReadPin(CHAIN_OUT_GPIO_Port, CHAIN_OUT_Pin);
+	if(osSemaphoreAcquire(SHDN_GlobalState->sem, SEM_ACQUIRE_TIMEOUT) == osOK)
+	{
+		HAL_GPIO_WritePin(LEDA_GPIO_Port, LEDA_Pin, SHDN_GlobalState->chainOut);
+		HAL_GPIO_WritePin(LEDB_GPIO_Port, LEDB_Pin, !SHDN_GlobalState->chainOut);
+
+		if(!SHDN_GlobalState->chainOut) {
+			SHDN_GlobalState->segmentStates = 255U;
+		} else {
+			SHDN_GlobalState->segmentStates = 0;
+		}
+
+		SHDN_GlobalState->chainOut = HAL_GPIO_ReadPin(CHAIN_OUT_GPIO_Port, CHAIN_OUT_Pin);
+		osSemaphoreRelease(SHDN_GlobalState->sem);
+
+	}
 }
 
 void state_run_exit(fsm_t *fsm)
