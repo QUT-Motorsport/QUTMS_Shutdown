@@ -11,6 +11,7 @@
 #include "FSM.h"
 #include "main.h"
 #include "SHDN_CAN_Messages.h"
+#include <stdbool.h>
 
 
 /**
@@ -24,6 +25,8 @@ typedef struct
 	uint32_t CAN2_RxMailbox;
 
 	uint8_t segmentStates;
+
+	volatile bool chainOut;
 
 	osMessageQueueId_t CANQueue;
 	osTimerId_t heartbeatTimer;
