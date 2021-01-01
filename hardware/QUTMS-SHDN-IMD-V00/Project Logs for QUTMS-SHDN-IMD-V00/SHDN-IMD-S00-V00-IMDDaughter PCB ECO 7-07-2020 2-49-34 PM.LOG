@@ -1,8 +1,0 @@
-Added Component: Designator=U?(LMR14010)
-Added Pin To Net: NetName=PWR CB Pin=U?-1
-Added Pin To Net: NetName=GND Pin=U?-2
-Added Pin To Net: NetName=PWR FB Pin=U?-3
-Added Pin To Net: NetName=36V Pin=U?-4
-Added Pin To Net: NetName=36V Pin=U?-5
-Added Pin To Net: NetName=PWR SW Pin=U?-6
-Added Member To Class: ClassName=POWER SUPPLY Member=Component U? LMR14010

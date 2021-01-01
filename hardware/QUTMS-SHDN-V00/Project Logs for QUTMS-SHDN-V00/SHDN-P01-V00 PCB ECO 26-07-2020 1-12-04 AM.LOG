@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=7SEG DP A Pin=U3-26
-Removed Pin From Net: NetName=7SEG DP B Pin=U3-27
-Removed Pin From Net: NetName=7SEG CATH A Pin=U3-28
-Removed Pin From Net: NetName=7SEG CATH B Pin=U3-55
-Added Pin To Net: NetName=7SEG DP B Pin=U3-35
-Added Pin To Net: NetName=7SEG DP A Pin=U3-36
-Added Pin To Net: NetName=7SEG CATH B Pin=U3-37
-Added Pin To Net: NetName=7SEG CATH A Pin=U3-38

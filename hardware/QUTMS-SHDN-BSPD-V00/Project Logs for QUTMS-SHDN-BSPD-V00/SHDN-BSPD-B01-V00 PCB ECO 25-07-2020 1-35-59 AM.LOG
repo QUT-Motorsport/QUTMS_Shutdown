@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=USART1 TX Pin=P1-1
-Removed Pin From Net: NetName=GND Pin=P1-3
-Added Pin To Net: NetName=GND Pin=P1-1
-Added Pin To Net: NetName=USART1 TX Pin=P1-3
-Added Room: Name=SHDN-BSPD-S01-V00-BSPDBoard
-Added Room: Name=SHDN-BSPD-S05-V00-Microcontroller
-Added Room: Name=SHDN-BSPD-S10-V00-Connectivity

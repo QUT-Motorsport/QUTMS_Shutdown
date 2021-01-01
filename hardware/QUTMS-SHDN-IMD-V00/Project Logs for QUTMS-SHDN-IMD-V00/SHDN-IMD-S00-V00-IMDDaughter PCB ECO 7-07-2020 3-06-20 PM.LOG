@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=PWR SW Pin=C14-1
-Added Component: Designator=C14(Cap_Ceramic_0603)
-Added Pin To Net: NetName=PWR CB Pin=C14-1
-Added Pin To Net: NetName=PWR SW Pin=C14-2

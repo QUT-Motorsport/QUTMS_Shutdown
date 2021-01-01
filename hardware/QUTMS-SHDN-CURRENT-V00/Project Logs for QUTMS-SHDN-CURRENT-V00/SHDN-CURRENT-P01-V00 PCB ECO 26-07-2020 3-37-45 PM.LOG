@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=12V Pin=J6-1
-Removed Pin From Net: NetName=SIM HIGH Pin=J6-2
-Removed Pin From Net: NetName=SIM HIGH Pin=J8-1
-Removed Pin From Net: NetName=SIM LOW Pin=J8-2
-Added Pin To Net: NetName=SIM HIGH Pin=J6-1
-Added Pin To Net: NetName=12V Pin=J6-2
-Added Pin To Net: NetName=SIM LOW Pin=J8-1
-Added Pin To Net: NetName=SIM HIGH Pin=J8-2

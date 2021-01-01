@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=J8 Old Footprint=Microfit_1X2_R_SMD New Footprint=Microfit_1X2_R_TH
-Added Pin To Net: NetName=SIM HIGH Pin=J8-1
-Added Pin To Net: NetName=SIM LOW Pin=J8-2
-Added Room: Name=SHDN-CURRENT-S05-V00-CurrentInterface
-Added Room: Name=SHDN-CURRENT-S06-V00-5kWSimulation
