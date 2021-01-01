@@ -1,0 +1,11 @@
+Replace Part C1 4u7 50V 5% X7R 0603 in C:\Users\User\OneDrive - Queensland University of Technology\2020 QUTMS\2021 Shutdown Redesign\SHDN21-S01-V00.SchDoc with 4u7 50V 5% X7R 0603 from StandardCapacitors.SchLib
+Replace Part C2 470nF 50V 5% X7R 0603 in C:\Users\User\OneDrive - Queensland University of Technology\2020 QUTMS\2021 Shutdown Redesign\SHDN21-S01-V00.SchDoc with 470nF 50V 5% X7R 0603 from StandardCapacitors.SchLib
+Replace Part D? ESD9B3.3ST5G in C:\Users\User\OneDrive - Queensland University of Technology\2020 QUTMS\2021 Shutdown Redesign\SHDN21-S01-V00.SchDoc with ESD9B3.3ST5G from QUTMS_DiodeLibrary.SchLib
+Replace Part D? 1N4448WQ-7-F in C:\Users\User\OneDrive - Queensland University of Technology\2020 QUTMS\2021 Shutdown Redesign\SHDN21-S01-V00.SchDoc with 1N4448WQ-7-F from QUTMS_DiodeLibrary.SchLib
+Replace Part J1 JWPS 2x2 in C:\Users\User\OneDrive - Queensland University of Technology\2020 QUTMS\2021 Shutdown Redesign\SHDN21-S01-V00.SchDoc with JWPS 2x2 from QUTMS_JWPSConnector.SchLib
+Replace Part J2 JWPS 2x2 in C:\Users\User\OneDrive - Queensland University of Technology\2020 QUTMS\2021 Shutdown Redesign\SHDN21-S01-V00.SchDoc with JWPS 2x2 from QUTMS_JWPSConnector.SchLib
+Replace Part R1 2M2 1% 0603 in C:\Users\User\OneDrive - Queensland University of Technology\2020 QUTMS\2021 Shutdown Redesign\SHDN21-S01-V00.SchDoc with 2M2 1% 0603 from StandardResistors.SchLib
+Replace Part R2 2M2 1% 0603 in C:\Users\User\OneDrive - Queensland University of Technology\2020 QUTMS\2021 Shutdown Redesign\SHDN21-S01-V00.SchDoc with 2M2 1% 0603 from StandardResistors.SchLib
+Replace Part R3 390k 5% 0603 in C:\Users\User\OneDrive - Queensland University of Technology\2020 QUTMS\2021 Shutdown Redesign\SHDN21-S01-V00.SchDoc with 390k 5% 0603 from StandardResistors.SchLib
+Replace Part R4 240k 5% 0603 in C:\Users\User\OneDrive - Queensland University of Technology\2020 QUTMS\2021 Shutdown Redesign\SHDN21-S01-V00.SchDoc with 240k 5% 0603 from StandardResistors.SchLib
+Replace Part U1 MAX17612A in C:\Users\User\OneDrive - Queensland University of Technology\2020 QUTMS\2021 Shutdown Redesign\SHDN21-S01-V00.SchDoc with MAX17612A from QUTMS_IntegratedCircuitLibrary.SchLib
