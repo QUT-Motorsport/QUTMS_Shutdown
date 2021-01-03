@@ -1,0 +1,4 @@
+Added Component: Designator=J9(Jumper_2Way_Pin)
+Added Pin To Net: NetName=CHAIN OUT_SEG5 Pin=J9-1
+Added Pin To Net: NetName=SHDN 16 OUT Pin=J9-2
+Added Member To Class: ClassName=SHDN21-S01-V00-Shutdown Member=Component J9 Jumper 2Way Pins
