@@ -341,7 +341,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TLPRWHSP
 
 [Document19]
 DocumentPath=Component Libraries\QUTMS_DiodeLibrary.SchLib
@@ -358,7 +358,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ZPGGRGJQ
 
 [Document20]
 DocumentPath=Component Libraries\QUTMS_InductorLibrary.PcbLib
@@ -477,7 +477,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GGRDGUWE
 
 [Document27]
 DocumentPath=Component Libraries\QUTMS_JumperLibrary.SchLib
@@ -562,7 +562,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YRXSDHRP
 
 [Document32]
 DocumentPath=Component Libraries\QUTMS_LogicLibrary.SchLib
@@ -579,7 +579,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XPROUAQE
 
 [Document33]
 DocumentPath=Component Libraries\QUTMS_MicrofitLibrary.PcbLib
@@ -596,7 +596,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WETEJITK
 
 [Document34]
 DocumentPath=Component Libraries\QUTMS_MicrofitLibrary.SchLib
@@ -613,7 +613,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DYJMDMMB
 
 [Document35]
 DocumentPath=Component Libraries\QUTMS_MolexLibrary.SchLib
@@ -681,7 +681,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WLNWEPEU
 
 [Document39]
 DocumentPath=Component Libraries\QUTMS_OpAmpLibrary.SchLib
@@ -715,7 +715,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ABVTUEBH
 
 [Document41]
 DocumentPath=Component Libraries\QUTMS_OpAmps.SchLib
@@ -783,7 +783,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QWUXDWQG
 
 [Document45]
 DocumentPath=Component Libraries\QUTMS_RelayLibrary.SchLib
@@ -800,7 +800,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OCIPLJCS
 
 [Document46]
 DocumentPath=Component Libraries\QUTMS_SDLibrary.PcbLib
@@ -919,7 +919,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PNGPWYLU
 
 [Document53]
 DocumentPath=Component Libraries\QUTMS_Transistors.SchLib
@@ -936,7 +936,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ULAYSQXI
 
 [Document54]
 DocumentPath=Component Libraries\QUTMS_TrimmerLibrary.pcblib
