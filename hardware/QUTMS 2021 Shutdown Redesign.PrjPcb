@@ -23,13 +23,11 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
-AutoSheetNumbering=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -74,6 +72,23 @@ GenerateClassCluster=0
 DocumentUniqueId=UHEXRZHQ
 
 [Document3]
+DocumentPath=SHDN21-P01-V00.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LDYBPFTT
+
+[Document4]
 DocumentPath=SHDN21-S03-V00-DACResistors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -90,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HWOOPGQR
 
-[Document4]
+[Document5]
 DocumentPath=QUTMS 2021 Shutdown Redesign.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document6]
 DocumentPath=Component Libraries\CellMonitor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document7]
 DocumentPath=Component Libraries\CellMonitor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document8]
 DocumentPath=Component Libraries\FFCConnectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document9]
 DocumentPath=Component Libraries\FFCConnectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -175,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document10]
 DocumentPath=Component Libraries\IDCConnectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -192,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document11]
 DocumentPath=Component Libraries\IDCConnectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -209,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document12]
 DocumentPath=Component Libraries\OpAmpAttempt.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -226,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document13]
 DocumentPath=Component Libraries\QUTMS_BuzzerLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -243,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document14]
 DocumentPath=Component Libraries\QUTMS_BuzzerLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -260,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document15]
 DocumentPath=Component Libraries\QUTMS_CANLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -277,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document16]
 DocumentPath=Component Libraries\QUTMS_CANLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -294,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document17]
 DocumentPath=Component Libraries\QUTMS_CrystalLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -311,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document18]
 DocumentPath=Component Libraries\QUTMS_CrystalLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -328,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document19]
 DocumentPath=Component Libraries\QUTMS_DiodeLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -345,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TLPRWHSP
 
-[Document19]
+[Document20]
 DocumentPath=Component Libraries\QUTMS_DiodeLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -362,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZPGGRGJQ
 
-[Document20]
+[Document21]
 DocumentPath=Component Libraries\QUTMS_InductorLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -379,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document22]
 DocumentPath=Component Libraries\QUTMS_InductorLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -396,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=Component Libraries\QUTMS_IntegratedCircuitLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -413,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LVJNOUNH
 
-[Document23]
+[Document24]
 DocumentPath=Component Libraries\QUTMS_IntegratedCircuitLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -430,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SGZYVCIT
 
-[Document24]
+[Document25]
 DocumentPath=Component Libraries\QUTMS_IsolatorLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -447,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document26]
 DocumentPath=Component Libraries\QUTMS_IsolatorLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -464,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document27]
 DocumentPath=Component Libraries\QUTMS_JumperLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -481,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GGRDGUWE
 
-[Document27]
+[Document28]
 DocumentPath=Component Libraries\QUTMS_JumperLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,9 +511,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QKGTBYVP
 
-[Document28]
+[Document29]
 DocumentPath=Component Libraries\QUTMS_JWPSConnector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -515,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document30]
 DocumentPath=Component Libraries\QUTMS_LEDLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -532,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document31]
 DocumentPath=Component Libraries\QUTMS_LEDLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -549,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=Component Libraries\QUTMS_LogicLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -566,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YRXSDHRP
 
-[Document32]
+[Document33]
 DocumentPath=Component Libraries\QUTMS_LogicLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -583,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XPROUAQE
 
-[Document33]
+[Document34]
 DocumentPath=Component Libraries\QUTMS_MicrofitLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -600,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WETEJITK
 
-[Document34]
+[Document35]
 DocumentPath=Component Libraries\QUTMS_MicrofitLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -617,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DYJMDMMB
 
-[Document35]
+[Document36]
 DocumentPath=Component Libraries\QUTMS_MolexLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -634,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACWUCFEV
 
-[Document36]
+[Document37]
 DocumentPath=Component Libraries\QUTMS_OctocouplerLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -651,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document38]
 DocumentPath=Component Libraries\QUTMS_OctocouplerLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -668,7 +683,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document39]
 DocumentPath=Component Libraries\QUTMS_OpAmpLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -685,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WLNWEPEU
 
-[Document39]
+[Document40]
 DocumentPath=Component Libraries\QUTMS_OpAmpLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -702,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document41]
 DocumentPath=Component Libraries\QUTMS_OpAmps.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -719,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ABVTUEBH
 
-[Document41]
+[Document42]
 DocumentPath=Component Libraries\QUTMS_OpAmps.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -736,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document43]
 DocumentPath=Component Libraries\QUTMS_PCBLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -753,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document44]
 DocumentPath=Component Libraries\QUTMS_PCBLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -770,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document45]
 DocumentPath=Component Libraries\QUTMS_RelayLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -787,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QWUXDWQG
 
-[Document45]
+[Document46]
 DocumentPath=Component Libraries\QUTMS_RelayLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -804,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCIPLJCS
 
-[Document46]
+[Document47]
 DocumentPath=Component Libraries\QUTMS_SDLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -821,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document48]
 DocumentPath=Component Libraries\QUTMS_SDLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -838,7 +853,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document49]
 DocumentPath=Component Libraries\QUTMS_STM32Library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -855,7 +870,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document50]
 DocumentPath=Component Libraries\QUTMS_STM32Library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -872,7 +887,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document51]
 DocumentPath=Component Libraries\QUTMS_SwitchLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -889,7 +904,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document52]
 DocumentPath=Component Libraries\QUTMS_SwitchLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -906,7 +921,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document53]
 DocumentPath=Component Libraries\QUTMS_Transistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -923,7 +938,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNGPWYLU
 
-[Document53]
+[Document54]
 DocumentPath=Component Libraries\QUTMS_Transistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -940,7 +955,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ULAYSQXI
 
-[Document54]
+[Document55]
 DocumentPath=Component Libraries\QUTMS_TrimmerLibrary.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -957,7 +972,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document56]
 DocumentPath=Component Libraries\QUTMS_TrimmerLibrary.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -974,7 +989,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document57]
 DocumentPath=Component Libraries\StandardCapacitors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -991,7 +1006,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document58]
 DocumentPath=Component Libraries\StandardCapacitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1008,7 +1023,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document58]
+[Document59]
 DocumentPath=Component Libraries\StandardResistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1025,7 +1040,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document59]
+[Document60]
 DocumentPath=Component Libraries\StandardResistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1042,7 +1057,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEIOKSWG
 
-[Document60]
+[Document61]
 DocumentPath=Component Libraries\StandardTest.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1059,7 +1074,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document62]
 DocumentPath=Component Libraries\StandardTest.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1075,23 +1090,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document62]
-DocumentPath=SHDN21-P01-V00.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LDYBPFTT
 
 [Document63]
 DocumentPath=Component Libraries\QUTMS_MolexLibrary.PcbLib
@@ -1272,7 +1270,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP LaserJet 4200
+TargetPrinter=Canon MB5400 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1585,6 +1583,78 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType18=Text Print
+OutputName18=Text Print
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType19=Text Print
+OutputName19=Text Print
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType20=Text Print
+OutputName20=Text Print
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType21=Text Print
+OutputName21=Text Print
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType22=Text Print
+OutputName22=Text Print
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType23=Text Print
+OutputName23=Text Print
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType24=Text Print
+OutputName24=Text Print
+OutputDocumentPath24=
+OutputVariantName24=
+OutputDefault24=0
+PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType25=Text Print
+OutputName25=Text Print
+OutputDocumentPath25=
+OutputVariantName25=
+OutputDefault25=0
+PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType26=Text Print
+OutputName26=Text Print
+OutputDocumentPath26=
+OutputVariantName26=
+OutputDefault26=0
+PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType27=Text Print
+OutputName27=Text Print
+OutputDocumentPath27=
+OutputVariantName27=
+OutputDefault27=0
+PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType28=Text Print
+OutputName28=Text Print
+OutputDocumentPath28=
+OutputVariantName28=
+OutputDefault28=0
+PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType29=Text Print
+OutputName29=Text Print
+OutputDocumentPath29=
+OutputVariantName29=
+OutputDefault29=0
+PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup8]
 Name=Validation Outputs
@@ -2016,9 +2086,6 @@ Type119=3
 MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
-Type123=1
-Type124=1
-Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -2100,12 +2167,12 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9

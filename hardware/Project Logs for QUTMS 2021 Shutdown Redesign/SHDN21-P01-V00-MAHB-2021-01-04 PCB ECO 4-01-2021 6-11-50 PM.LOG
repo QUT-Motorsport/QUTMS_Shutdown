@@ -1,0 +1,9 @@
+Added Member To Class: ClassName=SHDN21-S01-V00-Shutdown Member=Component J4 Jumper 2Way Pins
+Added Member To Class: ClassName=SEG2 Member=Component J7_SEG2 (J7) MX120G
+Added Member To Class: ClassName=SEG4 Member=Component J7_SEG4 (J7) MX120G
+Added Member To Class: ClassName=SEG1 Member=Component J8_SEG1 (J8) Jumper 2Way Pins
+Added Member To Class: ClassName=SEG2 Member=Component J8_SEG2 (J8) Jumper 2Way Pins
+Added Member To Class: ClassName=SEG3 Member=Component J8_SEG3 (J8) Jumper 2Way Pins
+Added Member To Class: ClassName=SEG4 Member=Component J8_SEG4 (J8) Jumper 2Way Pins
+Added Member To Class: ClassName=SEG5 Member=Component J8_SEG5 (J8) Jumper 2Way Pins
+Added Room: Name=SHDN21-S01-V00-Shutdown
