@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=CHAIN OUT_SEG5 Pin=J4-1
+Removed Pin From Net: NetName=SHDN 16 OUT Pin=J4-2
+Removed Member From Class: ClassName=SHDN21-S01-V00-Shutdown Member=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Change Component Designator: OldDesignator=J6_SEG1 NewDesignator=J5_SEG1
+Change Component Designator: OldDesignator=J6_SEG2 NewDesignator=J5_SEG2
+Change Component Designator: OldDesignator=J6_SEG3 NewDesignator=J5_SEG3
+Change Component Designator: OldDesignator=J6_SEG4 NewDesignator=J5_SEG4
+Change Component Designator: OldDesignator=J6_SEG5 NewDesignator=J5_SEG5
+Change Component Designator: OldDesignator=SW1_SEG1 NewDesignator=SW2_SEG1
+Change Component Designator: OldDesignator=SW1_SEG2 NewDesignator=SW2_SEG2
+Change Component Designator: OldDesignator=SW1_SEG3 NewDesignator=SW2_SEG3
+Change Component Designator: OldDesignator=SW1_SEG4 NewDesignator=SW2_SEG4
+Change Component Designator: OldDesignator=SW1_SEG5 NewDesignator=SW2_SEG5
