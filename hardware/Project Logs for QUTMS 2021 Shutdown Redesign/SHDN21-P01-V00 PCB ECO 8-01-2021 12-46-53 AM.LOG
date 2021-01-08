@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=K1-5
-Removed Pin From Net: NetName=AIR NO Pin=K1-8
-Removed Pin From Net: NetName=SHDN STAT Pin=K1-9
-Removed Pin From Net: NetName=AIR COMM Pin=K1-12
-Change Component Description : Designator=K1 Old Description=General Purpose Relay DPDT (2 Form C) Through Hole, 12V, 2A New Description=RELAY GEN PURPOSE 4PDT 10A 12V Through-hole
-Added Pin To Net: NetName=AIR NO Pin=K1-5
-Added Pin To Net: NetName=GND Pin=K1-8
-Added Pin To Net: NetName=AIR COMM Pin=K1-9
-Added Pin To Net: NetName=SHDN STAT Pin=K1-12
