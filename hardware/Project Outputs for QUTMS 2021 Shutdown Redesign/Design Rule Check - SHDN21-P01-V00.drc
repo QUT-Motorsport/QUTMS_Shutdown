@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : B:\Calvin\OneDrive - Queensland University of Technology\QUTMS\QEV3\Github\QUTMS_Shutdown\hardware\SHDN21-P01-V00.PcbDoc
 Date     : 12/01/2021
-Time     : 8:26:20 PM
+Time     : 8:34:53 PM
 
 Processing Rule : Clearance Constraint (Gap=9mil) (HasFootprint('10-Pin TDFN EP')),(All)
 Rule Violations :0
@@ -87,4 +87,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
