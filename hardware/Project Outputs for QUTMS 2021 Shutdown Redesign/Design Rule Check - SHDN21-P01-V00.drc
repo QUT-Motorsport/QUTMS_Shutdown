@@ -1,7 +1,16 @@
 Protel Design System Design Rule Check
 PCB File : B:\Calvin\OneDrive - Queensland University of Technology\QUTMS\QEV3\Github\QUTMS_Shutdown\hardware\SHDN21-P01-V00.PcbDoc
-Date     : 11/01/2021
-Time     : 12:48:35 PM
+Date     : 12/01/2021
+Time     : 8:34:53 PM
+
+Processing Rule : Clearance Constraint (Gap=9mil) (HasFootprint('10-Pin TDFN EP')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (HasFootprint('M3.2 UNPLATED')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (HasFootprint('FIDUCIAL 1MM')),(All)
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -15,7 +24,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=30mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=9mil) (Max=78.74mil) (Preferred=10mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
@@ -39,31 +48,37 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Room DAC0 (Bounding Region = (4641.732mil, 2909.449mil, 5128.937mil, 3229.331mil) (InComponentClass('DAC0'))
+Processing Rule : Board Clearance Constraint (Gap=0mil) (HasFootprint('MX120G'))
 Rule Violations :0
 
-Processing Rule : Room DAC3 (Bounding Region = (6162.402mil, 2909.449mil, 6653.543mil, 3229.331mil) (InComponentClass('DAC3'))
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Room DAC1 (Bounding Region = (5128.937mil, 2909.449mil, 5616.142mil, 3229.331mil) (InComponentClass('DAC1'))
+Processing Rule : Room DAC1 (Bounding Region = (4635.827mil, 2915.063mil, 5123.032mil, 3234.945mil) (InComponentClass('DAC1'))
 Rule Violations :0
 
-Processing Rule : Room DAC2 (Bounding Region = (5645.669mil, 2909.449mil, 6162.402mil, 3229.331mil) (InComponentClass('DAC2'))
+Processing Rule : Room DAC3 (Bounding Region = (5654.115mil, 2906.496mil, 6141.339mil, 3235.969mil) (InComponentClass('DAC3'))
 Rule Violations :0
 
-Processing Rule : Room SEG2 (Bounding Region = (2932mil, 1185.039mil, 4491.811mil, 2897.391mil) (InComponentClass('SEG2'))
+Processing Rule : Room DAC4 (Bounding Region = (6161.418mil, 2915.063mil, 6648.623mil, 3234.945mil) (InComponentClass('DAC4'))
 Rule Violations :0
 
-Processing Rule : Room SEG5 (Bounding Region = (8294.52mil, 1190.945mil, 9854.331mil, 2897.638mil) (InComponentClass('SEG5'))
+Processing Rule : Room DAC2 (Bounding Region = (5138.958mil, 2906.496mil, 5626.181mil, 3235.969mil) (InComponentClass('DAC2'))
 Rule Violations :0
 
 Processing Rule : Room SEG1 (Bounding Region = (1202mil, 1165.354mil, 2761.811mil, 2897.638mil) (InComponentClass('SEG1'))
 Rule Violations :0
 
+Processing Rule : Room SEG4 (Bounding Region = (6509mil, 1197.835mil, 8068.811mil, 2916.638mil) (InComponentClass('SEG4'))
+Rule Violations :0
+
 Processing Rule : Room SEG3 (Bounding Region = (4736.819mil, 1185.039mil, 6296.63mil, 2919.638mil) (InComponentClass('SEG3'))
 Rule Violations :0
 
-Processing Rule : Room SEG4 (Bounding Region = (6509mil, 1197.835mil, 8068.811mil, 2916.638mil) (InComponentClass('SEG4'))
+Processing Rule : Room SEG5 (Bounding Region = (8294.52mil, 1190.945mil, 9854.331mil, 2897.638mil) (InComponentClass('SEG5'))
+Rule Violations :0
+
+Processing Rule : Room SEG2 (Bounding Region = (2932mil, 1185.039mil, 4491.811mil, 2897.391mil) (InComponentClass('SEG2'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=2000mil) (Prefered=500mil) (All)
@@ -72,4 +87,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
