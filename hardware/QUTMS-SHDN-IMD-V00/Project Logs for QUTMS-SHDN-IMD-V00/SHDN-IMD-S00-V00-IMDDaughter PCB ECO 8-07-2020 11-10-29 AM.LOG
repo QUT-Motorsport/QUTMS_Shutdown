@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=+12 Pin=K1-1
-Removed Pin From Net: NetName=NetD1_A Pin=K1-2
-Removed Member From Class: ClassName=SHUTDOWN Member=K1
-Added Component: Designator=K?(G5V-1)
-Added Pin To Net: NetName=+12 Pin=K?-1
-Added Pin To Net: NetName=NetD1_A Pin=K?-2
-Added Member To Class: ClassName=SHUTDOWN Member=Component K? G5V-1-DC12

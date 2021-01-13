@@ -1,8 +1,0 @@
-Change Component Footprint: Designator=FID1 Old Footprint=FIDUCIAL 2MM New Footprint=FIDUCIAL 1MM
-Change Component Footprint: Designator=FID2 Old Footprint=FIDUCIAL 2MM New Footprint=FIDUCIAL 1MM
-Change Component Footprint: Designator=FID3 Old Footprint=FIDUCIAL 2MM New Footprint=FIDUCIAL 1MM
-Change Component Comment : Designator=FID1 Old Comment=Fiducial 2MM New Comment=Fiducial 1MM
-Change Component Comment : Designator=FID2 Old Comment=Fiducial 2MM New Comment=Fiducial 1MM
-Change Component Comment : Designator=FID3 Old Comment=Fiducial 2MM New Comment=Fiducial 1MM
-Added Room: Name=SHDN-BSPD-S01-V00-BSPDBoard
-Added Room: Name=SHDN-BSPD-S10-V00-Connectivity

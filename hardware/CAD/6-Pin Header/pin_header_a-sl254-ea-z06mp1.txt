@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-21062010-060628";"";
+"REFERENCE";"A-SL254-EA-Z06MP1";"";
+"TraceParts.PartTitle";"Pin header, pitch 2.54mm, angle, SMD, single row, 02 - 40 contacts";"";
+"TraceParts.InstanceId";"10-21062010-0606281U08FX77N98FVL5SNUXYBZPL9";"";
+"DESIGN";"Pin header, pitch 2.54mm, angle, SMD, single row, 6 contacts, plating : Tin, packing : Tube";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ASSMANN WSW components";"";
+"TraceParts.PartVersion";"1.1.9";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ASSMANN:10-21062010-060628";"";

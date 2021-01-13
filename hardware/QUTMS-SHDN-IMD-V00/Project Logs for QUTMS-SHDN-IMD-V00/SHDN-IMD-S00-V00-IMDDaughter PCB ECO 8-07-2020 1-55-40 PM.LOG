@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=+12 Pin=J6-1
-Removed Pin From Net: NetName=SHDN OUT Pin=J6-2
-Removed Pin From Net: NetName=GND Pin=J6-4
-Removed Pin From Net: NetName=SHDN IN Pin=J6-5
-Added Pin To Net: NetName=SHDN OUT Pin=J6-1
-Added Pin To Net: NetName=+12 Pin=J6-2
-Added Pin To Net: NetName=SHDN IN Pin=J6-4
-Added Pin To Net: NetName=GND Pin=J6-5

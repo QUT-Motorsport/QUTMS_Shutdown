@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=IMD MEAS Pin=U2-45
-Removed Pin From Net: NetName=IMD MEAS LOW Pin=U2-46
-Added Pin To Net: NetName=IMD MEAS LOW Pin=U2-45
-Added Pin To Net: NetName=IMD MEAS Pin=U2-46
-Change Net Name : Old Net Name=IMD MEAS New Net Name=IMD STAT
