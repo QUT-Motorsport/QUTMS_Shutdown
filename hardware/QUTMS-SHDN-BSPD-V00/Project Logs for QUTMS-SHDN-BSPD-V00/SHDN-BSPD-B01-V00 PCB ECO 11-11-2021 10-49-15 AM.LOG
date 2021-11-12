@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=J5-5
+Removed Pin From Net: NetName=CAN H Pin=J5-6
+Removed Pin From Net: NetName=5KW SIGNAL IN Pin=J5-7
+Removed Pin From Net: NetName=CHAIN IN Pin=J5-8
+Removed Pin From Net: NetName=12V Pin=K1-2
+Removed Pin From Net: NetName=CHAIN IN Pin=K1-5
+Removed Pin From Net: NetName=CHAIN IN Pin=K1-6
+Removed Pin From Net: NetName=RELAY Pin=K1-9
+Removed Pin From Net: NetName=CHAIN OUT Pin=K1-10
+Change Component Footprint: Designator=K1 Old Footprint=G5V-1 New Footprint=G5V-2
+Change Component Comment : Designator=K1 Old Comment=G5V-1-DC12 New Comment=G5V-2-DC12
+Change Component Comment : Designator=J5 Old Comment=Microfit 3.0 2x4 New Comment=Microfit 3.0 2x6
+Added Pin To Net: NetName=GND Pin=J5-7
+Added Pin To Net: NetName=CAN H Pin=J5-8
+Added Pin To Net: NetName=12V Pin=K1-1
+Added Pin To Net: NetName=CHAIN IN Pin=K1-4
+Added Pin To Net: NetName=CHAIN OUT Pin=K1-8
+Added Pin To Net: NetName=RELAY Pin=K1-16
+Added Pin To Net: NetName=DETECTION IN Pin=K1-13
+Added Net: Name=DETECTION IN
+Added Pin To Net: NetName=DETECTION OUT Pin=J5-5
+Added Pin To Net: NetName=DETECTION OUT Pin=J5-6
+Added Pin To Net: NetName=DETECTION OUT Pin=K1-9
+Added Net: Name=DETECTION OUT

@@ -1,0 +1,13 @@
+Added Component: Designator=J5(Microfit_2X6_R_SMD)
+Added Member To Class: ClassName=SHDN-BSPD-S10-V00-Connectivity Member=Component J5 Microfit 3.0 2x6
+Added Room: Name=SHDN-BSPD-S01-V00-BSPDBoard
+Added Room: Name=SHDN-BSPD-S02-V00-BSPDSystem
+Added Room: Name=SHDN-BSPD-S03-V00-BSPDWindowComparitor1
+Added Room: Name=SHDN-BSPD-S03-V00-BSPDWindowComparitor2
+Added Room: Name=SHDN-BSPD-S04-V00-BSPDDelay
+Added Room: Name=SHDN-BSPD-S05-V00-Microcontroller
+Added Room: Name=SHDN-BSPD-S06-V00-IsolatedCAN
+Added Room: Name=SHDN-BSPD-S07-V00-PSU
+Added Room: Name=SHDN-BSPD-S08-V00-Buzzer
+Added Room: Name=SHDN-BSPD-S09-V00-ShutdownRelay
+Added Room: Name=SHDN-BSPD-S10-V00-Connectivity

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=CHAIN LED Pin=K1-6
+Added Net: Name=CHAIN LED
+Added Pin To Net: NetName=DET LED Pin=K1-11
+Added Net: Name=DET LED

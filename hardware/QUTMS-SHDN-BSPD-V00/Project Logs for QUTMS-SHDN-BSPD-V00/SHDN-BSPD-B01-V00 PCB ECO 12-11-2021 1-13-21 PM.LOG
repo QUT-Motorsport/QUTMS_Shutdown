@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=SHDN-BSPD-S10-V00-Connectivity Member=J?
+Change Component Footprint: Designator=J5 Old Footprint=Microfit_2X6_R_SMD New Footprint=Microfit_1X2_V_SMD
+Change Component Comment : Designator=J5 Old Comment=Microfit 3.0 2x6 New Comment=Microfit 3.0 1x2
+Added Component: Designator=J6(Microfit_2X5_R_SMD)
+Added Member To Class: ClassName=SHDN-BSPD-S10-V00-Connectivity Member=Component J6 Microfit 3.0 2x5

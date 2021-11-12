@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=J5 Old Footprint=Microfit_1X2_V_SMD New Footprint=Microfit_2X2_R_SMD
+Change Component Footprint: Designator=J6 Old Footprint=Microfit_2X5_R_SMD New Footprint=Microfit_2X4_R_TH
+Change Component Comment : Designator=J5 Old Comment=Microfit 3.0 1x2 New Comment=Microfit 3.0 2x2
+Change Component Comment : Designator=J6 Old Comment=Microfit 3.0 2x5 New Comment=Microfit 3.0 2x4
+Added Pin To Net: NetName=CHAIN LED Pin=J5-1
+Added Pin To Net: NetName=DETECTION OUT Pin=J5-2
+Added Pin To Net: NetName=DET LED Pin=J5-3
+Added Pin To Net: NetName=DETECTION IN Pin=J5-4
+Added Pin To Net: NetName=12V Pin=J6-1
+Added Pin To Net: NetName=CAN L Pin=J6-2
+Added Pin To Net: NetName=PEDAL IN Pin=J6-3
+Added Pin To Net: NetName=CHAIN OUT Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=CAN H Pin=J6-6
+Added Pin To Net: NetName=5KW SIGNAL IN Pin=J6-7
+Added Pin To Net: NetName=CHAIN IN Pin=J6-8

@@ -1,0 +1,4 @@
+Added Component: Designator=R30(Res_ThinFilm_0603)
+Added Pin To Net: NetName=BSPD10 Pin=R30-1
+Added Pin To Net: NetName=12V Pin=R30-2
+Added Member To Class: ClassName=SHDN-BSPD-S09-V00-ShutdownRelay Member=Component R30 750R 5% 0603

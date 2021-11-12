@@ -1,0 +1,7 @@
+Added Component: Designator=J5(Microfit_2X2_R_SMD)
+Added Component: Designator=J6(Microfit_2X4_R_SMD)
+Added Pin To Net: NetName=DETECTION OUT Pin=J5-2
+Added Pin To Net: NetName=DET LED Pin=J5-3
+Added Pin To Net: NetName=DETECTION IN Pin=J5-4
+Added Member To Class: ClassName=SHDN-BSPD-S10-V00-Connectivity Member=Component J5 Microfit 3.0 2x2
+Added Member To Class: ClassName=SHDN-BSPD-S10-V00-Connectivity Member=Component J6 Microfit 3.0 2x4

@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=SHDN-BSPD-S10-V00-Connectivity Member=J6
+Added Component: Designator=J?(Microfit_2X3_R_SMD)
+Added Pin To Net: NetName=CHAIN LED Pin=J5-1
+Added Member To Class: ClassName=SHDN-BSPD-S10-V00-Connectivity Member=Component J? Microfit 3.0 2x3
