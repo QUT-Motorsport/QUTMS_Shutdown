@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=CHAIN LED Pin=J5-1
+Removed Pin From Net: NetName=DET LED Pin=J5-3
+Removed Pin From Net: NetName=DETECTION IN Pin=J5-4
+Removed Member From Class: ClassName=SHDN-BSPD-S10-V00-Connectivity Member=J?
+Change Component Comment : Designator=J5 Old Comment=Microfit 3.0 2x2 New Comment=Microfit 3.0 2x4
+Added Component: Designator=J6(Microfit_2X4_R_SMD)
+Added Pin To Net: NetName=CHAIN OUT Pin=J5-1
+Added Member To Class: ClassName=SHDN-BSPD-S10-V00-Connectivity Member=Component J6 Microfit 3.0 2x4
+Added Room: Name=SHDN-BSPD-S01-V00-BSPDBoard
+Added Room: Name=SHDN-BSPD-S02-V00-BSPDSystem
+Added Room: Name=SHDN-BSPD-S03-V00-BSPDWindowComparitor1
+Added Room: Name=SHDN-BSPD-S03-V00-BSPDWindowComparitor2
+Added Room: Name=SHDN-BSPD-S04-V00-BSPDDelay
+Added Room: Name=SHDN-BSPD-S07-V00-PSU
+Added Room: Name=SHDN-BSPD-S09-V00-ShutdownRelay
+Added Room: Name=SHDN-BSPD-S10-V00-Connectivity

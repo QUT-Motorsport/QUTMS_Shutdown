@@ -1,0 +1,5 @@
+Added Component: Designator=J5(Microfit_2X4_R_SMD)
+Added Component: Designator=J6(Microfit_2X4_R_SMD)
+Added Member To Class: ClassName=SHDN-BSPD-S10-V00-Connectivity Member=Component J5 Microfit 3.0 2x4
+Added Member To Class: ClassName=SHDN-BSPD-S10-V00-Connectivity Member=Component J6 Microfit 3.0 2x4
+Added Room: Name=SHDN-BSPD-S10-V00-Connectivity
