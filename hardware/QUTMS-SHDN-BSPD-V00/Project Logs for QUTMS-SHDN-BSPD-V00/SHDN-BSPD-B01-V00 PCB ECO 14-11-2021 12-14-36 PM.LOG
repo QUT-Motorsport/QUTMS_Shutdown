@@ -1,0 +1,14 @@
+Added Component: Designator=J5(Microfit_2X4_R_TH)
+Added Component: Designator=J6(Microfit_2X4_R_TH)
+Added Pin To Net: NetName=CHAIN OUT Pin=J5-1
+Added Pin To Net: NetName=DETECTION OUT Pin=J5-2
+Added Pin To Net: NetName=CHAIN IN Pin=J5-5
+Added Pin To Net: NetName=DETECTION IN Pin=J5-6
+Added Pin To Net: NetName=12V Pin=J6-1
+Added Pin To Net: NetName=PEDAL IN Pin=J6-2
+Added Pin To Net: NetName=CHAIN LED Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=5KW SIGNAL IN Pin=J6-6
+Added Pin To Net: NetName=DET LED Pin=J6-7
+Added Member To Class: ClassName=SHDN-BSPD-S10-V00-Connectivity Member=Component J5 Microfit 3.0 2x4
+Added Member To Class: ClassName=SHDN-BSPD-S10-V00-Connectivity Member=Component J6 Microfit 3.0 2x4

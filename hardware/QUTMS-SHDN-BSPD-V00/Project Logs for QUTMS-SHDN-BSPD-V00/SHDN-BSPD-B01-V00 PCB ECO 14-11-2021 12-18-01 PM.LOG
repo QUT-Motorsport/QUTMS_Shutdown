@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J5 Old Footprint=Microfit_1X2_V_TH New Footprint=Microfit_1X2_R_TH
+Added Pin To Net: NetName=CHAIN LED Pin=J5-1
+Added Pin To Net: NetName=DET LED Pin=J5-2

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=CHAIN OUT Pin=J5-1
+Removed Pin From Net: NetName=DETECTION OUT Pin=J5-2
+Removed Pin From Net: NetName=CHAIN IN Pin=J5-5
+Removed Pin From Net: NetName=DETECTION IN Pin=J5-6
+Removed Pin From Net: NetName=CHAIN LED Pin=J6-3
+Removed Pin From Net: NetName=DET LED Pin=J6-7
+Removed Member From Class: ClassName=SHDN-BSPD-S10-V00-Connectivity Member=J?
+Change Component Footprint: Designator=J5 Old Footprint=Microfit_2X4_R_TH New Footprint=Microfit_1X2_R_SMD
+Change Component Comment : Designator=J5 Old Comment=Microfit 3.0 2x4 New Comment=Microfit 3.0 1x2
+Added Pin To Net: NetName=CHAIN OUT Pin=J6-3
+Added Pin To Net: NetName=DETECTION OUT Pin=J6-4
+Added Pin To Net: NetName=CHAIN IN Pin=J6-7
+Added Pin To Net: NetName=DETECTION IN Pin=J6-8

@@ -1095,23 +1095,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FCJVTNSG
 
 [Document63]
-DocumentPath=SHDN-BSPD-S10-V00-Connectivity.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document64]
 DocumentPath=SHDN-BSPD-B01-V00.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1129,70 +1112,74 @@ GenerateClassCluster=0
 DocumentUniqueId=KCLOYIIS
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.DRR
+DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\Design Rule Check - SHDN-BSPD-B01-V00.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.EXTREP
+DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GBL
+DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GBO
+DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GBS
+DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GKO
+DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GM1
+DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GM13
+DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GM15
+DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GM16
+DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GTL
+DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GTO
+DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GTS
+DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.LDP
+DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.REP
+DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.RUL
+DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.REP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
+DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
 DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.TXT
 DItemRevisionGUID=
 
@@ -1354,7 +1341,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=GP O123 Staff 15001
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
