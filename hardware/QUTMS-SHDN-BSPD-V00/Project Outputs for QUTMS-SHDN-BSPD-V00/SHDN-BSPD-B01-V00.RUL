@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: H:\Users\Documents\GitHub\QUTMS_Shutdown_2020\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.PcbDoc
+DRC Rules Export File for PCB: C:\JohnRepos\QUTMS_Shutdown\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00

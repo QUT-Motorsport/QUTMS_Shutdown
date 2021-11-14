@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\JohnRepos\QUTMS_Shutdown\hardware\QUTMS-SHDN-BSPD-V00\SHDN-BSPD-B01-V00.PcbDoc
 Date     : 14/11/2021
-Time     : 4:37:46 PM
+Time     : 4:39:54 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
    Violation between Clearance Constraint: (Collision < 0.203mm) Between Arc (106.68mm,59.182mm) on Keep-Out Layer And Pad FID3-1(106.68mm,59.182mm) on Bottom Layer 
