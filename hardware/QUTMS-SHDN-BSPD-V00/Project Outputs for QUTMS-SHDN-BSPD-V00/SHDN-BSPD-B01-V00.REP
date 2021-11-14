@@ -2,106 +2,87 @@
 FileName = SHDN-BSPD-B01-V00.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 16
-      File : SHDN-BSPD-B01-V00.GM16
+Generating : Top Pad Master
+      File : SHDN-BSPD-B01-V00.GPT
 
-    Adding Layer      : Mechanical 16
+    Adding Layer      : Top Layer
 
-
-Used DCodes :
-    D67
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : SHDN-BSPD-B01-V00.GM15
-
-    Adding Layer      : Mechanical 15
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D67
-    D68
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D61
+    D62
+    D63
+    D64
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 13
-      File : SHDN-BSPD-B01-V00.GM13
+Generating : Top Overlay
+      File : SHDN-BSPD-B01-V00.GTO
 
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D67
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : SHDN-BSPD-B01-V00.GM1
-
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
     D10
+    D11
+    D12
+    D13
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : SHDN-BSPD-B01-V00.GKO
+Generating : Top Paste
+      File : SHDN-BSPD-B01-V00.GTP
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Top Paste
 
-
-Used DCodes :
-    D69
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : SHDN-BSPD-B01-V00.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D66
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : SHDN-BSPD-B01-V00.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
     D33
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : SHDN-BSPD-B01-V00.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
 *************************************************************
 
 *************************************************************
@@ -145,90 +126,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : SHDN-BSPD-B01-V00.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : SHDN-BSPD-B01-V00.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : SHDN-BSPD-B01-V00.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D61
-    D62
-    D63
-    D64
-*************************************************************
-
-*************************************************************
 Generating : Bottom Pad Master
       File : SHDN-BSPD-B01-V00.GPB
 
@@ -243,6 +140,87 @@ Used DCodes :
     D62
     D63
     D64
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : SHDN-BSPD-B01-V00.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : SHDN-BSPD-B01-V00.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : SHDN-BSPD-B01-V00.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : SHDN-BSPD-B01-V00.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : SHDN-BSPD-B01-V00.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : SHDN-BSPD-B01-V00.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D67
 *************************************************************
 
 *************************************************************
@@ -302,5 +280,27 @@ Used DCodes :
     D63
     D64
     D65
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : SHDN-BSPD-B01-V00.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : SHDN-BSPD-B01-V00.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
 *************************************************************
 
