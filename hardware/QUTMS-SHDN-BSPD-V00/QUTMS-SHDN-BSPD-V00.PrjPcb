@@ -1111,6 +1111,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KCLOYIIS
 
+[Document64]
+DocumentPath=SHDN-BSPD-B01-V00.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for QUTMS-SHDN-BSPD-V00\Design Rule Check - SHDN-BSPD-B01-V00.html
 DItemRevisionGUID=
